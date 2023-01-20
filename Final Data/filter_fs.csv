@@ -1,0 +1,73 @@
+name,author_name,scale_x,bpm_x,scale_y,capo,chords,freq,bpm_y
+Perfect,Ed Sheeran,G#,95,G#,1st fret,"['G', 'Em', 'C', 'D', 'D/F#', 'G/B', 'Dsus4']","{'G': 30, 'Em': 23, 'C': 24, 'D': 26, 'D/F#': 2, 'G/B': 1, 'Dsus4': 1}",64 bpm
+Another Love,Tom Odell,Em,123,Em,no capo,"['C', 'Em', 'Am', 'Bm', 'G']","{'C': 28, 'Em': 44, 'Am': 16, 'Bm': 28, 'G': 12}",120 bpm
+Last Christmas,Wham!,D,108,D,no capo,"['D', 'Bm', 'Em', 'A']","{'D': 16, 'Bm': 15, 'Em': 17, 'A': 15}",107 bpm
+Until I Found You,Stephen Sanchez,A#,101,A#,3rd fret,"['G', 'Bm', 'C', 'D', 'G7', 'Cm']","{'G': 18, 'Bm': 13, 'C': 19, 'D': 11, 'G7': 3, 'Cm': 4}",67 bpm
+A Star Is Born - Shallow,Misc Soundtrack,G,100,G,no capo,"['Em', 'D', 'G', 'C', 'Am', 'Bm', 'A']","{'Em': 23, 'D': 39, 'G': 29, 'C': 9, 'Am': 8, 'Bm': 2, 'A': 2}",96 bpm
+Zombie,Gnarls Barkley,Em,92,Em,no capo,"['Em', 'C', 'G', 'D/F#']","{'Em': 22, 'C': 21, 'G': 16, 'D/F#': 16}",82 bpm
+Love Yourself,Justin Bieber,E,100,E,4th fret,"['C', 'G/B', 'Am', 'Dm', 'F', 'G']","{'C': 56, 'G/B': 20, 'Am': 28, 'Dm': 10, 'F': 18, 'G': 24}",100 bpm
+Heather,Conan Gray,F,102,F,5th fret,"['C', 'Em', 'Am', 'Fmaj7', 'Fm']","{'C': 9, 'Em': 9, 'Am': 9, 'Fmaj7': 9, 'Fm': 9}",92 bpm
+A Star Is Born - Always Remember Us This Way,Misc Soundtrack,C,130,C,no capo,"['Am', 'F', 'C', 'G', 'A#']","{'Am': 12, 'F': 23, 'C': 15, 'G': 20, 'A#': 4}",65 bpm
+No Surprises,Ed Sheeran,F,76,F,3rd fret,"['D', 'Gm', 'Gmaj7/B', 'Em', 'A', 'Asus4']","{'D': 14, 'Gm': 11, 'Gmaj7/B': 5, 'Em': 12, 'A': 13, 'Asus4': 11}",75 bpm
+Hey There Delilah,Sam Smith,D,104,D,no capo,"['D', 'F#m', 'Bm', 'G', 'A']","{'D': 33, 'F#m': 12, 'Bm': 31, 'G': 10, 'A': 20}",104 bpm
+Wagon Wheel,Darius Rucker,A,148,A,2nd fret,"['G', 'D', 'Em', 'C']","{'G': 45, 'D': 45, 'Em': 23, 'C': 45}",148 bpm
+Nothing Else Matters,d4vd,Em,142,Em,no capo,"['Em', 'D', 'C', 'G', 'B7', 'A']","{'Em': 32, 'D': 32, 'C': 32, 'G': 7, 'B7': 7, 'A': 11}",142 bpm
+Easy On Me,Cat Stevens,F,142,F,5th fret,"['C', 'Am7', 'Em', 'Fmaj7', 'G', 'F', 'Dm7', 'Dm']","{'C': 20, 'Am7': 14, 'Em': 14, 'Fmaj7': 17, 'G': 13, 'F': 1, 'Dm7': 2, 'Dm': 4}",80 bpm
+The A Team,Taylor Swift,A,85,A,2nd fret,"['G', 'D/F#', 'Em', 'C', 'Am']","{'G': 39, 'D/F#': 12, 'Em': 26, 'C': 33, 'Am': 9}",170 bpm
+Heart Of Gold,Ed Sheeran,Em,91,Em,no capo,"['Em7', 'D', 'Em', 'C', 'G']","{'Em7': 6, 'D': 21, 'Em': 26, 'C': 20, 'G': 25}",85 bpm
+I Wanna Be Yours,Taylor Swift,Cm,68,Cm,no capo,"['Cm', 'Fm', 'Gm', 'A#', 'G#']","{'Cm': 21, 'Fm': 16, 'Gm': 16, 'A#': 10, 'G#': 10}",68 bpm
+Drivers License,Olivia Rodrigo,A#,144,A#,3rd fret,"['G', 'Em', 'C', 'D', 'Bm7', 'C6', 'D/F#', 'Em7']","{'G': 22, 'Em': 10, 'C': 17, 'D': 12, 'Bm7': 3, 'C6': 3, 'D/F#': 1, 'Em7': 1}",72 bpm
+Three Little Birds,Bob Marley,A,74,A,no capo,"['A', 'D', 'E']","{'A': 31, 'D': 15, 'E': 6}",76 bpm
+Chasing Cars,Snow Patrol,A,104,A,no capo,"['A', 'E/G#', 'D', 'Dsus2', 'Dmaj7']","{'A': 30, 'E/G#': 15, 'D': 7, 'Dsus2': 1, 'Dmaj7': 8}",104 bpm
+Blowin In The Wind,Bob Dylan,D,175,D,7th fret,"['G', 'C', 'D']","{'G': 36, 'C': 33, 'D': 24}",175 bpm
+Brown Eyed Girl,Van Morrison,G,146,G,no capo,"['G', 'C', 'D', 'Em', 'D7']","{'G': 49, 'C': 27, 'D': 27, 'Em': 3, 'D7': 3}",151 bpm
+In The Stars,Benson Boone,A#,78,A#,3rd fret,"['G', 'D', 'Em', 'Bm', 'Am', 'C', 'B7', 'Cm']","{'G': 27, 'D': 15, 'Em': 21, 'Bm': 10, 'Am': 4, 'C': 12, 'B7': 3, 'Cm': 3}",78 bpm
+Wonderful Tonight,Eric Clapton,G,93,G,no capo,"['G', 'D/F#', 'C', 'D', 'Em']","{'G': 21, 'D/F#': 17, 'C': 21, 'D': 21, 'Em': 7}",96 bpm
+Santa Claus Is Coming To Town,Misc Christmas,G,82,G,no capo,"['G', 'C', 'Em', 'Am7', 'D7', 'G7', 'A7', 'D']","{'G': 14, 'C': 8, 'Em': 4, 'Am7': 4, 'D7': 4, 'G7': 2, 'A7': 2, 'D': 2}",140 bpm
+You Are The Reason,Calum Scott,A#,172,A#,3rd fret,"['G', 'Em', 'C', 'D', 'Cm']","{'G': 18, 'Em': 13, 'C': 17, 'D': 24, 'Cm': 3}",57 bpm
+Leaving On A Jet Plane,John Denver,G,121,G,no capo,"['D', 'G', 'C']","{'D': 13, 'G': 36, 'C': 36}",133 bpm
+Made You Look,Meghan Trainor,A#,145,A#,1st fret,"['A', 'C#/F', 'F#m', 'D', 'E', 'B']","{'A': 27, 'C#/F': 5, 'F#m': 7, 'D': 10, 'E': 10, 'B': 2}",NF
+Sweet Nothing,Taylor Swift,C,88,C,no capo,"['F', 'C/E', 'Dm7', 'C', 'G', 'Am', 'Em']","{'F': 21, 'C/E': 17, 'Dm7': 17, 'C': 21, 'G': 4, 'Am': 3, 'Em': 1}",112 bpm
+Ocean Eyes,Elvis Presley,Em,145,Em,no capo,"['C', 'Dsus2', 'Em', 'G', 'G/B']","{'C': 52, 'Dsus2': 33, 'Em': 33, 'G': 19, 'G/B': 19}",72 bpm
+Sign Of The Times,Harry Styles,F,120,F,no capo,"['F', 'Dm', 'C', 'C7', 'A#', 'Am', 'G', 'G7']","{'F': 23, 'Dm': 21, 'C': 22, 'C7': 10, 'A#': 5, 'Am': 1, 'G': 1, 'G7': 1}",62 bpm
+Clocks,Coldplay,Fm,131,Fm,1st fret,"['D', 'Am', 'Em', 'Em/G', 'Fmaj7', 'C', 'G']","{'D': 28, 'Am': 44, 'Em': 23, 'Em/G': 5, 'Fmaj7': 4, 'C': 3, 'G': 3}",131 bpm
+Sultans Of Swing,David Bowie,Dm,154,Dm,no capo,"['Dm', 'Dm/C', 'C', 'A#', 'A', 'F', 'A7']","{'Dm': 43, 'Dm/C': 2, 'C': 58, 'A#': 45, 'A': 16, 'F': 8, 'A7': 1}",150 bpm
+Drops Of Jupiter,Dire Straits,C,79,C,no capo,"['C', 'G', 'F', 'D', 'Dm', 'A#']","{'C': 18, 'G': 21, 'F': 24, 'D': 7, 'Dm': 3, 'A#': 2}",80 bpm
+The Boxer,Adele,B,93,B,no capo,"['C', 'C/B', 'Am', 'G', 'G7', 'G6', 'F', 'Em']","{'C': 40, 'C/B': 15, 'Am': 43, 'G': 31, 'G7': 13, 'G6': 6, 'F': 13, 'Em': 11}",93 bpm
+With Or Without You,The Beatles,D,107,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 31, 'A': 28, 'Bm': 28, 'G': 28}",110 bpm
+Circles,Morgan Wallen,C,102,C,no capo,"['Cmaj7', 'Fmaj7', 'Fm', 'C', 'F', 'C/B', 'Cmaj7/B']","{'Cmaj7': 21, 'Fmaj7': 13, 'Fm': 18, 'C': 8, 'F': 13, 'C/B': 3, 'Cmaj7/B': 1}",120 bpm
+Fairytale Of New York,Radiohead,D,101,D,no capo,"['D', 'G/D', 'A', 'Asus4/E', 'G', 'G/A', 'Asus4', 'Bm']","{'D': 69, 'G/D': 10, 'A': 34, 'Asus4/E': 4, 'G': 26, 'G/A': 5, 'Asus4': 1, 'Bm': 10}",NF
+You Are My Sunshine,Johnny Cash,A,90,A,no capo,"['A', 'D', 'E', 'A/D', 'A/C#']","{'A': 33, 'D': 12, 'E': 6, 'A/D': 1, 'A/C#': 1}",80 bpm
+Santa Tell Me,Ariana Grande,G,96,G,no capo,"['G', 'C', 'Em', 'D', 'Bm', 'D#', 'F#m']","{'G': 26, 'C': 25, 'Em': 14, 'D': 16, 'Bm': 2, 'D#': 1, 'F#m': 1}",NF
+The 30Th,Billie Eilish,G,83,G,no capo,"['G', 'D', 'Em', 'Am', 'C', 'Cm', 'B7']","{'G': 24, 'D': 17, 'Em': 23, 'Am': 8, 'C': 12, 'Cm': 3, 'B7': 7}",72 bpm
+Suspicious Minds,Elvis Presley,G,117,G,no capo,"['G', 'C', 'D', 'Bm', 'D7', 'Em', 'B7sus4', 'B7']","{'G': 18, 'C': 29, 'D': 13, 'Bm': 8, 'D7': 5, 'Em': 4, 'B7sus4': 1, 'B7': 1}",116 bpm
+Peaceful Easy Feeling,Eagles,E,143,E,2nd fret,"['D', 'Dsus4', 'G', 'A7', 'Em']","{'D': 47, 'Dsus4': 8, 'G': 41, 'A7': 24, 'Em': 13}",143 bpm
+Torn,Natalie Imbruglia,F,96,F,no capo,"['F', 'Fsus4', 'Fsus2', 'Am', 'A#', 'Dm', 'C']","{'F': 28, 'Fsus4': 1, 'Fsus2': 1, 'Am': 8, 'A#': 18, 'Dm': 18, 'C': 24}",96 bpm
+Summer Of 69,Bryan Adams,D,139,D,no capo,"['D', 'A', 'D', 'A', 'Bm', 'G', 'F', 'A#', 'C', 'A#/D']","{'D': 31, 'A': 30, 'Bm': 9, 'G': 6, 'F': 2, 'A#': 2, 'C': 2, 'A#/D': 1}",138 bpm
+Proud Mary,Creedence Clearwater Revival,D,121,D,no capo,"['C', 'A', 'G', 'F', 'F6', 'D', 'Bm']","{'C': 9, 'A': 14, 'G': 3, 'F': 9, 'F6': 3, 'D': 28, 'Bm': 5}",120 bpm
+I Love You,Billie Eilish,C,137,C,no capo,"['Fmaj7', 'Cadd9', 'C', 'Dm', 'G', 'Am']","{'Fmaj7': 18, 'Cadd9': 12, 'C': 6, 'Dm': 4, 'G': 4, 'Am': 3}",138 bpm
+Save Your Tears,The Weeknd,C,118,C,no capo,"['C', 'Am', 'Em', 'G', 'Dm', 'F', 'F/G']","{'C': 23, 'Am': 25, 'Em': 22, 'G': 23, 'Dm': 3, 'F': 3, 'F/G': 2}",118 bpm
+Black Panther Wakanda Forever - Lift Me Up,Misc Soundtrack,A,89,A,no capo,"['A', 'Bm', 'E7', 'F#m7']","{'A': 25, 'Bm': 17, 'E7': 17, 'F#m7': 5}",NF
+This Is The Life,Johnny Cash,C#m,94,C#m,4th fret,"['Am', 'F', 'C', 'Em']","{'Am': 21, 'F': 17, 'C': 17, 'Em': 17}",190 bpm
+Beautiful Crazy,Luke Combs,B,103,B,4th fret,"['G', 'D/F#', 'Em7', 'D', 'C', 'Am7', 'G/B']","{'G': 14, 'D/F#': 13, 'Em7': 10, 'D': 15, 'C': 10, 'Am7': 5, 'G/B': 4}",154 bpm
+The Times They Are A-Changin,Bob Dylan,G,172,G,no capo,"['D7', 'D6', 'G', 'Em', 'C', 'Am', 'D']","{'D7': 6, 'D6': 6, 'G': 40, 'Em': 10, 'C': 20, 'Am': 10, 'D': 25}",172 bpm
+Basket Case,Green Day,D#,88,D#,1st fret,"['E', 'A', 'D', 'G', 'B', 'Bm', 'F#m', 'C']","{'E': 1, 'A': 43, 'D': 41, 'G': 25, 'B': 1, 'Bm': 19, 'F#m': 6, 'C': 3}",NF
+Shape Of You,Ed Sheeran,C#m,96,C#m,2nd fret,"['Bm', 'Em', 'G', 'A']","{'Bm': 44, 'Em': 42, 'G': 42, 'A': 40}",96 bpm
+She Used To Be Mine,Sara Bareilles,F,136,F,no capo,"['F', 'C', 'Dm', 'A#', 'A7/C#', 'Dm/C']","{'F': 12, 'C': 7, 'Dm': 10, 'A#': 10, 'A7/C#': 3, 'Dm/C': 1}",130 bpm
+Wind Of Change,Scorpions,C,75,C,no capo,"['F', 'Dm', 'Am', 'G', 'C', 'E']","{'F': 14, 'Dm': 35, 'Am': 23, 'G': 40, 'C': 29, 'E': 4}",76 bpm
+Champagne Problems,Taylor Swift,C,171,C,no capo,"['C', 'G', 'Am', 'F']","{'C': 19, 'G': 19, 'Am': 19, 'F': 19}",85 bpm
+Lean On Me,The Beatles,C,75,C,no capo,"['C', 'F', 'Em', 'G9', 'G7', 'G']","{'C': 44, 'F': 14, 'Em': 7, 'G9': 1, 'G7': 11, 'G': 5}",75 bpm
+No Time To Die,Billie Eilish,Em,74,Em,no capo,"['Em', 'Cmaj7', 'Am', 'B7', 'A', 'Emmaj9']","{'Em': 26, 'Cmaj7': 27, 'Am': 25, 'B7': 11, 'A': 9, 'Emmaj9': 1}",75 bpm
+The Greatest Showman - Never Enough,Misc Christmas,G#,87,G#,1st fret,"['G', 'D', 'Em', 'C', 'Am', 'Cm']","{'G': 16, 'D': 13, 'Em': 11, 'C': 11, 'Am': 4, 'Cm': 1}",NF
+O Come All Ye Faithful,Misc Soundtrack,G,111,G,no capo,"['C', 'Am', 'D/C', 'G', 'D/G', 'D', 'Em', 'A']","{'C': 17, 'Am': 5, 'D/C': 1, 'G': 33, 'D/G': 1, 'D': 32, 'Em': 12, 'A': 4}",80 bpm
+All The Small Things,Blink-182,C,149,C,no capo,"['C', 'F', 'G']","{'C': 33, 'F': 26, 'G': 32}",148 bpm
+O Come To The Altar,Elevation Worship,B,140,B,4th fret,"['G', 'C/G', 'Em', 'Cadd9', 'Am7', 'C', 'Gsus4', 'Fmaj7']","{'G': 33, 'C/G': 13, 'Em': 16, 'Cadd9': 6, 'Am7': 9, 'C': 10, 'Gsus4': 2, 'Fmaj7': 1}",93 bpm
+I Want To Hold Your Hand,The Beatles,G,131,G,no capo,"['C', 'D', 'G', 'Em', 'B', 'B7', 'Dm7', 'Am']","{'C': 32, 'D': 27, 'G': 20, 'Em': 12, 'B': 4, 'B7': 5, 'Dm7': 4, 'Am': 2}",132 bpm
+She Will Be Loved,Maroon 5,Cm,102,Cm,3rd fret,"['Am', 'G', 'C', 'F']","{'Am': 37, 'G': 42, 'C': 13, 'F': 9}",102 bpm
+Arcade,Duncan Laurence,Am,72,Am,no capo,"['F', 'G', 'Em', 'Fmaj7', 'Am', 'Dm', 'C', 'C/E']","{'F': 40, 'G': 28, 'Em': 17, 'Fmaj7': 3, 'Am': 8, 'Dm': 3, 'C': 5, 'C/E': 1}",72 bpm
+Million Reasons,Foster the People,C,130,C,no capo,"['C', 'Am', 'F', 'G', 'Fsus2']","{'C': 19, 'Am': 18, 'F': 25, 'G': 21, 'Fsus2': 11}",65 bpm
+Holly Jolly Christmas,Wham!,C,140,C,no capo,"['C', 'G7', 'F', 'Em', 'Dm', 'Am', 'D7', 'G']","{'C': 8, 'G7': 5, 'F': 1, 'Em': 1, 'Dm': 2, 'Am': 2, 'D7': 3, 'G': 1}",140 bpm
+Lavender Haze,Ricky Montgomery,D#,118,D#,1st fret,"['D', 'E', 'Bm']","{'D': 20, 'E': 20, 'Bm': 24}",97 bpm
+Eye Of The Tiger,Survivor,Cm,109,Cm,3rd fret,"['Em7', 'G', 'Am', 'Em', 'F', 'Dm', 'C']","{'Em7': 4, 'G': 41, 'Am': 88, 'Em': 10, 'F': 21, 'Dm': 12, 'C': 6}",NF
+Dont Stop Believin,Journey,E,119,E,no capo,"['E', 'B', 'C#m', 'A', 'G#m']","{'E': 29, 'B': 23, 'C#m': 10, 'A': 29, 'G#m': 9}",120 bpm
+Fix You,Coldplay,D#,138,D#,3rd fret,"['C', 'Em', 'Am7', 'Em/G', 'F', 'G', 'Gsus4']","{'C': 36, 'Em': 16, 'Am7': 18, 'Em/G': 13, 'F': 17, 'G': 16, 'Gsus4': 9}",69 bpm

@@ -1,0 +1,592 @@
+Song_name,Scale,Capo,Chords,Frequency_map_of_each_chord,bpm
+Cant Help Falling In Love,D,2nd fret,"['C', 'G', 'Am', 'F', 'Em', 'B7', 'A7', 'Dm', 'D', 'F#m', 'Bm', 'A', 'C#7']","{'C': 23, 'G': 20, 'Am': 11, 'F': 16, 'Em': 14, 'B7': 8, 'A7': 3, 'Dm': 3, 'D': 1, 'F#m': 1, 'Bm': 1, 'A': 1, 'C#7': 1}",67 
+Perfect,G#,1st fret,"['G', 'Em', 'C', 'D', 'D/F#', 'G/B', 'Dsus4']","{'G': 30, 'Em': 23, 'C': 24, 'D': 26, 'D/F#': 2, 'G/B': 1, 'Dsus4': 1}",64 
+Hallelujah,C#,1st fret,"['C', 'Am', 'F', 'G', 'E7']","{'C': 41, 'Am': 38, 'F': 30, 'G': 28, 'E7': 5}",69 
+Another Love,Em,no capo,"['C', 'Em', 'Am', 'Bm', 'G']","{'C': 28, 'Em': 44, 'Am': 16, 'Bm': 28, 'G': 12}",120 
+Hotel California,Bm,2nd fret,"['Am', 'E7', 'G', 'D', 'F', 'C', 'Dm']","{'Am': 11, 'E7': 22, 'G': 9, 'D': 9, 'F': 13, 'C': 13, 'Dm': 11}",73 
+Yellow,G,4th fret,"['G', 'D', 'C', 'Cmaj7', 'Gsus4', 'Em7', 'Dm7']","{'G': 16, 'D': 16, 'C': 4, 'Cmaj7': 15, 'Gsus4': 4, 'Em7': 6, 'Dm7': 1}",86 
+Riptide,A#m,1st fret,"['Am', 'G', 'C', 'Fmaj7']","{'Am': 39, 'G': 39, 'C': 40, 'Fmaj7': 2}",102 
+Last Christmas,D,no capo,"['D', 'Bm', 'Em', 'A']","{'D': 16, 'Bm': 15, 'Em': 17, 'A': 15}",107 
+All I Want For Christmas Is You,G,no capo,"['G', 'Em', 'C', 'D', 'G/B', 'Cm/D#', 'B7', 'G/D', 'E7', 'Am7', 'Cm6/D', 'D#6', 'Cm6/D#', 'Am7/D']","{'G': 19, 'Em': 16, 'C': 8, 'D': 11, 'G/B': 2, 'Cm/D#': 2, 'B7': 6, 'G/D': 5, 'E7': 5, 'Am7': 13, 'Cm6/D': 2, 'D#6': 9, 'Cm6/D#': 2, 'Am7/D': 1}",150 
+Wonderwall,F#m,2nd fret,"['Em', 'G', 'D', 'A7sus4', 'C']","{'Em': 53, 'G': 33, 'D': 26, 'A7sus4': 19, 'C': 23}",87 
+Something In The Orange,G,no capo,"['Em', 'G', 'D/F#', 'Cadd9', 'D']","{'Em': 29, 'G': 28, 'D/F#': 12, 'Cadd9': 14, 'D': 15}",166 
+Take Me Home Country Roads,A,2nd fret,"['G', 'Em', 'D', 'C', 'F', 'D7']","{'G': 25, 'Em': 10, 'D': 17, 'C': 14, 'F': 1, 'D7': 1}",164 
+Let Her Go,Em,7th fret,"['G', 'F', 'Am', 'C', 'Em']","{'G': 37, 'F': 34, 'Am': 25, 'C': 18, 'Em': 6}",75 
+House Of The Rising Sun,Am,no capo,"['Am', 'C', 'D', 'F', 'E', 'C/E', 'E7', 'F7', 'Dm']","{'Am': 57, 'C': 28, 'D': 22, 'F': 21, 'E': 27, 'C/E': 1, 'E7': 2, 'F7': 1, 'Dm': 5}",234 
+Somewhere Only We Know,C,no capo,"['C', 'Em', 'Dm', 'G', 'F', 'Am']","{'C': 15, 'Em': 17, 'Dm': 21, 'G': 20, 'F': 16, 'Am': 6}",86 
+Until I Found You,A#,3rd fret,"['G', 'Bm', 'C', 'D', 'G7', 'Cm']","{'G': 18, 'Bm': 13, 'C': 19, 'D': 11, 'G7': 3, 'Cm': 4}",67 
+When I Was Your Man,C,no capo,"['D7', 'Dm7', 'C', 'G/B', 'Am', 'Dm', 'G', 'G7', 'Em/B', 'Em', 'A#', 'C/G', 'F', 'Fm', 'Em/G']","{'D7': 7, 'Dm7': 3, 'C': 22, 'G/B': 2, 'Am': 10, 'Dm': 4, 'G': 17, 'G7': 2, 'Em/B': 5, 'Em': 2, 'A#': 2, 'C/G': 2, 'F': 15, 'Fm': 4, 'Em/G': 1}",73 
+A Star Is Born - Shallow,G,no capo,"['Em', 'D', 'G', 'C', 'Am', 'Bm', 'A']","{'Em': 23, 'D': 39, 'G': 29, 'C': 9, 'Am': 8, 'Bm': 2, 'A': 2}",96 
+Tv,G,no capo,"['G', 'D/F#', 'Em', 'C', 'D']","{'G': 14, 'D/F#': 9, 'Em': 39, 'C': 30, 'D': 35}",70 
+Fly Me To The Moon,Am,no capo,"['Am', 'Dm7', 'G7', 'Cmaj7', 'F', 'Dm', 'E7', 'A7', 'C', 'E', 'Fm', 'Em', 'G']","{'Am': 11, 'Dm7': 13, 'G7': 13, 'Cmaj7': 4, 'F': 4, 'Dm': 4, 'E7': 3, 'A7': 4, 'C': 7, 'E': 4, 'Fm': 1, 'Em': 1, 'G': 1}",NF
+Anti-Hero,E,no capo,"['A', 'E', 'B', 'C#m']","{'A': 39, 'E': 39, 'B': 39, 'C#m': 39}",97 
+Zombie,Em,no capo,"['Em', 'C', 'G', 'D/F#']","{'Em': 22, 'C': 21, 'G': 16, 'D/F#': 16}",82 
+Iris,Bm,no capo,"['A', 'Bm', 'Bm/A', 'G', 'F#m', 'Bsus2', 'D', 'Em']","{'A': 26, 'Bm': 49, 'Bm/A': 13, 'G': 62, 'F#m': 4, 'Bsus2': 5, 'D': 10, 'Em': 6}",154 
+Glimpse Of Us,Fm,1st fret,"['Am', 'D7', 'G', 'Em', 'D/F#', 'Em7', 'E7']","{'Am': 24, 'D7': 24, 'G': 19, 'Em': 16, 'D/F#': 11, 'Em7': 1, 'E7': 1}",57 
+Yesterday,F,no capo,"['F', 'Em7', 'A7', 'Dm', 'Dm/C', 'A#', 'C7', 'F/E', 'G7', 'Gm', 'C']","{'F': 22, 'Em7': 8, 'A7': 8, 'Dm': 13, 'Dm/C': 8, 'A#': 13, 'C7': 4, 'F/E': 4, 'G7': 5, 'Gm': 4, 'C': 4}",97 
+All Of Me,Em,1st fret,"['Em', 'C', 'G', 'D', 'Cmaj7', 'Cadd9', 'Amadd9', 'Am', 'Emadd9', 'Am/C', 'C/D', 'Dadd9']","{'Em': 17, 'C': 14, 'G': 29, 'D': 23, 'Cmaj7': 2, 'Cadd9': 1, 'Amadd9': 4, 'Am': 6, 'Emadd9': 6, 'Am/C': 6, 'C/D': 6, 'Dadd9': 6}",126 
+Just The Two Of Us,G,1st fret,"['Cmaj7', 'B7', 'Em7', 'D#m7', 'G7', 'Dm7', 'A#maj7', 'A7', 'G#maj7', 'F13']","{'Cmaj7': 33, 'B7': 31, 'Em7': 29, 'D#m7': 7, 'G7': 17, 'Dm7': 14, 'A#maj7': 2, 'A7': 2, 'G#maj7': 2, 'F13': 2}",NF
+Jingle Bell Rock,D,no capo,"['D', 'Dmaj7', 'D6', 'Em', 'A7', 'A', 'G', 'Gm', 'D7', 'E', 'E7', 'B7']","{'D': 17, 'Dmaj7': 5, 'D6': 5, 'Em': 16, 'A7': 15, 'A': 11, 'G': 4, 'Gm': 6, 'D7': 2, 'E': 2, 'E7': 4, 'B7': 2}",NF
+Thinking Out Loud,D,2nd fret,"['C', 'C/E', 'F', 'G', 'Dm', 'Am']","{'C': 39, 'C/E': 37, 'F': 37, 'G': 50, 'Dm': 13, 'Am': 7}",75 
+Jolene,C#m,4th fret,"['Am', 'C', 'G', 'Em']","{'Am': 37, 'C': 12, 'G': 24, 'Em': 9}",110 
+Jingle Bells,G,no capo,"['G', 'C', 'Am', 'D7', 'D', 'A7']","{'G': 43, 'C': 24, 'Am': 8, 'D7': 20, 'D': 4, 'A7': 4}",104 
+Boulevard Of Broken Dreams,Fm,1st fret,"['Em', 'G', 'D', 'A', 'C', 'B7', 'B', 'A/C#', 'D#5']","{'Em': 44, 'G': 42, 'D': 38, 'A': 22, 'C': 20, 'B7': 4, 'B': 1, 'A/C#': 4, 'D#5': 4}",83 
+Hurt,Am,no capo,"['Am', 'C', 'D', 'G', 'F']","{'Am': 31, 'C': 24, 'D': 20, 'G': 16, 'F': 10}",90 
+Imagine,C,no capo,"['C', 'Cmaj7', 'F', 'Cadd9', 'Am/E', 'Dm7', 'F/C', 'G', 'C/G', 'G7', 'E', 'E7']","{'C': 29, 'Cmaj7': 24, 'F': 29, 'Cadd9': 3, 'Am/E': 3, 'Dm7': 3, 'F/C': 3, 'G': 11, 'C/G': 3, 'G7': 3, 'E': 6, 'E7': 6}",76 
+Youre On Your Own Kid,D,2nd fret,"['C', 'Em', 'F', 'Am', 'G/B', 'Fsus2', 'G', 'Am7', 'Am7/E']","{'C': 20, 'Em': 6, 'F': 7, 'Am': 3, 'G/B': 3, 'Fsus2': 17, 'G': 18, 'Am7': 7, 'Am7/E': 5}",120 
+Whats Up,A,2nd fret,"['G', 'Am', 'C']","{'G': 39, 'Am': 20, 'C': 19}",67 
+Photograph,E,2nd fret,"['D', 'Bm', 'A', 'G']","{'D': 17, 'Bm': 16, 'A': 16, 'G': 17}",108 
+Happier Than Ever,C,no capo,"['G', 'G6', 'G7', 'C', 'C/G', 'E7', 'Am', 'Am/E', 'Dm7b5', 'Cadd9', 'Dm7', 'Am/G', 'D/F#', 'F', 'Fm']","{'G': 4, 'G6': 1, 'G7': 2, 'C': 20, 'C/G': 2, 'E7': 21, 'Am': 22, 'Am/E': 2, 'Dm7b5': 3, 'Cadd9': 3, 'Dm7': 4, 'Am/G': 1, 'D/F#': 1, 'F': 14, 'Fm': 4}",91 
+Wicked Game,Bm,no capo,"['Bm', 'A', 'E']","{'Bm': 20, 'A': 20, 'E': 20}",112 
+Your Song,D#,1st fret,"['D', 'G', 'A', 'F#m', 'Bm', 'Em7', 'Bm/A', 'Bm/G#', 'A/C#', 'Gmaj7', 'F#', 'Em', 'G6', 'D/F#', 'G/D', 'A/D']","{'D': 20, 'G': 16, 'A': 11, 'F#m': 5, 'Bm': 16, 'Em7': 7, 'Bm/A': 8, 'Bm/G#': 8, 'A/C#': 9, 'Gmaj7': 8, 'F#': 4, 'Em': 5, 'G6': 3, 'D/F#': 2, 'G/D': 2, 'A/D': 1}",64 
+Silent Night,G,no capo,"['G', 'D', 'D7', 'C', 'Em']","{'G': 27, 'D': 12, 'D7': 7, 'C': 7, 'Em': 4}",84 
+Love Yourself,E,4th fret,"['C', 'G/B', 'Am', 'Dm', 'F', 'G']","{'C': 56, 'G/B': 20, 'Am': 28, 'Dm': 10, 'F': 18, 'G': 24}",100 
+As It Was,A,2nd fret,"['Am', 'D', 'G', 'C']","{'Am': 14, 'D': 14, 'G': 14, 'C': 12}",174 
+All Of Me,Fm,1st fret,"['Em', 'C', 'G', 'D', 'Am', 'C/D']","{'Em': 23, 'C': 17, 'G': 29, 'D': 29, 'Am': 15, 'C/D': 6}",126 
+Sweet Child O Mine,D,no capo,"['D', 'C', 'G', 'A', 'Em', 'B7', 'Am', 'E']","{'D': 51, 'C': 39, 'G': 38, 'A': 20, 'Em': 17, 'B7': 4, 'Am': 5, 'E': 1}",125 
+Heather,F,5th fret,"['C', 'Em', 'Am', 'Fmaj7', 'Fm']","{'C': 9, 'Em': 9, 'Am': 9, 'Fmaj7': 9, 'Fm': 9}",92 
+Wouldve Couldve Shouldve,C,no capo,"['Am', 'Em', 'G', 'D', 'C']","{'Am': 39, 'Em': 13, 'G': 39, 'D': 41, 'C': 28}",79 
+Stand By Me,A,2nd fret,"['G', 'Em', 'C', 'D']","{'G': 36, 'Em': 18, 'C': 9, 'D': 9}",120 
+Space Oddity,C,no capo,"['Fmaj7', 'Em', 'C', 'Am', 'Am/G', 'D7/F#', 'E7', 'F', 'Fm', 'E', 'A#', 'G', 'A', 'D', 'C/G']","{'Fmaj7': 10, 'Em': 14, 'C': 20, 'Am': 5, 'Am/G': 2, 'D7/F#': 3, 'E7': 3, 'F': 15, 'Fm': 6, 'E': 3, 'A#': 2, 'G': 8, 'A': 10, 'D': 2, 'C/G': 1}",68 
+A Star Is Born - Always Remember Us This Way,C,no capo,"['Am', 'F', 'C', 'G', 'A#']","{'Am': 12, 'F': 23, 'C': 15, 'G': 20, 'A#': 4}",65 
+Snowman,C#,1st fret,"['B', 'G', 'A', 'C', 'Dm', 'Am', 'E7', 'F', 'E']","{'B': 1, 'G': 9, 'A': 1, 'C': 17, 'Dm': 4, 'Am': 16, 'E7': 10, 'F': 10, 'E': 2}",70 
+Golden Hour,E,no capo,"['F#m7', 'E7', 'A7', 'G#m7', 'Em']","{'F#m7': 5, 'E7': 14, 'A7': 12, 'G#m7': 2, 'Em': 2}",NF
+Aint No Sunshine,Am,no capo,"['Am', 'Em', 'G', 'Dm']","{'Am': 31, 'Em': 16, 'G': 13, 'Dm': 3}",77 
+Hallelujah,C,5th fret,"['G', 'Em', 'C', 'D', 'B7']","{'G': 27, 'Em': 23, 'C': 26, 'D': 26, 'B7': 4}",57 
+No Surprises,F,3rd fret,"['D', 'Gm', 'Gmaj7/B', 'Em', 'A', 'Asus4']","{'D': 14, 'Gm': 11, 'Gmaj7/B': 5, 'Em': 12, 'A': 13, 'Asus4': 11}",75 
+All I Want,C,no capo,"['C', 'F', 'G/B', 'Am', 'G', 'Dm']","{'C': 36, 'F': 23, 'G/B': 6, 'Am': 14, 'G': 13, 'Dm': 2}",125 
+Happy Xmas War Is Over,G,no capo,"['A', 'Bm', 'E', 'D', 'Em', 'G']","{'A': 17, 'Bm': 4, 'E': 7, 'D': 9, 'Em': 6, 'G': 6}",147 
+Im Not The Only One,F,no capo,"['F', 'A', 'Dm', 'A#', 'C', 'A#/C']","{'F': 47, 'A': 28, 'Dm': 28, 'A#': 32, 'C': 14, 'A#/C': 1}",84 
+Hey There Delilah,D,no capo,"['D', 'F#m', 'Bm', 'G', 'A']","{'D': 33, 'F#m': 12, 'Bm': 31, 'G': 10, 'A': 20}",104 
+Back To Black,Dm,no capo,"['Dm', 'Gm', 'A#', 'A', 'A#maj7', 'F', 'A7']","{'Dm': 16, 'Gm': 12, 'A#': 12, 'A': 14, 'A#maj7': 2, 'F': 2, 'A7': 1}",123 
+American Pie,G,no capo,"['G', 'D/F#', 'Em7', 'Am', 'C', 'Em', 'D', 'G/B', 'Am7', 'D7', 'A7', 'Cm']","{'G': 78, 'D/F#': 20, 'Em7': 2, 'Am': 23, 'C': 64, 'Em': 54, 'D': 48, 'G/B': 6, 'Am7': 6, 'D7': 18, 'A7': 13, 'Cm': 1}",136 
+Wagon Wheel,A,2nd fret,"['G', 'D', 'Em', 'C']","{'G': 45, 'D': 45, 'Em': 23, 'C': 45}",148 
+Landslide,D#,3rd fret,"['G', 'C', 'G/B', 'Am7', 'Am', 'D7/F#', 'D/F#', 'Em']","{'G': 5, 'C': 29, 'G/B': 52, 'Am7': 27, 'Am': 3, 'D7/F#': 8, 'D/F#': 3, 'Em': 4}",80 
+I Will Follow You Into The Dark,Am,5th fret,"['Am', 'C', 'F', 'G/B', 'G', 'E', 'Am/G', 'Fm', 'C/G', 'Am/E']","{'Am': 18, 'C': 23, 'F': 16, 'G/B': 5, 'G': 10, 'E': 4, 'Am/G': 4, 'Fm': 5, 'C/G': 10, 'Am/E': 6}",155 
+505,Em,no capo,"['Dm', 'Em']","{'Dm': 34, 'Em': 34}",140 
+Talking To The Moon,C,4th fret,"['C', 'E7', 'Am', 'G', 'F', 'Dm', 'G/B', 'D']","{'C': 12, 'E7': 5, 'Am': 15, 'G': 27, 'F': 16, 'Dm': 8, 'G/B': 3, 'D': 2}",73 
+Let It Be,C,no capo,"['C', 'G', 'Am', 'Fmaj7', 'F6', 'F', 'C/E', 'Dm7', 'Am/G', 'A#', 'F/A']","{'C': 49, 'G': 32, 'Am': 15, 'Fmaj7': 7, 'F6': 7, 'F': 27, 'C/E': 16, 'Dm7': 16, 'Am/G': 6, 'A#': 2, 'F/A': 2}",76 
+Here With Me,E,no capo,"['E', 'G#7', 'C#m', 'Bm7', 'Amaj7', 'F#m7', 'B7', 'A', 'G#m', 'B']","{'E': 19, 'G#7': 23, 'C#m': 13, 'Bm7': 11, 'Amaj7': 11, 'F#m7': 11, 'B7': 17, 'A': 8, 'G#m': 2, 'B': 4}",65 
+Nothing Else Matters,Em,no capo,"['Em', 'D', 'C', 'G', 'B7', 'A']","{'Em': 32, 'D': 32, 'C': 32, 'G': 7, 'B7': 7, 'A': 11}",142 
+Father And Son,G,no capo,"['G', 'D/F#', 'C', 'Am7', 'Em', 'Am', 'D', 'C/G', 'Bm', 'G/D']","{'G': 31, 'D/F#': 2, 'C': 15, 'Am7': 19, 'Em': 12, 'Am': 10, 'D': 21, 'C/G': 2, 'Bm': 4, 'G/D': 1}",67 
+Easy On Me,F,5th fret,"['C', 'Am7', 'Em', 'Fmaj7', 'G', 'F', 'Dm7', 'Dm']","{'C': 20, 'Am7': 14, 'Em': 14, 'Fmaj7': 17, 'G': 13, 'F': 1, 'Dm7': 2, 'Dm': 4}",80 
+Fade Into You,A,no capo,"['A', 'E', 'Bm', 'D']","{'A': 31, 'E': 31, 'Bm': 31, 'D': 4}",157 
+Karma Police,Am,no capo,"['Am', 'D/F#', 'Em', 'G', 'F', 'D', 'C', 'Em/B', 'Bm', 'F#7', 'E7']","{'Am': 16, 'D/F#': 8, 'Em': 8, 'G': 30, 'F': 4, 'D': 34, 'C': 12, 'Em/B': 4, 'Bm': 14, 'F#7': 4, 'E7': 12}",75 
+Let It Snow,C#,no capo,"['C', 'G7', 'D#dim', 'G', 'Dm', 'A7', 'Am', 'D7', 'D', 'Fdim', 'A', 'Em', 'B7', 'Bm', 'E7', 'E', 'Gdim', 'B', 'F#m', 'C#7', 'C#m', 'F#7', 'F', 'C7', 'G#dim', 'Gm', 'A#dim', 'Cdim']","{'C': 27, 'G7': 10, 'D#dim': 4, 'G': 27, 'Dm': 9, 'A7': 15, 'Am': 9, 'D7': 15, 'D': 27, 'Fdim': 4, 'A': 27, 'Em': 9, 'B7': 15, 'Bm': 9, 'E7': 15, 'E': 27, 'Gdim': 4, 'B': 11, 'F#m': 9, 'C#7': 5, 'C#m': 1, 'F#7': 7, 'F': 16, 'C7': 8, 'G#dim': 4, 'Gm': 8, 'A#dim': 4, 'Cdim': 4}",NF
+A Thousand Years,A#,3rd fret,"['G', 'Em7', 'Cadd9', 'D', 'Am']","{'G': 12, 'Em7': 17, 'Cadd9': 14, 'D': 21, 'Am': 4}",139 
+Cardigan,D#,1st fret,"['Em', 'A', 'G', 'D', 'Bm']","{'Em': 7, 'A': 32, 'G': 26, 'D': 12, 'Bm': 7}",65 
+The A Team,A,2nd fret,"['G', 'D/F#', 'Em', 'C', 'Am']","{'G': 39, 'D/F#': 12, 'Em': 26, 'C': 33, 'Am': 9}",170 
+Heart Of Gold,Em,no capo,"['Em7', 'D', 'Em', 'C', 'G']","{'Em7': 6, 'D': 21, 'Em': 26, 'C': 20, 'G': 25}",85 
+The Night We Met,F#m,2nd fret,"['Em', 'D', 'G', 'C']","{'Em': 25, 'D': 8, 'G': 25, 'C': 17}",58 
+Frozen - Let It Go,G,1st fret,"['Em', 'C', 'D', 'Asus4', 'Am', 'A', 'Cadd9', 'G', 'D/F#', 'Em7', 'Bm7', 'A#', 'Cm']","{'Em': 7, 'C': 13, 'D': 12, 'Asus4': 4, 'Am': 4, 'A': 3, 'Cadd9': 12, 'G': 10, 'D/F#': 10, 'Em7': 9, 'Bm7': 3, 'A#': 3, 'Cm': 1}",68 
+How Deep Is Your Love,D#,1st fret,"['D', 'Dmaj7', 'Gmaj7', 'G/A', 'F#m7', 'Em7', 'B7', 'F#7', 'Bm7', 'C9', 'Gm6', 'Am/C']","{'D': 23, 'Dmaj7': 7, 'Gmaj7': 10, 'G/A': 13, 'F#m7': 13, 'Em7': 17, 'B7': 8, 'F#7': 3, 'Bm7': 3, 'C9': 3, 'Gm6': 10, 'Am/C': 5}",105 
+What A Wonderful World,F,5th fret,"['C', 'Em', 'F', 'Dm', 'E7', 'Am', 'G#', 'Dm7', 'G', 'A#7', 'A7', 'Fmaj7']","{'C': 13, 'Em': 9, 'F': 4, 'Dm': 4, 'E7': 3, 'Am': 5, 'G#': 3, 'Dm7': 4, 'G': 8, 'A#7': 1, 'A7': 1, 'Fmaj7': 1}",72 
+The Winner Takes It All,F#,no capo,"['G', 'B7', 'Em', 'E7/G#', 'Am', 'D', 'D/F#', 'Am/E', 'E/G#']","{'G': 22, 'B7': 11, 'Em': 17, 'E7/G#': 9, 'Am': 11, 'D': 19, 'D/F#': 8, 'Am/E': 8, 'E/G#': 3}",125 
+Vienna,A#,no capo,"['Gm', 'A#', 'F', 'G#', 'D#', 'C', 'D9sus', 'D', 'Am', 'Dm/A', 'A#/F', 'Am7', 'D7', 'Gm7', 'C7', 'F#7', 'G7']","{'Gm': 9, 'A#': 19, 'F': 14, 'G#': 5, 'D#': 13, 'C': 2, 'D9sus': 5, 'D': 5, 'Am': 3, 'Dm/A': 4, 'A#/F': 4, 'Am7': 4, 'D7': 4, 'Gm7': 4, 'C7': 4, 'F#7': 5, 'G7': 1}",63 
+I Wanna Be Yours,Cm,no capo,"['Cm', 'Fm', 'Gm', 'A#', 'G#']","{'Cm': 21, 'Fm': 16, 'Gm': 16, 'A#': 10, 'G#': 10}",68 
+The Scientist,Dm,3rd fret,"['Bm7', 'G', 'D', 'Dsus2', 'A/D', 'D6/9', 'A/E', 'Asus4', 'A', 'Dmaj7', 'Dsus2/C#']","{'Bm7': 13, 'G': 19, 'D': 24, 'Dsus2': 12, 'A/D': 3, 'D6/9': 3, 'A/E': 3, 'Asus4': 3, 'A': 3, 'Dmaj7': 2, 'Dsus2/C#': 2}",73 
+Something In The Way,Fm,1st fret,"['Em', 'C/G']","{'Em': 45, 'C/G': 45}",102 
+Jersey Giant ,G,no capo,"['G', 'D', 'Am', 'C']","{'G': 19, 'D': 20, 'Am': 23, 'C': 22}",190 
+Drivers License,A#,3rd fret,"['G', 'Em', 'C', 'D', 'Bm7', 'C6', 'D/F#', 'Em7']","{'G': 22, 'Em': 10, 'C': 17, 'D': 12, 'Bm7': 3, 'C6': 3, 'D/F#': 1, 'Em7': 1}",72 
+Three Little Birds,A,no capo,"['A', 'D', 'E']","{'A': 31, 'D': 15, 'E': 6}",76 
+Chasing Cars,A,no capo,"['A', 'E/G#', 'D', 'Dsus2', 'Dmaj7']","{'A': 30, 'E/G#': 15, 'D': 7, 'Dsus2': 1, 'Dmaj7': 8}",104 
+Californication,Am,no capo,"['Am', 'F', 'C', 'G', 'Dm', 'Fmaj7', 'F#m', 'D', 'Bm', 'A', 'E']","{'Am': 44, 'F': 25, 'C': 17, 'G': 17, 'Dm': 17, 'Fmaj7': 18, 'F#m': 4, 'D': 8, 'Bm': 4, 'A': 4, 'E': 4}",96 
+Wake Me Up,Bm,no capo,"['Bm', 'G', 'D', 'A', 'F#']","{'Bm': 38, 'G': 38, 'D': 38, 'A': 38, 'F#': 1}",124 
+Blowin In The Wind,D,7th fret,"['G', 'C', 'D']","{'G': 36, 'C': 33, 'D': 24}",175 
+SomD#ody That I Used To Know,Dm,5th fret,"['Am', 'G', 'F']","{'Am': 79, 'G': 112, 'F': 29}",129 
+Fast Car,D,2nd fret,"['Cmaj7', 'G', 'Em', 'D', 'C']","{'Cmaj7': 36, 'G': 39, 'Em': 59, 'D': 41, 'C': 24}",NF
+Layla,Dm,no capo,"['Dm', 'A#', 'C', 'A', 'C#m7', 'G#7', 'D', 'E', 'E7', 'F#m', 'B']","{'Dm': 49, 'A#': 26, 'C': 32, 'A': 9, 'C#m7': 6, 'G#7': 3, 'D': 3, 'E': 9, 'E7': 3, 'F#m': 6, 'B': 6}",94 
+Forget Me,B,4th fret,"['F', 'Am', 'G', 'Dm']","{'F': 18, 'Am': 23, 'G': 25, 'Dm': 3}",102 
+Piano Man,C,no capo,"['C', 'G', 'F', 'D7', 'Am', 'G7', 'A', 'E', 'D', 'B7', 'E7', 'F#m']","{'C': 76, 'G': 61, 'F': 52, 'D7': 19, 'Am': 7, 'G7': 4, 'A': 1, 'E': 1, 'D': 1, 'B7': 1, 'E7': 1, 'F#m': 1}",NF
+Brown Eyed Girl,G,no capo,"['G', 'C', 'D', 'Em', 'D7']","{'G': 49, 'C': 27, 'D': 27, 'Em': 3, 'D7': 3}",151 
+Slipping Through My Fingers,F#,3rd fret,"['G', 'Gm', 'D', 'F#m', 'A', 'A/C#', 'F#', 'D/F#', 'Asus4', 'Dsus4', 'Em']","{'G': 31, 'Gm': 8, 'D': 39, 'F#m': 14, 'A': 12, 'A/C#': 4, 'F#': 3, 'D/F#': 3, 'Asus4': 8, 'Dsus4': 2, 'Em': 6}",68 
+Counting Stars,Am,4th fret,"['Am', 'C', 'G', 'F', 'Dm']","{'Am': 28, 'C': 27, 'G': 27, 'F': 33, 'Dm': 1}",122 
+Redemption Song,G,no capo,"['G', 'Em', 'Em7', 'C', 'G/B', 'Am', 'Am7', 'D', 'C/B', 'Am6']","{'G': 26, 'Em': 21, 'Em7': 6, 'C': 35, 'G/B': 9, 'Am': 8, 'Am7': 3, 'D': 27, 'C/B': 1, 'Am6': 1}",116 
+Winter Wonderland,C,no capo,"['C', 'G7', 'G', 'F', 'Em', 'Dm', 'Am', 'E', 'A', 'D7']","{'C': 12, 'G7': 12, 'G': 12, 'F': 4, 'Em': 4, 'Dm': 4, 'Am': 6, 'E': 8, 'A': 4, 'D7': 2}",111 
+In The Stars,A#,3rd fret,"['G', 'D', 'Em', 'Bm', 'Am', 'C', 'B7', 'Cm']","{'G': 27, 'D': 15, 'Em': 21, 'Bm': 10, 'Am': 4, 'C': 12, 'B7': 3, 'Cm': 3}",78 
+Do I Wanna Know ,Gm,3rd fret,"['B', 'D', 'Em', 'C', 'Am']","{'B': 3, 'D': 2, 'Em': 35, 'C': 20, 'Am': 21}",86 
+Dancing On My Own,C,1st fret,"['C', 'G', 'F', 'Am']","{'C': 18, 'G': 29, 'F': 30, 'Am': 14}",110 
+Wonderful Tonight,G,no capo,"['G', 'D/F#', 'C', 'D', 'Em']","{'G': 21, 'D/F#': 17, 'C': 21, 'D': 21, 'Em': 7}",96 
+Snap,Am,no capo,"['Am', 'F', 'C', 'G', 'G/B']","{'Am': 25, 'F': 29, 'C': 27, 'G': 11, 'G/B': 18}",85 
+Tears In Heaven,A,no capo,"['A', 'E/G#', 'F#m', 'A/E', 'D/F#', 'E7sus4', 'E7', 'E', 'C#/E#', 'A7/E', 'F#7', 'Bm7', 'Bm7/E', 'E7sus', 'C', 'G/B', 'Am', 'G', 'Em']","{'A': 22, 'E/G#': 6, 'F#m': 16, 'A/E': 18, 'D/F#': 16, 'E7sus4': 3, 'E7': 5, 'E': 13, 'C#/E#': 4, 'A7/E': 4, 'F#7': 4, 'Bm7': 5, 'Bm7/E': 5, 'E7sus': 1, 'C': 2, 'G/B': 2, 'Am': 2, 'G': 3, 'Em': 1}",80 
+A Horse With No Name,Em,no capo,"['Em', 'D6/9', 'Em9', 'Dmaj9']","{'Em': 24, 'D6/9': 24, 'Em9': 24, 'Dmaj9': 24}",123 
+Happy Birthday,C#,1st fret,"['C', 'G7', 'F']","{'C': 5, 'G7': 3, 'F': 1}",90 
+Sweet Home AlG#ama,G,no capo,"['D', 'Cadd9', 'G', 'F', 'C']","{'D': 52, 'Cadd9': 51, 'G': 51, 'F': 3, 'C': 3}",98 
+Goodness Of God,G,1st fret,"['G', 'Gsus4', 'C', 'D/F#', 'Em', 'D', 'G/B']","{'G': 50, 'Gsus4': 2, 'C': 51, 'D/F#': 9, 'Em': 16, 'D': 35, 'G/B': 14}",NF
+Folsom Prison Blues,E,1st fret,"['E', 'E7', 'A', 'B7']","{'E': 22, 'E7': 8, 'A': 8, 'B7': 8}",200 
+Rocket Man,Gm,3rd fret,"['Em7', 'A9', 'C', 'G/B', 'Am', 'Am/G', 'D/F#', 'D', 'D/A', 'G']","{'Em7': 8, 'A9': 12, 'C': 22, 'G/B': 7, 'Am': 4, 'Am/G': 4, 'D/F#': 4, 'D': 4, 'D/A': 3, 'G': 15}",69 
+Dreams,F,no capo,"['Fmaj7', 'F', 'G', 'G6', 'Am']","{'Fmaj7': 30, 'F': 33, 'G': 49, 'G6': 13, 'Am': 1}",120 
+If I Aint Got You,G,no capo,"['Cmaj7', 'Bm7', 'Am7', 'Gmaj7', 'A#m7', 'G#maj7', 'Em7', 'D9', 'G#dim7', 'Cmaj9', 'C#maj7', 'D']","{'Cmaj7': 7, 'Bm7': 24, 'Am7': 34, 'Gmaj7': 28, 'A#m7': 5, 'G#maj7': 4, 'Em7': 2, 'D9': 4, 'G#dim7': 2, 'Cmaj9': 5, 'C#maj7': 2, 'D': 1}",118 
+In My Life,A,no capo,"['A', 'E', 'F#m', 'A7/G', 'D', 'Dm', 'G', 'B', 'E7']","{'A': 23, 'E': 10, 'F#m': 12, 'A7/G': 6, 'D': 9, 'Dm': 10, 'G': 3, 'B': 3, 'E7': 1}",104 
+Joy To The World,G,no capo,"['G', 'D', 'C']","{'G': 28, 'D': 16, 'C': 8}",100 
+Purple Rain,A#,3rd fret,"['G', 'Em', 'D', 'C']","{'G': 18, 'Em': 12, 'D': 12, 'C': 9}",57 
+Yellow,B,no capo,"['B', 'Badd11', 'F#', 'E', 'G#m', 'B7sus4', 'F#m']","{'B': 21, 'Badd11': 2, 'F#': 15, 'E': 18, 'G#m': 7, 'B7sus4': 2, 'F#m': 1}",87 
+Dust In The Wind,C,no capo,"['C', 'Cmaj7', 'Cadd9', 'Asus2', 'Asus4', 'Am', 'G/B', 'G', 'Dm7', 'D']","{'C': 12, 'Cmaj7': 4, 'Cadd9': 6, 'Asus2': 6, 'Asus4': 4, 'Am': 26, 'G/B': 6, 'G': 14, 'Dm7': 6, 'D': 8}",94 
+Santa Claus Is Coming To Town,G,no capo,"['G', 'C', 'Em', 'Am7', 'D7', 'G7', 'A7', 'D']","{'G': 14, 'C': 8, 'Em': 4, 'Am7': 4, 'D7': 4, 'G7': 2, 'A7': 2, 'D': 2}",140 
+You Are The Reason,A#,3rd fret,"['G', 'Em', 'C', 'D', 'Cm']","{'G': 18, 'Em': 13, 'C': 17, 'D': 24, 'Cm': 3}",57 
+Leaving On A Jet Plane,G,no capo,"['D', 'G', 'C']","{'D': 13, 'G': 36, 'C': 36}",133 
+Stay With Me,Am,no capo,"['Am7', 'F', 'C', 'Gsus', 'Am', 'G', 'G#dim']","{'Am7': 10, 'F': 28, 'C': 30, 'Gsus': 2, 'Am': 20, 'G': 5, 'G#dim': 5}",85 
+Africa,B,no capo,"['B/F#', 'A/E', 'A', 'G#m', 'C#m', 'B', 'D#m', 'Bsus/F#', 'F#m', 'D', 'E', 'E/G#', 'D#7']","{'B/F#': 7, 'A/E': 7, 'A': 38, 'G#m': 32, 'C#m': 23, 'B': 9, 'D#m': 8, 'Bsus/F#': 5, 'F#m': 19, 'D': 16, 'E': 16, 'E/G#': 3, 'D#7': 1}",92 
+Wellerman,Am,3rd fret,"['Am', 'Dm', 'E', 'F', 'C', 'G']","{'Am': 38, 'Dm': 14, 'E': 12, 'F': 14, 'C': 14, 'G': 1}",95 
+Made You Look,A#,1st fret,"['A', 'C#/F', 'F#m', 'D', 'E', 'B']","{'A': 27, 'C#/F': 5, 'F#m': 7, 'D': 10, 'E': 10, 'B': 2}",NF
+Sweet Nothing,C,no capo,"['F', 'C/E', 'Dm7', 'C', 'G', 'Am', 'Em']","{'F': 21, 'C/E': 17, 'Dm7': 17, 'C': 21, 'G': 4, 'Am': 3, 'Em': 1}",112 
+The Scientist,Dm,5th fret,"['Am7', 'F', 'C', 'C/B', 'D', 'A', 'C6', 'G']","{'Am7': 16, 'F': 22, 'C': 35, 'C/B': 14, 'D': 1, 'A': 1, 'C6': 2, 'G': 2}",73 
+Feathered Indians,Key Not Find,5th fret,"['D', 'A', 'G', 'A7', 'Bm']","{'D': 12, 'A': 16, 'G': 28, 'A7': 8, 'Bm': 5}",168 
+A Star Is Born - Shallow,Em,no capo,"['Em7', 'D/F#', 'G', 'C', 'Cadd9', 'D', 'Am', 'Em', 'Bm', 'A', 'Am/G']","{'Em7': 13, 'D/F#': 21, 'G': 30, 'C': 10, 'Cadd9': 2, 'D': 22, 'Am': 9, 'Em': 10, 'Bm': 3, 'A': 3, 'Am/G': 5}",96 
+Careless Whisper,Dm,no capo,"['Dm7', 'Gm7', 'A#maj7', 'Am7']","{'Dm7': 22, 'Gm7': 22, 'A#maj7': 22, 'Am7': 22}",NF
+Dont Stop Me Now,F,no capo,"['F', 'Am', 'Dm', 'Gm', 'C', 'F7', 'A#', 'D7', 'C7', 'Gm7', 'D#', 'F/G', 'Dm7/C', 'F/A', 'Bdim', 'G#6/A#']","{'F': 25, 'Am': 13, 'Dm': 13, 'Gm': 31, 'C': 23, 'F7': 6, 'A#': 9, 'D7': 10, 'C7': 3, 'Gm7': 17, 'D#': 1, 'F/G': 2, 'Dm7/C': 2, 'F/A': 3, 'Bdim': 3, 'G#6/A#': 2}",156 
+Patience,C,no capo,"['C', 'G', 'A', 'D', 'Em', 'Dsus2', 'Dsus4', 'D/F#', 'F']","{'C': 27, 'G': 31, 'A': 6, 'D': 88, 'Em': 7, 'Dsus2': 38, 'Dsus4': 19, 'D/F#': 2, 'F': 1}",60 
+Burn Burn Burn,Key Not Find,3rd fret,"['C', 'Am', 'G', 'F']","{'C': 45, 'Am': 21, 'G': 21, 'F': 12}",165 
+Romantic Homicide,F#,6th fret,"['Fmaj7', 'Cmaj7']","{'Fmaj7': 8, 'Cmaj7': 8}",66 
+Believer,A#m,1st fret,"['Am', 'F', 'E', 'E/G#', 'G', 'E7', 'E7/G#']","{'Am': 24, 'F': 25, 'E': 18, 'E/G#': 3, 'G': 1, 'E7': 3, 'E7/G#': 1}",63 
+Hey Jude,F,no capo,"['F', 'C', 'F/C', 'C7', 'C7sus4', 'A#', 'Fmaj7', 'F7', 'A#/A', 'Gm', 'A#/F', 'C/E', 'D#']","{'F': 28, 'C': 16, 'F/C': 4, 'C7': 12, 'C7sus4': 4, 'A#': 10, 'Fmaj7': 4, 'F7': 6, 'A#/A': 4, 'Gm': 4, 'A#/F': 4, 'C/E': 4, 'D#': 2}",75 
+Dont Stop Believin,E,no capo,"['E', 'B', 'C#m', 'A', 'G#m']","{'E': 29, 'B': 23, 'C#m': 10, 'A': 29, 'G#m': 9}",120 
+Im Still Standing,Am,no capo,"['Am', 'Dm/A', 'E/A', 'F/A', 'G/A', 'A', 'D/A', 'Bm7/A', 'E', 'F#m', 'D', 'Bm/A', 'Am7', 'Em/G', 'Dm7', 'Fmaj7', 'G', 'E7', 'F/E', 'G/E']","{'Am': 14, 'Dm/A': 2, 'E/A': 6, 'F/A': 2, 'G/A': 2, 'A': 15, 'D/A': 8, 'Bm7/A': 7, 'E': 4, 'F#m': 4, 'D': 4, 'Bm/A': 1, 'Am7': 6, 'Em/G': 6, 'Dm7': 12, 'Fmaj7': 3, 'G': 3, 'E7': 9, 'F/E': 3, 'G/E': 3}",NF
+Yesterday,F,5th fret,"['C', 'Bm7', 'E7', 'Am', 'G', 'F', 'C/B', 'D7', 'Bm', 'Dm6', 'G7', 'Dm']","{'C': 18, 'Bm7': 4, 'E7': 8, 'Am': 13, 'G': 14, 'F': 13, 'C/B': 4, 'D7': 5, 'Bm': 4, 'Dm6': 2, 'G7': 2, 'Dm': 2}",96 
+Wonderwall,F#m,2nd fret,"['Em7', 'G', 'Dsus4', 'A7sus4', 'Cadd9', 'C', 'D', 'Em', 'G/F#']","{'Em7': 48, 'G': 33, 'Dsus4': 13, 'A7sus4': 15, 'Cadd9': 18, 'C': 6, 'D': 6, 'Em': 4, 'G/F#': 2}",88 
+Reckless Love,Em,no capo,"['Em', 'D', 'C', 'G']","{'Em': 36, 'D': 36, 'C': 36, 'G': 28}",111 
+Blue Christmas,E,no capo,"['E', 'B', 'B7', 'E7', 'A', 'F#', 'D', 'A7', 'D7', 'G']","{'E': 14, 'B': 4, 'B7': 7, 'E7': 3, 'A': 7, 'F#': 3, 'D': 11, 'A7': 7, 'D7': 3, 'G': 3}",NF
+Ocean Eyes,Em,no capo,"['C', 'Dsus2', 'Em', 'G', 'G/B']","{'C': 52, 'Dsus2': 33, 'Em': 33, 'G': 19, 'G/B': 19}",72 
+How Do I Say GooC#ye ,G#,no capo,"['G', 'C', 'Em7', 'Am7', 'F', 'Dm', 'Am', 'Gadd11', 'E']","{'G': 44, 'C': 43, 'Em7': 8, 'Am7': 4, 'F': 30, 'Dm': 9, 'Am': 31, 'Gadd11': 2, 'E': 2}",NF
+Wonderwall,F#m,no capo,"['F#m7', 'A', 'Esus4', 'B7sus4', 'D', 'F#m']","{'F#m7': 54, 'A': 38, 'Esus4': 26, 'B7sus4': 18, 'D': 27, 'F#m': 7}",87 
+The Man Who Sold The World,A,no capo,"['A', 'Dm', 'F', 'C', 'C#']","{'A': 9, 'Dm': 4, 'F': 11, 'C': 8, 'C#': 6}",115 
+Mad World,Fm,1st fret,"['Em', 'A', 'G', 'D']","{'Em': 24, 'A': 24, 'G': 8, 'D': 8}",87 
+Sweet Caroline,A,2nd fret,"['E', 'A', 'D', 'A6', 'C#', 'F#', 'C#m', 'Bm']","{'E': 23, 'A': 17, 'D': 29, 'A6': 2, 'C#': 7, 'F#': 7, 'C#m': 2, 'Bm': 2}",127 
+Sign Of The Times,F,no capo,"['F', 'Dm', 'C', 'C7', 'A#', 'Am', 'G', 'G7']","{'F': 23, 'Dm': 21, 'C': 22, 'C7': 10, 'A#': 5, 'Am': 1, 'G': 1, 'G7': 1}",62 
+Mistletoe,G,2nd fret,"['G', 'D', 'Em', 'C']","{'G': 15, 'D': 15, 'Em': 15, 'C': 15}",81 
+Clocks,Fm,1st fret,"['D', 'Am', 'Em', 'Em/G', 'Fmaj7', 'C', 'G']","{'D': 28, 'Am': 44, 'Em': 23, 'Em/G': 5, 'Fmaj7': 4, 'C': 3, 'G': 3}",131 
+GooC#ye Yellow Brick Road,F,no capo,"['C#', 'D#', 'F', 'C', 'Dm', 'A#', 'C/E', 'Dm/C', 'A#/C', 'Gm', 'G#', 'A#m', 'C7', 'A7', 'D7', 'A']","{'C#': 13, 'D#': 11, 'F': 27, 'C': 17, 'Dm': 6, 'A#': 12, 'C/E': 3, 'Dm/C': 3, 'A#/C': 3, 'Gm': 6, 'G#': 4, 'A#m': 4, 'C7': 2, 'A7': 2, 'D7': 2, 'A': 2}",60 
+Toy Story - Youve Got A Friend In Me,D#,3rd fret,"['C', 'E7', 'Am', 'G#7', 'G', 'Gaug', 'C9', 'C7', 'F', 'F#dim7', 'D7', 'A7', 'B', 'B7', 'Em', 'Dm']","{'C': 31, 'E7': 10, 'Am': 10, 'G#7': 3, 'G': 11, 'Gaug': 5, 'C9': 1, 'C7': 7, 'F': 11, 'F#dim7': 4, 'D7': 7, 'A7': 5, 'B': 2, 'B7': 2, 'Em': 1, 'Dm': 1}",116 
+How To Save A Life,G,3rd fret,"['G', 'D/F#', 'Bm', 'Em', 'D', 'C']","{'G': 39, 'D/F#': 42, 'Bm': 2, 'Em': 26, 'D': 31, 'C': 12}",122 
+The Scientist,Bm,3rd fret,"['Bm7', 'Dm7', 'G', 'A#', 'Gadd9', 'A#add9', 'A', 'C', 'A7', 'C7', 'D6sus2', 'D', 'Dsus2', 'DadC#6', 'Dmaj7']","{'Bm7': 17, 'Dm7': 1, 'G': 23, 'A#': 1, 'Gadd9': 16, 'A#add9': 1, 'A': 3, 'C': 1, 'A7': 3, 'C7': 1, 'D6sus2': 2, 'D': 29, 'Dsus2': 18, 'DadC#6': 1, 'Dmaj7': 1}",75 
+Starman,F,no capo,"['A#/A', 'Fmaj7', 'Gm', 'F', 'C', 'C7', 'G#', 'A#', 'A', 'G', 'Dm', 'Am', 'Am7/G', 'A#m', 'D7']","{'A#/A': 2, 'Fmaj7': 2, 'Gm': 7, 'F': 28, 'C': 20, 'C7': 10, 'G#': 2, 'A#': 12, 'A': 2, 'G': 2, 'Dm': 6, 'Am': 6, 'Am7/G': 6, 'A#m': 3, 'D7': 3}",96 
+Sultans Of Swing,Dm,no capo,"['Dm', 'Dm/C', 'C', 'A#', 'A', 'F', 'A7']","{'Dm': 43, 'Dm/C': 2, 'C': 58, 'A#': 45, 'A': 16, 'F': 8, 'A7': 1}",150 
+Drops Of Jupiter,C,no capo,"['C', 'G', 'F', 'D', 'Dm', 'A#']","{'C': 18, 'G': 21, 'F': 24, 'D': 7, 'Dm': 3, 'A#': 2}",80 
+Someone Like You,A,no capo,"['A', 'A/G#', 'F#m', 'D', 'E9', 'E9/D', 'E', 'E/B', 'F#m/C#', 'Bm', 'A/C#', 'E/D', 'E/G#']","{'A': 25, 'A/G#': 6, 'F#m': 28, 'D': 32, 'E9': 4, 'E9/D': 2, 'E': 15, 'E/B': 1, 'F#m/C#': 1, 'Bm': 1, 'A/C#': 1, 'E/D': 1, 'E/G#': 3}",67 
+The Boxer,B,no capo,"['C', 'C/B', 'Am', 'G', 'G7', 'G6', 'F', 'Em']","{'C': 40, 'C/B': 15, 'Am': 43, 'G': 31, 'G7': 13, 'G6': 6, 'F': 13, 'Em': 11}",93 
+Summertime Sadness,F,4th fret,"['F', 'Am', 'G', 'Dm']","{'F': 29, 'Am': 28, 'G': 30, 'Dm': 26}",112 
+Blackbird,G,no capo,"['G', 'Am7', 'G/B', 'C', 'D', 'Dadd4', 'D#(b5)', 'Em', 'Cm', 'A7', 'F', 'Fadd9', 'Dm', 'Dmadd4', 'Gm/A#', 'C#dim', 'D#aug', 'C#dim', 'C/D']","{'G': 23, 'Am7': 8, 'G/B': 16, 'C': 19, 'D': 9, 'Dadd4': 1, 'D#(b5)': 5, 'Em': 9, 'Cm': 5, 'A7': 11, 'F': 5, 'Fadd9': 1, 'Dm': 5, 'Dmadd4': 1, 'Gm/A#': 5, 'C#dim': 4, 'D#aug': 4, 'C#dim': 4, 'C/D': 10}",NF
+With Or Without You,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 31, 'A': 28, 'Bm': 28, 'G': 28}",110 
+Golden Hour,Key Not Find,no capo,"['A', 'E', 'F#m', 'Amaj7', 'E/G#', 'Emaj7', 'G#m', 'G#m/G', 'G#', 'Am', 'E7', 'G#m7', 'G', 'Bm', 'F#7']","{'A': 1, 'E': 2, 'F#m': 8, 'Amaj7': 14, 'E/G#': 2, 'Emaj7': 11, 'G#m': 3, 'G#m/G': 2, 'G#': 2, 'Am': 7, 'E7': 3, 'G#m7': 1, 'G': 1, 'Bm': 1, 'F#7': 1}",188 
+The Christmas Song,C,1st fret,"['Cmaj7', 'Dm7', 'Em7', 'Gm7', 'C7', 'Fmaj7', 'E7', 'Am', 'Fm6', 'C', 'B7', 'Emaj7', 'Fm7', 'G', 'G7', 'Em', 'A7', 'Gm', 'A#7', 'D#', 'D7', 'Gsus4']","{'Cmaj7': 6, 'Dm7': 9, 'Em7': 4, 'Gm7': 3, 'C7': 6, 'Fmaj7': 5, 'E7': 3, 'Am': 3, 'Fm6': 3, 'C': 5, 'B7': 3, 'Emaj7': 1, 'Fm7': 2, 'G': 2, 'G7': 3, 'Em': 1, 'A7': 2, 'Gm': 2, 'A#7': 1, 'D#': 1, 'D7': 1, 'Gsus4': 1}",NF
+Sittin On The Dock Of The Bay,G,no capo,"['G', 'B7', 'C', 'A', 'E', 'D', 'F']","{'G': 26, 'B7': 6, 'C': 9, 'A': 9, 'E': 10, 'D': 4, 'F': 1}",NF
+Across The Universe,C#,no capo,"['D', 'F#m', 'A', 'Bm', 'Em7', 'A7', 'Gm', 'A7sus4', 'G']","{'D': 18, 'F#m': 7, 'A': 11, 'Bm': 6, 'Em7': 6, 'A7': 10, 'Gm': 2, 'A7sus4': 3, 'G': 6}",76 
+Circles,C,no capo,"['Cmaj7', 'Fmaj7', 'Fm', 'C', 'F', 'C/B', 'Cmaj7/B']","{'Cmaj7': 21, 'Fmaj7': 13, 'Fm': 18, 'C': 8, 'F': 13, 'C/B': 3, 'Cmaj7/B': 1}",120 
+Beggin,Bm,no capo,"['Bm', 'G', 'C#m7', 'F#7']","{'Bm': 29, 'G': 25, 'C#m7': 25, 'F#7': 25}",134 
+Otherside,Am,no capo,"['Am', 'F', 'C', 'G', 'Em', 'A']","{'Am': 29, 'F': 16, 'C': 20, 'G': 24, 'Em': 16, 'A': 8}",122 
+This Town,C,2nd fret,"['G', 'Em7', 'Cadd9', 'D', 'Am7', 'G/F#', 'C', 'Em', 'D/F#']","{'G': 23, 'Em7': 20, 'Cadd9': 16, 'D': 16, 'Am7': 4, 'G/F#': 4, 'C': 1, 'Em': 3, 'D/F#': 1}",112 
+The Greatest Showman - A Million Dreams,G,no capo,"['G', 'D/F#', 'Em', 'C', 'D', 'Am', 'Em7', 'B', 'A']","{'G': 23, 'D/F#': 26, 'Em': 14, 'C': 30, 'D': 9, 'Am': 7, 'Em7': 2, 'B': 3, 'A': 2}",74 
+My Sweet Lord,F#m,2nd fret,"['Em', 'A', 'D', 'Bm', 'F#dim', 'B7', 'D7', 'G#dim', 'C#7', 'F#m', 'B', 'E', 'C#m']","{'Em': 17, 'A': 17, 'D': 11, 'Bm': 7, 'F#dim': 4, 'B7': 5, 'D7': 2, 'G#dim': 5, 'C#7': 5, 'F#m': 33, 'B': 33, 'E': 11, 'C#m': 7}",121 
+Im Only Sleeping,Key Not Find,no capo,"['Em', 'Am', 'G', 'C', 'B7', 'Am7', 'Bm7', 'Cmaj7', 'E', 'B', 'Fmaj7', 'E7', 'Am7/G']","{'Em': 11, 'Am': 11, 'G': 26, 'C': 12, 'B7': 4, 'Am7': 11, 'Bm7': 4, 'Cmaj7': 4, 'E': 6, 'B': 4, 'Fmaj7': 4, 'E7': 2, 'Am7/G': 2}",NF
+Crazy Little Thing Called Love,D,no capo,"['D', 'Dsus4', 'G', 'C', 'G/B', 'A#', 'E7', 'A7', 'F7', 'D5', 'C#5', 'C5', 'A5', 'G#5', 'G5', 'A', 'F#', 'E']","{'D': 25, 'Dsus4': 1, 'G': 12, 'C': 18, 'G/B': 8, 'A#': 14, 'E7': 14, 'A7': 4, 'F7': 2, 'D5': 2, 'C#5': 2, 'C5': 2, 'A5': 2, 'G#5': 2, 'G5': 2, 'A': 2, 'F#': 1, 'E': 1}",154 
+Hit The Road Jack,Am,no capo,"['Am', 'G', 'F', 'E7']","{'Am': 42, 'G': 42, 'F': 42, 'E7': 42}",173 
+10000 Reasons Bless The Lord,G,no capo,"['C', 'G', 'D/F#', 'Em', 'Dsus4', 'D', 'C/G', 'C2', 'Gsus4']","{'C': 33, 'G': 33, 'D/F#': 5, 'Em': 23, 'Dsus4': 8, 'D': 27, 'C/G': 3, 'C2': 3, 'Gsus4': 3}",72 
+Funeral,B,4th fret,"['G', 'C', 'Em', 'D']","{'G': 43, 'C': 35, 'Em': 17, 'D': 25}",172 
+Count On Me,C,no capo,"['C', 'Em', 'Am', 'G', 'F', 'Dm']","{'C': 15, 'Em': 17, 'Am': 14, 'G': 19, 'F': 16, 'Dm': 4}",178 
+Set Fire To The Rain,Am,5th fret,"['Am', 'C', 'G', 'Dm', 'F', 'Am/B', 'G/A', 'C/E', 'Em']","{'Am': 29, 'C': 7, 'G': 32, 'Dm': 19, 'F': 12, 'Am/B': 5, 'G/A': 5, 'C/E': 2, 'Em': 2}",108 
+Take On Me ,Bm,2nd fret,"['Am', 'D', 'G', 'C', 'C/B', 'Em', 'Bm', 'F', 'Cadd9']","{'Am': 19, 'D': 36, 'G': 26, 'C': 26, 'C/B': 9, 'Em': 20, 'Bm': 2, 'F': 2, 'Cadd9': 1}",64 
+That Funny Feeling,E,2nd fret,"['D', 'G', 'Em', 'A', 'Bm', 'C']","{'D': 31, 'G': 30, 'Em': 20, 'A': 10, 'Bm': 16, 'C': 4}",150 
+Mastermind,E,4th fret,"['C', 'F', 'Am', 'G', 'C/B', 'Em']","{'C': 21, 'F': 23, 'Am': 9, 'G': 10, 'C/B': 3, 'Em': 1}",126 
+Castle On The Hill,D,no capo,"['D', 'G', 'Bm', 'D/F#', 'A', 'A7sus4', 'Bm7#5']","{'D': 42, 'G': 45, 'Bm': 34, 'D/F#': 28, 'A': 17, 'A7sus4': 24, 'Bm7#5': 1}",145 
+Fairytale Of New York,D,no capo,"['D', 'G/D', 'A', 'Asus4/E', 'G', 'G/A', 'Asus4', 'Bm']","{'D': 69, 'G/D': 10, 'A': 34, 'Asus4/E': 4, 'G': 26, 'G/A': 5, 'Asus4': 1, 'Bm': 10}",NF
+Accidentally In Love,Key Not Find,no capo,"['G', 'C', 'D', 'Em', 'A', 'Am']","{'G': 31, 'C': 36, 'D': 23, 'Em': 16, 'A': 7, 'Am': 13}",138 
+You Are My Sunshine,A,no capo,"['A', 'D', 'E', 'A/D', 'A/C#']","{'A': 33, 'D': 12, 'E': 6, 'A/D': 1, 'A/C#': 1}",80 
+Santa Tell Me,G,no capo,"['G', 'C', 'Em', 'D', 'Bm', 'D#', 'F#m']","{'G': 26, 'C': 25, 'Em': 14, 'D': 16, 'Bm': 2, 'D#': 1, 'F#m': 1}",NF
+The 30Th,G,no capo,"['G', 'D', 'Em', 'Am', 'C', 'Cm', 'B7']","{'G': 24, 'D': 17, 'Em': 23, 'Am': 8, 'C': 12, 'Cm': 3, 'B7': 7}",72 
+Suspicious Minds,G,no capo,"['G', 'C', 'D', 'Bm', 'D7', 'Em', 'B7sus4', 'B7']","{'G': 18, 'C': 29, 'D': 13, 'Bm': 8, 'D7': 5, 'Em': 4, 'B7sus4': 1, 'B7': 1}",116 
+Peaceful Easy Feeling,E,2nd fret,"['D', 'Dsus4', 'G', 'A7', 'Em']","{'D': 47, 'Dsus4': 8, 'G': 41, 'A7': 24, 'Em': 13}",143 
+Stitches,A#m,1st fret,"['Am', 'G', 'C', 'F']","{'Am': 30, 'G': 32, 'C': 26, 'F': 29}",150 
+Numb,F#m,2nd fret,"['Em', 'C', 'G', 'D', 'D/F#', 'Bm7', 'B', 'Bsus4']","{'Em': 19, 'C': 21, 'G': 19, 'D': 22, 'D/F#': 1, 'Bm7': 1, 'B': 1, 'Bsus4': 1}",110 
+I Dont Want To Miss A Thing,D,no capo,"['D', 'A', 'Bm', 'G', 'Em', 'F#m', 'C', 'A#', 'F', 'Dm']","{'D': 22, 'A': 26, 'Bm': 4, 'G': 16, 'Em': 13, 'F#m': 1, 'C': 2, 'A#': 1, 'F': 1, 'Dm': 1}",60 
+Moon River,G,no capo,"['G', 'Em', 'C', 'Am', 'B7', 'G7', 'Cm', 'Em7', 'A7', 'D7']","{'G': 19, 'Em': 9, 'C': 12, 'Am': 7, 'B7': 3, 'G7': 2, 'Cm': 5, 'Em7': 4, 'A7': 2, 'D7': 4}",80 
+No Se Va,Key Not Find,no capo,"['F', 'Am', 'C', 'G']","{'F': 16, 'Am': 19, 'C': 16, 'G': 16}",NF
+Complicated,Dm,no capo,"['Dm', 'A#', 'F', 'C', 'Gm']","{'Dm': 25, 'A#': 32, 'F': 23, 'C': 25, 'Gm': 4}",78 
+Can You Feel The Love Tonight,A#,3rd fret,"['G', 'D/F#', 'C/E', 'G/D', 'C', 'G/B', 'Am7', 'D', 'Em', 'F', 'A/C#', 'Am', 'C/D', 'C/G']","{'G': 20, 'D/F#': 8, 'C/E': 2, 'G/D': 7, 'C': 34, 'G/B': 19, 'Am7': 3, 'D': 10, 'Em': 11, 'F': 2, 'A/C#': 6, 'Am': 6, 'C/D': 3, 'C/G': 3}",62 
+Skyfall,Cm,3rd fret,"['Am', 'Am/G', 'F', 'F/E', 'E', 'Esus', 'D', 'D/C', 'Dm', 'Dm7/A', 'Asus2/C', 'Bm7b5', 'Esus/B', 'E/C', 'Asus2']","{'Am': 23, 'Am/G': 9, 'F': 22, 'F/E': 10, 'E': 13, 'Esus': 8, 'D': 23, 'D/C': 8, 'Dm': 13, 'Dm7/A': 2, 'Asus2/C': 6, 'Bm7b5': 9, 'Esus/B': 2, 'E/C': 1, 'Asus2': 1}",75 
+Cant Take My Eyes Off You,C#,1st fret,"['C', 'Cmaj7', 'C7', 'F', 'Fm7', 'Dm7', 'G7', 'G', 'Em7', 'Am7', 'A#7', 'A7', 'D', 'Dmaj7', 'D7sus4', 'Gm7', 'F#m7', 'Bm7', 'Em', 'B7']","{'C': 8, 'Cmaj7': 2, 'C7': 3, 'F': 2, 'Fm7': 2, 'Dm7': 6, 'G7': 2, 'G': 4, 'Em7': 6, 'Am7': 2, 'A#7': 1, 'A7': 5, 'D': 5, 'Dmaj7': 1, 'D7sus4': 1, 'Gm7': 1, 'F#m7': 2, 'Bm7': 2, 'Em': 1, 'B7': 1}",88 
+All My Loving,Em,2nd fret,"['Em', 'A7', 'D', 'Bm', 'G', 'C', 'A', 'A#aug']","{'Em': 10, 'A7': 9, 'D': 19, 'Bm': 12, 'G': 7, 'C': 3, 'A': 4, 'A#aug': 4}",156 
+Creep,C,no capo,"['C', 'E', 'F', 'Fm']","{'C': 12, 'E': 11, 'F': 11, 'Fm': 11}",92 
+Karma,Key Not Find,1st fret,"['D', 'Am7', 'C', 'G', 'Bm', 'F#m', 'A']","{'D': 17, 'Am7': 16, 'C': 17, 'G': 17, 'Bm': 1, 'F#m': 1, 'A': 1}",NF
+Stairway To Heaven,Am,no capo,"['Am', 'E+', 'C', 'D', 'F', 'G', 'Em', 'Dsus4', 'Dsus2', 'Cadd9']","{'Am': 51, 'E+': 6, 'C': 37, 'D': 35, 'F': 21, 'G': 48, 'Em': 7, 'Dsus4': 4, 'Dsus2': 2, 'Cadd9': 2}",NF
+Wonderwall,Em,2nd fret,"['Em7', 'G', 'Dsus4', 'A7sus4', 'Cadd9', 'Dsus4/F#']","{'Em7': 36, 'G': 25, 'Dsus4': 18, 'A7sus4': 15, 'Cadd9': 16, 'Dsus4/F#': 2}",88 
+Torn,F,no capo,"['F', 'Fsus4', 'Fsus2', 'Am', 'A#', 'Dm', 'C']","{'F': 28, 'Fsus4': 1, 'Fsus2': 1, 'Am': 8, 'A#': 18, 'Dm': 18, 'C': 24}",96 
+Summer Of 69,D,no capo,"['D', 'A', 'D', 'A', 'Bm', 'G', 'F', 'A#', 'C', 'A#/D']","{'D': 31, 'A': 30, 'Bm': 9, 'G': 6, 'F': 2, 'A#': 2, 'C': 2, 'A#/D': 1}",138 
+Proud Mary,D,no capo,"['C', 'A', 'G', 'F', 'F6', 'D', 'Bm']","{'C': 9, 'A': 14, 'G': 3, 'F': 9, 'F6': 3, 'D': 28, 'Bm': 5}",120 
+Bridge Over Troubled Water,D#,3rd fret,"['C', 'F', 'A#', 'G', 'Am', 'G7', 'C7', 'D', 'F#dim', 'A7sus', 'A7', 'E7', 'G9', 'D7', 'Fm', 'Fmaj7', 'D9', 'E']","{'C': 33, 'F': 38, 'A#': 3, 'G': 9, 'Am': 13, 'G7': 2, 'C7': 9, 'D': 3, 'F#dim': 4, 'A7sus': 3, 'A7': 3, 'E7': 5, 'G9': 1, 'D7': 1, 'Fm': 2, 'Fmaj7': 2, 'D9': 3, 'E': 2}",NF
+Ceilings,Key Not Find,2nd fret,"['C', 'Em', 'G', 'D', 'B7']","{'C': 20, 'Em': 9, 'G': 10, 'D': 16, 'B7': 1}",148 
+Run Away To Mars,Key Not Find,2nd fret,"['G', 'D', 'Em7', 'Cadd9', 'Em', 'Am7', 'Dsus4', 'Am']","{'G': 27, 'D': 23, 'Em7': 3, 'Cadd9': 17, 'Em': 15, 'Am7': 6, 'Dsus4': 3, 'Am': 4}",NF
+I Love You,C,no capo,"['Fmaj7', 'Cadd9', 'C', 'Dm', 'G', 'Am']","{'Fmaj7': 18, 'Cadd9': 12, 'C': 6, 'Dm': 4, 'G': 4, 'Am': 3}",138 
+Save Your Tears,C,no capo,"['C', 'Am', 'Em', 'G', 'Dm', 'F', 'F/G']","{'C': 23, 'Am': 25, 'Em': 22, 'G': 23, 'Dm': 3, 'F': 3, 'F/G': 2}",118 
+The Perfect Pair,Key Not Find,no capo,"['G#m', 'G#mmaj7', 'G#m7', 'Emaj7/F', 'Emaj7', 'Emaj7/B', 'Emaj7/G#']","{'G#m': 12, 'G#mmaj7': 12, 'G#m7': 11, 'Emaj7/F': 11, 'Emaj7': 10, 'Emaj7/B': 10, 'Emaj7/G#': 9}",NF
+G#out You,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 16, 'A': 26, 'Bm': 15, 'G': 13}",NF
+Black Panther Wakanda Forever - Lift Me Up,A,no capo,"['A', 'Bm', 'E7', 'F#m7']","{'A': 25, 'Bm': 17, 'E7': 17, 'F#m7': 5}",NF
+Lemon Tree,Am,4th fret,"['F#dim7', 'G', 'Am', 'Em', 'Dm', 'C', 'F', 'G7', 'E']","{'F#dim7': 3, 'G': 14, 'Am': 38, 'Em': 38, 'Dm': 7, 'C': 9, 'F': 7, 'G7': 4, 'E': 2}",143 
+Everlong,F#,no capo,"['F#5/D', 'F#5/B', 'D5/G', 'C#/D', 'D/D', 'E/D', 'F#/D', 'G/D', 'A5', 'B5', 'G5']","{'F#5/D': 31, 'F#5/B': 30, 'D5/G': 23, 'C#/D': 6, 'D/D': 6, 'E/D': 6, 'F#/D': 12, 'G/D': 6, 'A5': 4, 'B5': 6, 'G5': 16}",NF
+I Still Havent Found What Im Looking For,C#,1st fret,"['C', 'Fsus2', 'G', 'Csus4', 'F']","{'C': 31, 'Fsus2': 15, 'G': 8, 'Csus4': 6, 'F': 2}",101 
+Bohemian Rhapsody,A#,no capo,"['Gm7', 'C7', 'F7', 'Cm7', 'A#', 'A#7', 'D#', 'B', 'A', 'A#/D', 'C#dim7', 'F7/C', 'Gm', 'Cm', 'D#/B', 'D#/A#', 'Am7b5', 'G#maj7', 'D#/G', 'Fm', 'Eaug', 'G#/D#', 'Dm7b5', 'G#m', 'G#', 'D#dim', 'Fm7', 'C#', 'C#/C', 'C#/B', 'C#/A#', 'D', 'Adim', 'C#/G#', 'G#7', 'C/G', 'E7', 'F#dim', 'F#7', 'Bm', 'A7', 'C#7', 'F#7', 'Ddim', 'D7', 'F', 'D#7', 'F#', 'B7', 'Bdim7', 'G#/A#', 'D#dim7', 'A#m/C#', 'C7-9', 'G#dim']","{'Gm7': 5, 'C7': 5, 'F7': 7, 'Cm7': 6, 'A#': 33, 'A#7': 11, 'D#': 36, 'B': 6, 'A': 17, 'A#/D': 8, 'C#dim7': 1, 'F7/C': 1, 'Gm': 8, 'Cm': 15, 'D#/B': 2, 'D#/A#': 4, 'Am7b5': 2, 'G#maj7': 2, 'D#/G': 4, 'Fm': 8, 'Eaug': 4, 'G#/D#': 7, 'Dm7b5': 4, 'G#m': 2, 'G#': 8, 'D#dim': 3, 'Fm7': 2, 'C#': 2, 'C#/C': 1, 'C#/B': 1, 'C#/A#': 1, 'D': 7, 'Adim': 3, 'C#/G#': 1, 'G#7': 2, 'C/G': 1, 'E7': 1, 'F#dim': 1, 'F#7': 1, 'Bm': 1, 'A7': 1, 'C#7': 1, 'F#7': 1, 'Ddim': 1, 'D7': 1, 'F': 5, 'D#7': 1, 'F#': 1, 'B7': 1, 'Bdim7': 2, 'G#/A#': 1, 'D#dim7': 1, 'A#m/C#': 1, 'C7-9': 1, 'G#dim': 1}",NF
+Dark Red,Key Not Find,no capo,"['A#', 'G#m', 'F#', 'B7', 'Bmaj7', 'A#m7', 'Am7', 'G#m7', 'D#m', 'C#', 'B', 'A#m']","{'A#': 21, 'G#m': 21, 'F#': 21, 'B7': 21, 'Bmaj7': 21, 'A#m7': 1, 'Am7': 5, 'G#m7': 5, 'D#m': 5, 'C#': 5, 'B': 5, 'A#m': 9}",86 
+Merry Christmas Everyone,G,2nd fret,"['G', 'B7/F#', 'Em', 'C', 'D', 'A', 'C#7/G#', 'F#m', 'E']","{'G': 44, 'B7/F#': 12, 'Em': 16, 'C': 23, 'D': 28, 'A': 25, 'C#7/G#': 7, 'F#m': 7, 'E': 9}",102 
+Half The World Away,C,no capo,"['C', 'Fmaj7', 'C/B', 'Am', 'D7', 'E7', 'G', 'G7', 'Fm']","{'C': 27, 'Fmaj7': 31, 'C/B': 6, 'Am': 14, 'D7': 8, 'E7': 4, 'G': 2, 'G7': 2, 'Fm': 2}",115 
+Friday Im In Love,D,no capo,"['D', 'G', 'A', 'Bm', 'C']","{'D': 30, 'G': 20, 'A': 24, 'Bm': 14, 'C': 4}",136 
+Island In The Sun,Em,no capo,"['Em', 'Am', 'D', 'G', 'C']","{'Em': 40, 'Am': 42, 'D': 46, 'G': 44, 'C': 2}",115 
+August,F,3rd fret,"['D', 'G', 'Em', 'A']","{'D': 22, 'G': 20, 'Em': 20, 'A': 20}",90 
+Thank You,G#m,4th fret,"['D/F#', 'G/B', 'Em', 'C', 'D', 'G', 'Em/B', 'Bm', 'Am']","{'D/F#': 7, 'G/B': 13, 'Em': 10, 'C': 27, 'D': 6, 'G': 21, 'Em/B': 2, 'Bm': 5, 'Am': 5}",80 
+Apocalypse,F,no capo,"['F', 'Dm', 'Am', 'C', 'A#', 'Gm7', 'Fmaj7', 'Gm']","{'F': 22, 'Dm': 15, 'Am': 11, 'C': 19, 'A#': 13, 'Gm7': 3, 'Fmaj7': 2, 'Gm': 1}",94 
+Afterglow,B,4th fret,"['G', 'Cadd9', 'Dsus4', 'Em7']","{'G': 17, 'Cadd9': 22, 'Dsus4': 16, 'Em7': 5}",110 
+Favorite Crime,A,2nd fret,"['G', 'Em', 'D', 'Cmaj7', 'Am']","{'G': 12, 'Em': 8, 'D': 9, 'Cmaj7': 9, 'Am': 2}",90 
+Home,Bm,2nd fret,"['Am', 'C', 'C/E', 'F', 'Dm', 'G']","{'Am': 24, 'C': 49, 'C/E': 20, 'F': 25, 'Dm': 8, 'G': 8}",112 
+Snuff,F#m,no capo,"['Am', 'Em', 'F', 'C', 'G', 'A5', 'B5', 'C5', 'E5', 'F5']","{'Am': 30, 'Em': 18, 'F': 21, 'C': 15, 'G': 12, 'A5': 1, 'B5': 1, 'C5': 1, 'E5': 1, 'F5': 1}",62 
+I Walk The Line,F,1st fret,"['B7', 'E', 'A', 'E7', 'D', 'A7', 'G']","{'B7': 6, 'E': 8, 'A': 10, 'E7': 6, 'D': 6, 'A7': 3, 'G': 1}",212 
+This Is The Life,C#m,4th fret,"['Am', 'F', 'C', 'Em']","{'Am': 21, 'F': 17, 'C': 17, 'Em': 17}",190 
+Video Games,Em,2nd fret,"['Em', 'G', 'Bm', 'C', 'D', 'Dsus4', 'F', 'D#aug']","{'Em': 44, 'G': 30, 'Bm': 14, 'C': 26, 'D': 5, 'Dsus4': 2, 'F': 6, 'D#aug': 3}",NF
+Norwegian Wood,E,2nd fret,"['D', 'C', 'G', 'Dm', 'Em', 'A', 'E', 'F#m', 'B']","{'D': 16, 'C': 8, 'G': 12, 'Dm': 5, 'Em': 4, 'A': 4, 'E': 1, 'F#m': 1, 'B': 1}",NF
+Highway To Hell,A,no capo,"['A', 'D/F#', 'G', 'E', 'D/A', 'D', 'Dsus4']","{'A': 90, 'D/F#': 75, 'G': 42, 'E': 2, 'D/A': 20, 'D': 5, 'Dsus4': 3}",116 
+Riptide,A#m,6th fret,"['Em', 'Dadd9', 'G', 'D', 'C']","{'Em': 39, 'Dadd9': 37, 'G': 39, 'D': 2, 'C': 2}",98 
+Stay ,C,no capo,"['Fmaj7', 'Cmaj7/G', 'Am7', 'Fm', 'D7', 'F']","{'Fmaj7': 7, 'Cmaj7/G': 13, 'Am7': 12, 'Fm': 6, 'D7': 3, 'F': 4}",78 
+Rises The Moon,G,no capo,"['Am7', 'D7', 'Am', 'Cmaj7', 'F', 'Fm', 'C7']","{'Am7': 6, 'D7': 4, 'Am': 4, 'Cmaj7': 13, 'F': 8, 'Fm': 8, 'C7': 5}",137 
+Beautiful Crazy,B,4th fret,"['G', 'D/F#', 'Em7', 'D', 'C', 'Am7', 'G/B']","{'G': 14, 'D/F#': 13, 'Em7': 10, 'D': 15, 'C': 10, 'Am7': 5, 'G/B': 4}",154 
+Kiss Me,D,1st fret,"['D', 'Dmaj7', 'D7', 'G', 'Em', 'A', 'Bm', 'D/C#', 'Bm7', 'D/A', 'Gmaj7', 'Asus4']","{'D': 25, 'Dmaj7': 24, 'D7': 17, 'G': 2, 'Em': 11, 'A': 14, 'Bm': 4, 'D/C#': 3, 'Bm7': 3, 'D/A': 3, 'Gmaj7': 3, 'Asus4': 3}",100 
+The Times They Are A-Changin,G,no capo,"['D7', 'D6', 'G', 'Em', 'C', 'Am', 'D']","{'D7': 6, 'D6': 6, 'G': 40, 'Em': 10, 'C': 20, 'Am': 10, 'D': 25}",172 
+Demons,D,1st fret,"['D', 'A', 'Bm', 'G']","{'D': 20, 'A': 16, 'Bm': 16, 'G': 15}",90 
+Blinding Lights,D#,3rd fret,"['Dm', 'Am', 'C', 'G', 'F', 'Em']","{'Dm': 17, 'Am': 17, 'C': 17, 'G': 22, 'F': 7, 'Em': 7}",171 
+Wake Me Up When September Ends,G,no capo,"['G5', 'G5/F#', 'G5/E', 'G5/D', 'C', 'Cm', 'Em', 'Bm', 'D', 'D/F#', 'Dsus4']","{'G5': 38, 'G5/F#': 14, 'G5/E': 9, 'G5/D': 9, 'C': 16, 'Cm': 10, 'Em': 6, 'Bm': 6, 'D': 4, 'D/F#': 1, 'Dsus4': 2}",105 
+Basket Case,D#,1st fret,"['E', 'A', 'D', 'G', 'B', 'Bm', 'F#m', 'C']","{'E': 1, 'A': 43, 'D': 41, 'G': 25, 'B': 1, 'Bm': 19, 'F#m': 6, 'C': 3}",NF
+Frosty The Snowman,G,no capo,"['G', 'D7', 'C', 'D', 'Bm', 'Am', 'C#dim', 'Em']","{'G': 30, 'D7': 7, 'C': 19, 'D': 5, 'Bm': 2, 'Am': 2, 'C#dim': 2, 'Em': 2}",144 
+Shape Of You,C#m,2nd fret,"['Bm', 'Em', 'G', 'A']","{'Bm': 44, 'Em': 42, 'G': 42, 'A': 40}",96 
+Dont Cry,Key Not Find,no capo,"['Am', 'Dm', 'G', 'C', 'F']","{'Am': 24, 'Dm': 12, 'G': 24, 'C': 15, 'F': 12}",NF
+She Used To Be Mine,F,no capo,"['F', 'C', 'Dm', 'A#', 'A7/C#', 'Dm/C']","{'F': 12, 'C': 7, 'Dm': 10, 'A#': 10, 'A7/C#': 3, 'Dm/C': 1}",130 
+If I Can Dream,C,no capo,"['C', 'Am', 'F', 'G7', 'Dm', 'C7', 'E7', 'Dm7', 'F#dim', 'D7', 'A', 'D', 'Bm', 'G', 'A7', 'Em', 'G#dim']","{'C': 17, 'Am': 12, 'F': 10, 'G7': 8, 'Dm': 1, 'C7': 5, 'E7': 3, 'Dm7': 3, 'F#dim': 3, 'D7': 1, 'A': 2, 'D': 9, 'Bm': 6, 'G': 4, 'A7': 2, 'Em': 2, 'G#dim': 1}",NF
+Wind Of Change,C,no capo,"['F', 'Dm', 'Am', 'G', 'C', 'E']","{'F': 14, 'Dm': 35, 'Am': 23, 'G': 40, 'C': 29, 'E': 4}",76 
+Wild Horses,C,no capo,"['G', 'Am7', 'Bm', 'C', 'D', 'F', 'F/C']","{'G': 33, 'Am7': 17, 'Bm': 18, 'C': 28, 'D': 23, 'F': 8, 'F/C': 2}",72 
+Heading South,Key Not Find,4th fret,"['Am', 'F', 'C', 'G']","{'Am': 17, 'F': 17, 'C': 17, 'G': 17}",200 
+Champagne Problems,C,no capo,"['C', 'G', 'Am', 'F']","{'C': 19, 'G': 19, 'Am': 19, 'F': 19}",85 
+Say Something,Am,2nd fret,"['Am', 'F', 'C', 'Gsus4', 'Em']","{'Am': 15, 'F': 18, 'C': 21, 'Gsus4': 17, 'Em': 3}",47 
+Yellow Submarine,F#,no capo,"['G', 'D', 'C', 'Em', 'Am']","{'G': 37, 'D': 35, 'C': 19, 'Em': 9, 'Am': 9}",111 
+Lean On Me,C,no capo,"['C', 'F', 'Em', 'G9', 'G7', 'G']","{'C': 44, 'F': 14, 'Em': 7, 'G9': 1, 'G7': 11, 'G': 5}",75 
+Both Sides Now,G,no capo,"['G', 'Am', 'C', 'Gmaj7', 'Am7', 'D', 'Bm', 'D7']","{'G': 74, 'Am': 12, 'C': 58, 'Gmaj7': 6, 'Am7': 6, 'D': 10, 'Bm': 4, 'D7': 4}",NF
+7 Years,Gm,3rd fret,"['Em', 'G', 'C', 'D', 'G/B', 'Bsus4', 'B']","{'Em': 29, 'G': 25, 'C': 29, 'D': 39, 'G/B': 3, 'Bsus4': 1, 'B': 1}",NF
+Come As You Are,Key Not Find,no capo,"['F#m', 'E', 'A', 'Bm', 'D', 'F#sus4']","{'F#m': 42, 'E': 30, 'A': 12, 'Bm': 10, 'D': 10, 'F#sus4': 1}",120 
+Harvest Moon,C,2nd fret,"['C', 'Am', 'F', 'G', 'Dm', 'D', 'Bm', 'Dmaj7', 'A', 'Em']","{'C': 33, 'Am': 22, 'F': 12, 'G': 16, 'Dm': 2, 'D': 14, 'Bm': 1, 'Dmaj7': 12, 'A': 4, 'Em': 2}",NF
+La La Land - City Of Stars,Gm,no capo,"['Gm', 'C', 'Dm', 'F', 'F/E', 'Dm7', 'A', 'A#']","{'Gm': 11, 'C': 10, 'Dm': 8, 'F': 5, 'F/E': 2, 'Dm7': 6, 'A': 6, 'A#': 4}",100 
+Fix You,D#,3rd fret,"['C', 'Em', 'Am7', 'Em/G', 'F', 'G', 'Gsus4']","{'C': 36, 'Em': 16, 'Am7': 18, 'Em/G': 13, 'F': 17, 'G': 16, 'Gsus4': 9}",69 
+Mr Tambourine Man,F,3rd fret,"['D', 'Dsus2', 'G', 'A']","{'D': 66, 'Dsus2': 4, 'G': 73, 'A': 36}",NF
+Heaven,C,no capo,"['C', 'Am', 'F', 'G', 'C/E', 'Dm', 'A#', 'A#/A', 'G/B', 'Gsus4']","{'C': 13, 'Am': 26, 'F': 28, 'G': 35, 'C/E': 4, 'Dm': 6, 'A#': 4, 'A#/A': 2, 'G/B': 1, 'Gsus4': 1}",NF
+The Twilight Saga New Moon - Rosyln,Key Not Find,no capo,"['F', 'C', 'G', 'Dm7', 'Am', 'G2', 'G']","{'F': 11, 'C': 12, 'G': 3, 'Dm7': 7, 'Am': 4, 'G2': 1}",160 
+Jealous,C,1st fret,"['C', 'F', 'Am', 'G', 'Dm', 'G7', 'F#dim7', 'F7b9', 'G#maj7', 'D#maj7', 'C7', 'Fm7', 'A#7', 'D#', 'Fm', 'Cm7', 'C#7-9', 'A#7-9', 'G#', 'Cm', 'A#', 'F7']","{'C': 26, 'F': 28, 'Am': 23, 'G': 11, 'Dm': 6, 'G7': 2, 'F#dim7': 2, 'F7b9': 1, 'G#maj7': 2, 'D#maj7': 2, 'C7': 2, 'Fm7': 3, 'A#7': 2, 'D#': 3, 'Fm': 1, 'Cm7': 1, 'C#7-9': 1, 'A#7-9': 1, 'G#': 4, 'Cm': 3, 'A#': 2, 'F7': 1}",85 
+Under The Bridge,E,no capo,"['D', 'F#', 'E', 'B', 'C#m', 'G#m', 'A', 'Emaj7', 'F#m', 'B/F#', 'Am7', 'G6', 'Fmaj7', 'E7', 'Gmaj7', 'C']","{'D': 1, 'F#': 1, 'E': 22, 'B': 14, 'C#m': 14, 'G#m': 7, 'A': 18, 'Emaj7': 3, 'F#m': 12, 'B/F#': 8, 'Am7': 3, 'G6': 4, 'Fmaj7': 5, 'E7': 1, 'Gmaj7': 1, 'C': 1}",85 
+Ill Be Home For Christmas,C,no capo,"['C', 'Em', 'Dm', 'G7', 'Gm', 'A', 'Fm', 'Am', 'D7', 'F', 'A7', 'G', 'E7', 'Cm']","{'C': 9, 'Em': 3, 'Dm': 6, 'G7': 4, 'Gm': 2, 'A': 2, 'Fm': 2, 'Am': 5, 'D7': 7, 'F': 1, 'A7': 5, 'G': 8, 'E7': 3, 'Cm': 1}",NF
+Bigger Than The Whole Sky,F#,no capo,"['F#', 'C#', 'G#m', 'B']","{'F#': 18, 'C#': 18, 'G#m': 18, 'B': 18}",NF
+Supermarket Flowers,C,6th fret,"['C', 'Dm', 'Em', 'F', 'Am', 'G', 'Dm7', 'Fadd9']","{'C': 38, 'Dm': 5, 'Em': 20, 'F': 36, 'Am': 11, 'G': 25, 'Dm7': 3, 'Fadd9': 2}",90 
+Be Alright,G#m,4th fret,"['Em', 'C', 'G', 'D']","{'Em': 25, 'C': 24, 'G': 20, 'D': 28}",64 
+Bad HG#it,Key Not Find,1st fret,"['Bm', 'C', 'G', 'Am', 'D', 'B', 'Em', 'B7']","{'Bm': 33, 'C': 40, 'G': 32, 'Am': 32, 'D': 7, 'B': 1, 'Em': 5, 'B7': 5}",84 
+Away In A Manger,G,no capo,"['G', 'G7', 'C', 'D', 'D7', 'Am']","{'G': 21, 'G7': 6, 'C': 9, 'D': 6, 'D7': 6, 'Am': 3}",100 
+Dancing In The Dark,B,4th fret,"['G', 'Em', 'C', 'Am', 'D', 'A', 'F#m', 'Bm', 'E']","{'G': 28, 'Em': 23, 'C': 19, 'Am': 16, 'D': 11, 'A': 1, 'F#m': 1, 'Bm': 1, 'E': 1}",NF
+Isnt She Lovely,C#m,2nd fret,"['Bm7', 'E', 'E7', 'Em', 'A7', 'D', 'G', 'F#', 'F#m']","{'Bm7': 9, 'E': 9, 'E7': 9, 'Em': 9, 'A7': 9, 'D': 9, 'G': 6, 'F#': 3, 'F#m': 3}",119 
+Havana,Gm,3rd fret,"['Em', 'C', 'B7']","{'Em': 48, 'C': 44, 'B7': 46}",105 
+Ceilings,Key Not Find,2nd fret,"['Cmaj7', 'G', 'D/F#', 'B']","{'Cmaj7': 19, 'G': 16, 'D/F#': 17, 'B': 1}",145 
+I Wont Back Down,G,no capo,"['Em', 'D', 'G', 'C']","{'Em': 29, 'D': 45, 'G': 49, 'C': 20}",114 
+Let It Go,G,6th fret,"['Em', 'Em7/D', 'C#m7b5', 'Cmaj7', 'G', 'C', 'D', 'Em/C#', 'Am']","{'Em': 29, 'Em7/D': 1, 'C#m7b5': 1, 'Cmaj7': 1, 'G': 35, 'C': 25, 'D': 35, 'Em/C#': 4, 'Am': 9}",74 
+Ghost,D,no capo,"['Bm', 'G', 'D', 'A', 'Em', 'F#m']","{'Bm': 21, 'G': 23, 'D': 20, 'A': 22, 'Em': 2, 'F#m': 2}",77 
+Ho Hey,C,no capo,"['C', 'F', 'Am', 'G']","{'C': 36, 'F': 32, 'Am': 11, 'G': 14}",80 
+Little Drummer Boy,G#,1st fret,"['G', 'C', 'D']","{'G': 29, 'C': 12, 'D': 11}",100 
+Fake Plastic Trees,A,no capo,"['A', 'F#m7', 'E', 'E6', 'D5', 'Bm7', 'Asus']","{'A': 22, 'F#m7': 6, 'E': 6, 'E6': 6, 'D5': 12, 'Bm7': 10, 'Asus': 8}",NF
+Toxic,Am,3rd fret,"['Am', 'C', 'E7', 'F7', 'D', 'G', 'B7', 'A#7']","{'Am': 42, 'C': 21, 'E7': 14, 'F7': 9, 'D': 1, 'G': 1, 'B7': 9, 'A#7': 9}",NF
+No Time To Die,Em,no capo,"['Em', 'Cmaj7', 'Am', 'B7', 'A', 'Emmaj9']","{'Em': 26, 'Cmaj7': 27, 'Am': 25, 'B7': 11, 'A': 9, 'Emmaj9': 1}",75 
+Shake The Frost,G,2nd fret,"['C/G', 'Am/B', 'Csus2', 'G', 'F', 'C', 'Am', 'Csus']","{'C/G': 15, 'Am/B': 10, 'Csus2': 3, 'G': 29, 'F': 16, 'C': 27, 'Am': 9, 'Csus': 5}",NF
+Paint It Black,Em,no capo,"['Em', 'B', 'D', 'G', 'A']","{'Em': 34, 'B': 23, 'D': 20, 'G': 10, 'A': 5}",159 
+First Day Of My Life,C,4th fret,"['Dmadd9', 'C', 'E7', 'Am', 'F', 'G', 'D7', 'G7', 'E', 'E7/B', 'Am7', 'Fm', 'Dm']","{'Dmadd9': 6, 'C': 23, 'E7': 9, 'Am': 13, 'F': 7, 'G': 13, 'D7': 4, 'G7': 4, 'E': 2, 'E7/B': 4, 'Am7': 4, 'Fm': 3, 'Dm': 1}",180 
+Too Good At GooC#yes,Dm,5th fret,"['Am', 'C', 'G', 'Dm']","{'Am': 19, 'C': 19, 'G': 19, 'Dm': 19}",92 
+Unchained Melody,G,no capo,"['G', 'Em', 'C', 'D', 'Bm', 'G7', 'A#']","{'G': 10, 'Em': 7, 'C': 10, 'D': 15, 'Bm': 1, 'G7': 1, 'A#': 2}",NF
+Please Come Home For Christmas,A,no capo,"['A', 'E', 'F#', 'C#', 'Amaj7', 'A7', 'D', 'B7/D#', 'A/G#', 'F#m', 'B7', 'E+', 'E7', 'Dm', 'C#7', 'F#m/E', 'D#dim', 'A/E']","{'A': 19, 'E': 4, 'F#': 2, 'C#': 2, 'Amaj7': 4, 'A7': 6, 'D': 13, 'B7/D#': 4, 'A/G#': 2, 'F#m': 6, 'B7': 5, 'E+': 3, 'E7': 3, 'Dm': 2, 'C#7': 2, 'F#m/E': 2, 'D#dim': 2, 'A/E': 2}",61 
+Desperado,Key Not Find,no capo,"['G', 'G7', 'C', 'Cm', 'Em', 'A7', 'D7', 'D', 'Bm', 'Am', 'B7', 'F', 'F7', 'A#', 'A#m', 'Dm', 'C7', 'Gm']","{'G': 26, 'G7': 10, 'C': 17, 'Cm': 9, 'Em': 16, 'A7': 9, 'D7': 9, 'D': 7, 'Bm': 5, 'Am': 6, 'B7': 2, 'F': 1, 'F7': 1, 'A#': 1, 'A#m': 1, 'Dm': 1, 'C7': 1, 'Gm': 1}",NF
+Jar Of Hearts,Cm,1st fret,"['Bm', 'D', 'A', 'Em', 'G', 'D/F#', 'D5/A', 'Gm', 'A/C#', 'F#', 'Bm7/A', 'E/G#', 'Gdim7']","{'Bm': 18, 'D': 18, 'A': 16, 'Em': 6, 'G': 15, 'D/F#': 2, 'D5/A': 2, 'Gm': 8, 'A/C#': 1, 'F#': 5, 'Bm7/A': 4, 'E/G#': 4, 'Gdim7': 3}",76 
+The River,Em,no capo,"['Em', 'G', 'D', 'C', 'Am']","{'Em': 26, 'G': 32, 'D': 20, 'C': 40, 'Am': 7}",117 
+Tangled - I See The Light,C,no capo,"['C', 'G', 'F', 'C/E', 'D7', 'Em', 'Am', 'D#', 'A#', 'G#', 'D#/G', 'F7', 'Gm', 'Cm', 'G7', 'D#/D', 'F9']","{'C': 15, 'G': 10, 'F': 7, 'C/E': 2, 'D7': 2, 'Em': 3, 'Am': 2, 'D#': 14, 'A#': 11, 'G#': 8, 'D#/G': 4, 'F7': 2, 'Gm': 2, 'Cm': 3, 'G7': 1, 'D#/D': 1, 'F9': 1}",100 
+Hark The Herald Angels Sing,G,no capo,"['G', 'D', 'C', 'Em', 'A7', 'D7', 'Am', 'E7']","{'G': 42, 'D': 21, 'C': 9, 'Em': 3, 'A7': 6, 'D7': 15, 'Am': 12, 'E7': 6}",NF
+The Greatest Showman - Never Enough,G#,1st fret,"['G', 'D', 'Em', 'C', 'Am', 'Cm']","{'G': 16, 'D': 13, 'Em': 11, 'C': 11, 'Am': 4, 'Cm': 1}",NF
+O Come All Ye Faithful,G,no capo,"['C', 'Am', 'D/C', 'G', 'D/G', 'D', 'Em', 'A']","{'C': 17, 'Am': 5, 'D/C': 1, 'G': 33, 'D/G': 1, 'D': 32, 'Em': 12, 'A': 4}",80 
+Fake Plastic Trees,A,no capo,"['A', 'Asus4', 'Dmaj9/F#', 'E6', 'Dsus2', 'Bm7add11', 'Amaj7']","{'A': 23, 'Asus4': 9, 'Dmaj9/F#': 13, 'E6': 10, 'Dsus2': 13, 'Bm7add11': 11, 'Amaj7': 2}",74 
+Youre Still The One,D#,1st fret,"['D', 'G', 'A', 'Em']","{'D': 26, 'G': 25, 'A': 25, 'Em': 6}",67 
+G#out A Girl ,Em,no capo,"['F#7add11', 'Em', 'G', 'C#', 'C#/G#', 'E', 'A5', 'C', 'A']","{'F#7add11': 9, 'Em': 57, 'G': 52, 'C#': 8, 'C#/G#': 8, 'E': 5, 'A5': 4, 'C': 6, 'A': 1}",120 
+Cleopatra ,Key Not Find,1st fret,"['G', 'D', 'C', 'Em']","{'G': 42, 'D': 23, 'C': 22, 'Em': 3}",150 
+Hello,Fm,1st fret,"['Em', 'G/D', 'D', 'C', 'Bm']","{'Em': 48, 'G/D': 42, 'D': 47, 'C': 47, 'Bm': 2}",79 
+Here There And Everywhere,G,no capo,"['Gm', 'Cm', 'D7', 'G', 'Bm', 'A#', 'Am7', 'Am', 'C', 'F#m7', 'B7', 'Em', 'F']","{'Gm': 6, 'Cm': 6, 'D7': 11, 'G': 14, 'Bm': 11, 'A#': 3, 'Am7': 5, 'Am': 14, 'C': 10, 'F#m7': 8, 'B7': 8, 'Em': 4, 'F': 2}",82 
+Hotel California,Bm,no capo,"['Bm', 'F#', 'A', 'E', 'G', 'D', 'Em', 'Am', 'F', 'C', 'Dm']","{'Bm': 11, 'F#': 21, 'A': 9, 'E': 10, 'G': 14, 'D': 14, 'Em': 11, 'Am': 1, 'F': 1, 'C': 1, 'Dm': 1}",NF
+I Love You So,A#,no capo,"['Cm7', 'A#', 'F', 'D/F#']","{'Cm7': 20, 'A#': 20, 'F': 10, 'D/F#': 10}",76 
+Between The Bars,Key Not Find,no capo,"['Am7', 'F', 'C', 'E7', 'G', 'Am', 'Am/F#', 'Fm']","{'Am7': 10, 'F': 20, 'C': 8, 'E7': 8, 'G': 6, 'Am': 6, 'Am/F#': 2, 'Fm': 2}",138 
+Enchanted,G#,1st fret,"['G', 'Bm', 'C', 'Em', 'D']","{'G': 39, 'Bm': 9, 'C': 43, 'Em': 14, 'D': 33}",82 
+The First Noel,G,no capo,"['G', 'D', 'C', 'Bm']","{'G': 57, 'D': 38, 'C': 57, 'Bm': 19}",84 
+Free Bird,G,no capo,"['G', 'D', 'Em', 'F', 'C', 'A#']","{'G': 14, 'D': 27, 'Em': 10, 'F': 17, 'C': 20, 'A#': 3}",NF
+La Vie En Rose,C,no capo,"['C', 'Cmaj7', 'C6', 'Dm7', 'G7', 'Dm', 'F', 'Fm', 'C/E', 'D#dim']","{'C': 4, 'Cmaj7': 3, 'C6': 2, 'Dm7': 4, 'G7': 4, 'Dm': 2, 'F': 1, 'Fm': 1, 'C/E': 1, 'D#dim': 1}",NF
+Come Together,Dm,no capo,"['Dm', 'A7', 'G7', 'Bm', 'A', 'G']","{'Dm': 8, 'A7': 4, 'G7': 4, 'Bm': 3, 'A': 6, 'G': 3}",82 
+Life On Mars,Fm,no capo,"['F', 'Am', 'Cm/D#', 'D7', 'Gm', 'A#', 'C7', 'G#', 'Eaug', 'Fm', 'G#7', 'C#', 'Aaug', 'A#m', 'C#7', 'D#', 'Gm7', 'F#aug', 'Cm7', 'D#m7', 'A#/F', 'C/E', 'F#dim', 'Ddim']","{'F': 12, 'Am': 6, 'Cm/D#': 5, 'D7': 5, 'Gm': 8, 'A#': 10, 'C7': 5, 'G#': 3, 'Eaug': 3, 'Fm': 7, 'G#7': 3, 'C#': 3, 'Aaug': 3, 'A#m': 4, 'C#7': 3, 'D#': 5, 'Gm7': 5, 'F#aug': 7, 'Cm7': 5, 'D#m7': 5, 'A#/F': 2, 'C/E': 2, 'F#dim': 1, 'Ddim': 1}",NF
+Halo,G,2nd fret,"['G', 'Am', 'Em', 'C']","{'G': 25, 'Am': 20, 'Em': 20, 'C': 20}",80 
+Under The Influence,Am,no capo,"['Am', 'Cadd9', 'Fmaj7', 'G', 'Cmaj9', 'C', 'F', 'Em']","{'Am': 20, 'Cadd9': 1, 'Fmaj7': 2, 'G': 20, 'Cmaj9': 1, 'C': 12, 'F': 18, 'Em': 2}",NF
+21 Guns,Dm,no capo,"['A', 'A#', 'C', 'Dm', 'F', 'A#5', 'C5', 'C/E', 'D5', 'F5', 'A5']","{'A': 1, 'A#': 25, 'C': 22, 'Dm': 20, 'F': 20, 'A#5': 19, 'C5': 28, 'C/E': 11, 'D5': 14, 'F5': 29, 'A5': 3}",80 
+Bejeweled,C,no capo,"['C', 'Dm7', 'Am', 'Gsus4', 'Fsus2']","{'C': 30, 'Dm7': 29, 'Am': 29, 'Gsus4': 31, 'Fsus2': 2}",NF
+Wheres My Love,Key Not Find,3rd fret,"['Am', 'C', 'F', 'Dm', 'G', 'Em']","{'Am': 22, 'C': 21, 'F': 26, 'Dm': 18, 'G': 5, 'Em': 5}",105 
+A Day In The Life,G,no capo,"['G', 'Bm', 'Em', 'Em7', 'C', 'C/B', 'Asus2', 'F', 'Em/F#', 'Em/G', 'Em/A', 'Em/B', 'Em/C#', 'Em/D', 'E', 'Dsus2', 'B7sus4', 'D', 'A', 'Em/C']","{'G': 11, 'Bm': 9, 'Em': 16, 'Em7': 13, 'C': 18, 'C/B': 4, 'Asus2': 4, 'F': 5, 'Em/F#': 2, 'Em/G': 2, 'Em/A': 2, 'Em/B': 2, 'Em/C#': 1, 'Em/D': 2, 'E': 9, 'Dsus2': 2, 'B7sus4': 4, 'D': 4, 'A': 2, 'Em/C': 1}",78 
+And I Love Her,Key Not Find,no capo,"['F#m', 'E', 'C#m', 'A', 'B', 'G#m', 'B7', 'Gm', 'Dm', 'A#', 'C7', 'F', 'Dm/F', 'D']","{'F#m': 10, 'E': 4, 'C#m': 12, 'A': 3, 'B': 5, 'G#m': 2, 'B7': 1, 'Gm': 8, 'Dm': 6, 'A#': 2, 'C7': 2, 'F': 3, 'Dm/F': 1, 'D': 1}",115 
+Time,Key Not Find,no capo,"['F#m', 'Dmaj7', 'Amaj7', 'C#m7', 'Bm7', 'F/B', 'A', 'E', 'Bm', 'Emadd9', 'Em7', 'Cmaj7', 'Fmaj7', 'G', 'D7#9', 'D7b9']","{'F#m': 11, 'Dmaj7': 10, 'Amaj7': 7, 'C#m7': 4, 'Bm7': 5, 'F/B': 2, 'A': 11, 'E': 7, 'Bm': 2, 'Emadd9': 2, 'Em7': 4, 'Cmaj7': 1, 'Fmaj7': 1, 'G': 1, 'D7#9': 1, 'D7b9': 1}",NF
+Simple Man,C,no capo,"['C', 'G', 'Am']","{'C': 28, 'G': 28, 'Am': 28}",60 
+Betty,C,no capo,"['C', 'C/B', 'Am', 'Gsus4', 'F', 'G', 'Fm', 'Em', 'D', 'D/C#', 'Bm', 'A', 'D/F#']","{'C': 21, 'C/B': 18, 'Am': 31, 'Gsus4': 31, 'F': 30, 'G': 28, 'Fm': 1, 'Em': 4, 'D': 6, 'D/C#': 2, 'Bm': 2, 'A': 7, 'D/F#': 3}",96 
+Slow Dancing In A Burning Room,C#m,no capo,"['E', 'A', 'D', 'G', 'B', 'C#m7', 'Aadd9', 'Badd11', 'F#m11']","{'E': 27, 'A': 1, 'D': 1, 'G': 1, 'B': 1, 'C#m7': 31, 'Aadd9': 29, 'Badd11': 5, 'F#m11': 3}",67 
+Angels,Key Not Find,no capo,"['E', 'A', 'C#m', 'B', 'F#m', 'C#m7', 'D', 'A/C#', 'E/G#', 'Bm']","{'E': 16, 'A': 13, 'C#m': 10, 'B': 10, 'F#m': 4, 'C#m7': 1, 'D': 7, 'A/C#': 7, 'E/G#': 3, 'Bm': 1}",76 
+Banana Pancakes,G,no capo,"['G7', 'D7', 'Am7', 'C7', 'D', 'Bm', 'Em', 'G', 'D9', 'Em/D#', 'C']","{'G7': 10, 'D7': 2, 'Am7': 27, 'C7': 16, 'D': 3, 'Bm': 2, 'Em': 2, 'G': 17, 'D9': 12, 'Em/D#': 1, 'C': 1}",114 
+God Rest Ye Merry Gentlemen,Em,no capo,"['Em', 'C', 'B7', 'Am', 'G', 'D']","{'Em': 25, 'C': 10, 'B7': 20, 'Am': 5, 'G': 15, 'D': 10}",NF
+Grease - Hopelessly Devoted To You,Dm,no capo,"['Dm', 'A', 'C#m7', 'D', 'Bm7', 'E7', 'Amaj7', 'A6', 'F#7', 'G6', 'Cm7', 'Gm7', 'C7', 'Caug', 'F', 'Fma7', 'Cdim', 'Gdim', 'Dm/C#', 'Dm/C', 'Dm/B', 'A#m']","{'Dm': 8, 'A': 12, 'C#m7': 6, 'D': 3, 'Bm7': 9, 'E7': 3, 'Amaj7': 3, 'A6': 3, 'F#7': 6, 'G6': 3, 'Cm7': 3, 'Gm7': 6, 'C7': 2, 'Caug': 2, 'F': 3, 'Fma7': 2, 'Cdim': 2, 'Gdim': 4, 'Dm/C#': 2, 'Dm/C': 2, 'Dm/B': 2, 'A#m': 1}",NF
+My Way,C,2nd fret,"['C', 'Em', 'Gm', 'A7', 'Dm', 'Dm7', 'G7', 'C7', 'F', 'Fm', 'Em7', 'Am', 'A#', 'A', 'C/B', 'G']","{'C': 24, 'Em': 3, 'Gm': 3, 'A7': 3, 'Dm': 7, 'Dm7': 3, 'G7': 10, 'C7': 5, 'F': 11, 'Fm': 4, 'Em7': 2, 'Am': 3, 'A#': 1, 'A': 1, 'C/B': 1, 'G': 1}",75 
+Mardy Bum,Key Not Find,no capo,"['E', 'A', 'D', 'G', 'B', 'F#', 'F#m', 'Em', 'Bm', 'F#5', 'G5', 'A5']","{'E': 2, 'A': 23, 'D': 16, 'G': 17, 'B': 1, 'F#': 7, 'F#m': 7, 'Em': 7, 'Bm': 6, 'F#5': 5, 'G5': 4, 'A5': 1}",112 
+All The Small Things,C,no capo,"['C', 'F', 'G']","{'C': 33, 'F': 26, 'G': 32}",148 
+The Gambler,G,no capo,"['G', 'C', 'D']","{'G': 63, 'C': 45, 'D': 18}",NF
+SomD#ody To Love,G#,1st fret,"['G', 'D/F#', 'Em', 'C', 'D7', 'G/D', 'D', 'A7', 'G7', 'C7', 'F', 'Fm']","{'G': 34, 'D/F#': 18, 'Em': 17, 'C': 15, 'D7': 5, 'G/D': 1, 'D': 21, 'A7': 17, 'G7': 1, 'C7': 1, 'F': 1, 'Fm': 1}",NF
+Dont Dream Its Over,D#,3rd fret,"['Csus2', 'C7(sus2)', 'C7sus4', 'Am', 'F', 'E', 'Asus2/E', 'G', 'C', 'A#', 'F/D', 'G/E']","{'Csus2': 10, 'C7(sus2)': 2, 'C7sus4': 2, 'Am': 18, 'F': 24, 'E': 9, 'Asus2/E': 3, 'G': 10, 'C': 13, 'A#': 2, 'F/D': 1, 'G/E': 1}",82 
+O Come To The Altar,B,4th fret,"['G', 'C/G', 'Em', 'Cadd9', 'Am7', 'C', 'Gsus4', 'Fmaj7']","{'G': 33, 'C/G': 13, 'Em': 16, 'Cadd9': 6, 'Am7': 9, 'C': 10, 'Gsus4': 2, 'Fmaj7': 1}",93 
+I Want To Hold Your Hand,G,no capo,"['C', 'D', 'G', 'Em', 'B', 'B7', 'Dm7', 'Am']","{'C': 32, 'D': 27, 'G': 20, 'Em': 12, 'B': 4, 'B7': 5, 'Dm7': 4, 'Am': 2}",132 
+Nutshell,Em,no capo,"['Cadd9', 'Em7', 'G', 'D']","{'Cadd9': 12, 'Em7': 12, 'G': 12, 'D': 12}",NF
+Candy,Am,no capo,"['Am', 'Em', 'G', 'D7', 'C']","{'Am': 12, 'Em': 17, 'G': 17, 'D7': 11, 'C': 11}",125 
+Little Talks,A#m,1st fret,"['Am', 'Fmaj7', 'C', 'G', 'F']","{'Am': 51, 'Fmaj7': 42, 'C': 46, 'G': 28, 'F': 4}",206 
+Let You Break My Heart Again,D,no capo,"['Em7', 'A7', 'Dmaj7', 'D7', 'B7', 'F#m7', 'D', 'Gmaj7', 'GmMaj7', 'C', 'Asus', 'A', 'A7sus']","{'Em7': 20, 'A7': 13, 'Dmaj7': 6, 'D7': 4, 'B7': 13, 'F#m7': 5, 'D': 10, 'Gmaj7': 3, 'GmMaj7': 3, 'C': 4, 'Asus': 2, 'A': 4, 'A7sus': 2}",74 
+Wildest Dreams,C#,1st fret,"['C', 'Em', 'D', 'G', 'Am']","{'C': 30, 'Em': 10, 'D': 30, 'G': 20, 'Am': 20}",70 
+Chandelier,F,1st fret,"['Am', 'F', 'G', 'Em', 'C/E', 'C']","{'Am': 5, 'F': 34, 'G': 21, 'Em': 3, 'C/E': 10, 'C': 4}",87 
+She Will Be Loved,Cm,3rd fret,"['Am', 'G', 'C', 'F']","{'Am': 37, 'G': 42, 'C': 13, 'F': 9}",102 
+Scott Street,Key Not Find,3rd fret,"['G', 'Dsus4', 'A7sus4', 'G/A', 'G/B', 'Csus2', 'Cadd9', 'G5', 'G5/F#', 'B5/C', 'C5']","{'G': 23, 'Dsus4': 23, 'A7sus4': 27, 'G/A': 21, 'G/B': 21, 'Csus2': 46, 'Cadd9': 21, 'G5': 5, 'G5/F#': 5, 'B5/C': 9, 'C5': 8}",68 
+Arcade,Am,no capo,"['F', 'G', 'Em', 'Fmaj7', 'Am', 'Dm', 'C', 'C/E']","{'F': 40, 'G': 28, 'Em': 17, 'Fmaj7': 3, 'Am': 8, 'Dm': 3, 'C': 5, 'C/E': 1}",72 
+Gratitude,E,4th fret,"['G', 'Em', 'D', 'C', 'Dm', 'Cm']","{'G': 20, 'Em': 8, 'D': 21, 'C': 15, 'Dm': 4, 'Cm': 2}",156 
+The Weight,A,no capo,"['A', 'C#m', 'D', 'A/G#', 'Dsus4', 'F#m7', 'E']","{'A': 62, 'C#m': 20, 'D': 50, 'A/G#': 20, 'Dsus4': 5, 'F#m7': 5, 'E': 5}",144 
+Pumped Up Kicks ,Bm,7th fret,"['Em', 'G', 'D', 'A']","{'Em': 15, 'G': 15, 'D': 15, 'A': 15}",132 
+Cyberpunk 2077 - I Really Want To Stay At Your House,Key Not Find,no capo,"['B', 'F#', 'D#m', 'C#', 'Bm', 'G#m', 'A#m', 'F#m', 'G#']","{'B': 29, 'F#': 23, 'D#m': 31, 'C#': 29, 'Bm': 1, 'G#m': 4, 'A#m': 4, 'F#m': 3, 'G#': 3}",NF
+The Man Who Sold The World,C#m,no capo,"['C#', 'F', 'Dm', 'A', 'C']","{'C#': 7, 'F': 15, 'Dm': 11, 'A': 13, 'C': 10}",115 
+No Woman No Cry,C,no capo,"['C', 'G/B', 'Am', 'F', 'G']","{'C': 41, 'G/B': 27, 'Am': 27, 'F': 34, 'G': 6}",78 
+Holly Jolly Christmas,C,no capo,"['C', 'G7', 'F', 'Em', 'Dm', 'Am', 'D7', 'G']","{'C': 8, 'G7': 5, 'F': 1, 'Em': 1, 'Dm': 2, 'Am': 2, 'D7': 3, 'G': 1}",140 
+How Far Ill Go,C,4th fret,"['C', 'F', 'Dm7', 'Am', 'G', 'Fm', 'Cmaj7', 'C#', 'G#', 'A#m', 'F#', 'F#m', 'C#maj7']","{'C': 13, 'F': 10, 'Dm7': 5, 'Am': 12, 'G': 8, 'Fm': 4, 'Cmaj7': 1, 'C#': 4, 'G#': 2, 'A#m': 2, 'F#': 1, 'F#m': 1, 'C#maj7': 1}",91 
+Let Me Down Slowly,Am,4th fret,"['Am', 'G', 'Em', 'F']","{'Am': 27, 'G': 27, 'Em': 27, 'F': 27}",75 
+Boys Dont Cry,Key Not Find,no capo,"['A', 'Bm', 'C#m', 'D', 'E', 'F#m7']","{'A': 18, 'Bm': 34, 'C#m': 34, 'D': 27, 'E': 4, 'F#m7': 3}",168 
+Sweet Dreams Are Made Of This,Cm,3rd fret,"['Am', 'F', 'E', 'Dm', 'D']","{'Am': 35, 'F': 35, 'E': 35, 'Dm': 3, 'D': 3}",125 
+Bad HG#its,Bm,no capo,"['Bm', 'Dmaj7', 'Gsus2', 'A', 'Em7', 'G', 'D', 'F#m']","{'Bm': 34, 'Dmaj7': 32, 'Gsus2': 18, 'A': 21, 'Em7': 14, 'G': 12, 'D': 1, 'F#m': 3}",126 
+Happier,Am,no capo,"['Am7', 'F', 'C']","{'Am7': 35, 'F': 35, 'C': 35}",90 
+Vienna,A#,3rd fret,"['G6', 'Faug', 'F7', 'B7sus4', 'C/G', 'Am7b5', 'Bm7', 'G', 'Em', 'D', 'F', 'C', 'A', 'B9sus', 'B', 'F#m', 'D/F#', 'G/D', 'B7', 'Em7', 'A7', 'D#7', 'B5/F#', 'E7']","{'G6': 1, 'Faug': 1, 'F7': 1, 'B7sus4': 1, 'C/G': 1, 'Am7b5': 1, 'Bm7': 1, 'G': 20, 'Em': 9, 'D': 14, 'F': 5, 'C': 13, 'A': 2, 'B9sus': 5, 'B': 5, 'F#m': 7, 'D/F#': 4, 'G/D': 4, 'B7': 4, 'Em7': 4, 'A7': 5, 'D#7': 4, 'B5/F#': 1, 'E7': 1}",NF
+Skinny Love,Am,no capo,"['Am', 'C', 'D6sus2', 'Fmaj7/C', 'C/B', 'F', 'G']","{'Am': 20, 'C': 27, 'D6sus2': 5, 'Fmaj7/C': 2, 'C/B': 8, 'F': 10, 'G': 2}",150 
+Always On My Mind,D,no capo,"['G', 'D/F#', 'Em', 'A', 'D', 'Bm', 'D/A', 'E', 'D/C', 'Em7/D', 'Em7/B', 'D7', 'Em/B', 'A/C#', 'A/E', 'D/B']","{'G': 17, 'D/F#': 4, 'Em': 6, 'A': 19, 'D': 22, 'Bm': 8, 'D/A': 8, 'E': 3, 'D/C': 1, 'Em7/D': 3, 'Em7/B': 1, 'D7': 5, 'Em/B': 2, 'A/C#': 5, 'A/E': 1, 'D/B': 1}",73 
+Everybody Hurts,Em,no capo,"['D', 'G', 'Em', 'A', 'F#', 'Bm', 'C', 'Am', 'D/A']","{'D': 25, 'G': 27, 'Em': 10, 'A': 10, 'F#': 3, 'Bm': 3, 'C': 2, 'Am': 1, 'D/A': 1}",63 
+Lover,G,no capo,"['G', 'D/F#', 'C', 'Em', 'D', 'G7/F', 'Em/B', 'Am']","{'G': 28, 'D/F#': 10, 'C': 28, 'Em': 8, 'D': 26, 'G7/F': 3, 'Em/B': 2, 'Am': 3}",68 
+Remember,Key Not Find,3rd fret,"['Am', 'G/B', 'C', 'Dm', 'C/E', 'F']","{'Am': 20, 'G/B': 20, 'C': 20, 'Dm': 20, 'C/E': 20, 'F': 20}",124 
+Livin On A Prayer,Key Not Find,no capo,"['Em', 'C', 'D', 'Emadd9', 'G', 'Csus2', 'Gm', 'D#', 'F', 'A#']","{'Em': 30, 'C': 28, 'D': 27, 'Emadd9': 4, 'G': 6, 'Csus2': 1, 'Gm': 2, 'D#': 4, 'F': 4, 'A#': 2}",NF
+Last Kiss,Key Not Find,no capo,"['G', 'Em', 'C', 'D']","{'G': 30, 'Em': 19, 'C': 19, 'D': 19}",112 
+Black,Key Not Find,no capo,"['E', 'Asus2', 'A', 'C', 'Em', 'D']","{'E': 12, 'Asus2': 6, 'A': 3, 'C': 20, 'Em': 18, 'D': 15}",77 
+Line Without A Hook,G#,1st fret,"['G', 'Em', 'C', 'D', 'Am', 'Bm']","{'G': 34, 'Em': 28, 'C': 28, 'D': 29, 'Am': 6, 'Bm': 5}",190 
+Starting Over,A#,3rd fret,"['G', 'Gadd11', 'Cmaj7', 'C', 'D', 'Dsus2', 'Em', 'D/F#', 'Cadd9', 'Am']","{'G': 38, 'Gadd11': 20, 'Cmaj7': 25, 'C': 23, 'D': 5, 'Dsus2': 4, 'Em': 8, 'D/F#': 15, 'Cadd9': 9, 'Am': 2}",178 
+Lavender Haze,D#,1st fret,"['D', 'E', 'Bm']","{'D': 20, 'E': 20, 'Bm': 24}",97 
+K,Key Not Find,1st fret,"['A', 'Dsus2', 'G', 'G/F#', 'Em7']","{'A': 20, 'Dsus2': 20, 'G': 20, 'G/F#': 20, 'Em7': 19}",94 
+Im In Love With You,Key Not Find,no capo,"['G', 'A', 'D', 'Bm', 'Em', 'F#m']","{'G': 62, 'A': 62, 'D': 4, 'Bm': 53, 'Em': 4, 'F#m': 4}",NF
+Eye Of The Tiger,Cm,3rd fret,"['Em7', 'G', 'Am', 'Em', 'F', 'Dm', 'C']","{'Em7': 4, 'G': 41, 'Am': 88, 'Em': 10, 'F': 21, 'Dm': 12, 'C': 6}",NF
+Me And BoA#y Mcgee,Key Not Find,no capo,"['G', 'C/G', 'D7', 'G7', 'C', 'A', 'E7', 'A7', 'D']","{'G': 26, 'C/G': 3, 'D7': 20, 'G7': 1, 'C': 8, 'A': 73, 'E7': 68, 'A7': 1, 'D': 8}",93 
+Never Gonna Give You Up ,Bm,no capo,"['G', 'A', 'F#m', 'Bm', 'F#']","{'G': 43, 'A': 43, 'F#m': 13, 'Bm': 24, 'F#': 11}",NF
+Old Town Road,G#,4th fret,"['E', 'G', 'D', 'A']","{'E': 14, 'G': 14, 'D': 14, 'A': 14}",68 
+Pompeii,F#m,2nd fret,"['C', 'G', 'Em', 'D']","{'C': 28, 'G': 28, 'Em': 22, 'D': 28}",127 
+Brown Eyed Girl,G,no capo,"['G', 'C', 'D', 'Em', 'D7']","{'G': 42, 'C': 23, 'D': 17, 'Em': 3, 'D7': 11}",151 
+Whyd You Only Call Me When Youre High ,Em,no capo,"['Em', 'C', 'Am', 'B', 'B7']","{'Em': 28, 'C': 26, 'Am': 19, 'B': 2, 'B7': 1}",93 
+MockinF#ird,Key Not Find,no capo,"['Em', 'C/G', 'D/A', 'Em/B']","{'Em': 44, 'C/G': 44, 'D/A': 44, 'Em/B': 44}",NF
+I Know The End,C,1st fret,"['C', 'F', 'Am', 'G', 'Dm', 'Cm', 'G#']","{'C': 33, 'F': 37, 'Am': 8, 'G': 16, 'Dm': 16, 'Cm': 1, 'G#': 1}",112 
+Strawberry Fields Forever,A#,1st fret,"['E', 'Emaj7', 'E7', 'D', 'A', 'Em7', 'F#7', 'F#m', 'Dmaj7']","{'E': 17, 'Emaj7': 5, 'E7': 5, 'D': 20, 'A': 26, 'Em7': 9, 'F#7': 9, 'F#m': 9, 'Dmaj7': 6}",NF
+River,C,no capo,"['C', 'Am', 'F', 'G', 'Dm', 'Dm7']","{'C': 31, 'Am': 10, 'F': 28, 'G': 15, 'Dm': 3, 'Dm7': 2}",NF
+Demons,D#,3rd fret,"['C', 'G', 'Am', 'F']","{'C': 22, 'G': 16, 'Am': 16, 'F': 16}",90 
+Oh Darling,A,no capo,"['E7#5', 'A', 'E', 'F#m', 'D', 'Bm7', 'E7', 'A7', 'F7', 'B7', 'A#7']","{'E7#5': 4, 'A': 15, 'E': 6, 'F#m': 5, 'D': 11, 'Bm7': 9, 'E7': 13, 'A7': 4, 'F7': 5, 'B7': 3, 'A#7': 2}",58 
+Tiny Dancer,C,no capo,"['C', 'F', 'F/C', 'F/A', 'G/B', 'G', 'Em7', 'Am7', 'D/F#', 'Dm7', 'E7', 'Am', 'G7/B', 'G/D', 'Em', 'Dm', 'Dm7/F', 'G7', 'G#', 'A#', 'Gm', 'Cm', 'C/E', 'G/A']","{'C': 41, 'F': 34, 'F/C': 28, 'F/A': 6, 'G/B': 5, 'G': 5, 'Em7': 3, 'Am7': 3, 'D/F#': 3, 'Dm7': 2, 'E7': 3, 'Am': 3, 'G7/B': 2, 'G/D': 5, 'Em': 3, 'Dm': 21, 'Dm7/F': 1, 'G7': 1, 'G#': 4, 'A#': 4, 'Gm': 2, 'Cm': 2, 'C/E': 28, 'G/A': 10}",NF
+Time After Time,F,no capo,"['F', 'G', 'Em', 'Dm/C', 'C', 'Am7', 'Fadd9']","{'F': 20, 'G': 34, 'Em': 14, 'Dm/C': 24, 'C': 34, 'Am7': 9, 'Fadd9': 10}",130 
+Night Moves,Key Not Find,1st fret,"['G', 'F', 'C', 'D', 'Em', 'G7', 'Cmaj7', 'Bm', 'Am']","{'G': 32, 'F': 49, 'C': 39, 'D': 14, 'Em': 9, 'G7': 1, 'Cmaj7': 3, 'Bm': 1, 'Am': 1}",119 
+Body Paint,A#,no capo,"['A#', 'Gm/A#', 'A7', 'Dm', 'Dm7', 'Gm', 'Em7', 'A', 'F', 'D#', 'D7', 'Gmadd11/C', 'A#M7', 'Dm/A#', 'Dm/A', 'F#/C#', 'G', 'G7/D', 'Dm6', 'Em', 'Em/C', 'C', 'C/E', 'Am', 'GM7', 'G7', 'CM7', 'Am/C', 'D#M7', 'A#/D#', 'D#m7', 'A#6', 'Gm/C', 'D7/C', 'C9', 'D', 'C7sus2', 'Cm9', 'C7']","{'A#': 7, 'Gm/A#': 1, 'A7': 3, 'Dm': 2, 'Dm7': 4, 'Gm': 4, 'Em7': 2, 'A': 1, 'F': 2, 'D#': 7, 'D7': 14, 'Gmadd11/C': 3, 'A#M7': 2, 'Dm/A#': 1, 'Dm/A': 1, 'F#/C#': 1, 'G': 5, 'G7/D': 1, 'Dm6': 1, 'Em': 3, 'Em/C': 1, 'C': 2, 'C/E': 1, 'Am': 3, 'GM7': 2, 'G7': 2, 'CM7': 2, 'Am/C': 1, 'D#M7': 9, 'A#/D#': 1, 'D#m7': 1, 'A#6': 1, 'Gm/C': 5, 'D7/C': 2, 'C9': 1, 'D': 1, 'C7sus2': 4, 'Cm9': 1, 'C7': 1}",NF
+Help,A,no capo,"['A6', 'Bm', 'Bm/A', 'G', 'G/F#', 'E', 'A', 'C#m', 'F#m', 'D']","{'A6': 2, 'Bm': 4, 'Bm/A': 4, 'G': 10, 'G/F#': 4, 'E': 4, 'A': 13, 'C#m': 6, 'F#m': 7, 'D': 6}",191 
+Johnny B Goode,Key Not Find,1st fret,"['A', 'D', 'E']","{'A': 21, 'D': 6, 'E': 6}",168 
+Mamma Mia - Dancing Queen,Key Not Find,no capo,"['A', 'D', 'D/F#', 'A/E', 'E', 'C#7/E#', 'F#m', 'B', 'Bm', 'E/G#']","{'A': 30, 'D': 23, 'D/F#': 4, 'A/E': 4, 'E': 15, 'C#7/E#': 4, 'F#m': 12, 'B': 4, 'Bm': 6, 'E/G#': 2}",NF
+I Wanna Be Yours,Key Not Find,3rd fret,"['Am', 'Dm', 'Em', 'G', 'F']","{'Am': 21, 'Dm': 16, 'Em': 16, 'G': 10, 'F': 10}",68 
+All Star,F#,no capo,"['G', 'D', 'Am', 'C', 'C#dim', 'F']","{'G': 39, 'D': 20, 'Am': 20, 'C': 52, 'C#dim': 14, 'F': 5}",104 
+Annies Song,Key Not Find,no capo,"['D', 'Dsus4', 'G', 'A', 'Bm', 'D/C#', 'F#m', 'Em', 'A7']","{'D': 22, 'Dsus4': 13, 'G': 28, 'A': 16, 'Bm': 16, 'D/C#': 8, 'F#m': 8, 'Em': 8, 'A7': 11}",146 
+Your Man,F#,no capo,"['C', 'G', 'D', 'Am', 'Bm']","{'C': 11, 'G': 21, 'D': 12, 'Am': 4, 'Bm': 2}",101 
+Girl From The North Country,Key Not Find,no capo,"['G', 'Bm', 'C', 'F', 'Am', 'A#', 'E', 'G#m', 'A']","{'G': 43, 'Bm': 22, 'C': 22, 'F': 1, 'Am': 1, 'A#': 1, 'E': 1, 'G#m': 1, 'A': 1}",NF
+Shes Always A Woman,A#,1st fret,"['D', 'Dsus4', 'Dsus2', 'A7', 'D7', 'G', 'F#', 'Bm', 'Em', 'E', 'E7', 'A', 'F#m', 'Dm7', 'G7', 'C', 'Am', 'A#', 'Bm/A', 'D/F#']","{'D': 30, 'Dsus4': 2, 'Dsus2': 1, 'A7': 30, 'D7': 8, 'G': 16, 'F#': 6, 'Bm': 8, 'Em': 8, 'E': 4, 'E7': 4, 'A': 4, 'F#m': 2, 'Dm7': 2, 'G7': 2, 'C': 2, 'Am': 2, 'A#': 2, 'Bm/A': 1, 'D/F#': 1}",176 
+The Sound Of Music - Edelweiss,G#,1st fret,"['G', 'D', 'C', 'Em', 'Am7', 'D7', 'A7', 'G/F', 'C/E', 'Cm/D#']","{'G': 11, 'D': 4, 'C': 3, 'Em': 1, 'Am7': 1, 'D7': 5, 'A7': 1, 'G/F': 1, 'C/E': 1, 'Cm/D#': 1}",99 
+Ripple,Key Not Find,no capo,"['G', 'C', 'D', 'Am', 'A']","{'G': 32, 'C': 27, 'D': 10, 'Am': 2, 'A': 2}",126 
+Stitches,A#m,1st fret,"['Am', 'G', 'C', 'F']","{'Am': 30, 'G': 32, 'C': 26, 'F': 29}",150 
+Numb,F#m,2nd fret,"['Em', 'C', 'G', 'D', 'D/F#', 'Bm7', 'B', 'Bsus4']","{'Em': 19, 'C': 21, 'G': 19, 'D': 22, 'D/F#': 1, 'Bm7': 1, 'B': 1, 'Bsus4': 1}",110 
+I Dont Want To Miss A Thing,D,no capo,"['D', 'A', 'Bm', 'G', 'Em', 'F#m', 'C', 'A#', 'F', 'Dm']","{'D': 22, 'A': 26, 'Bm': 4, 'G': 16, 'Em': 13, 'F#m': 1, 'C': 2, 'A#': 1, 'F': 1, 'Dm': 1}",60 
+Moon River,G,no capo,"['G', 'Em', 'C', 'Am', 'B7', 'G7', 'Cm', 'Em7', 'A7', 'D7']","{'G': 19, 'Em': 9, 'C': 12, 'Am': 7, 'B7': 3, 'G7': 2, 'Cm': 5, 'Em7': 4, 'A7': 2, 'D7': 4}",80 
+No Se Va,Key Not Find,no capo,"['F', 'Am', 'C', 'G']","{'F': 16, 'Am': 19, 'C': 16, 'G': 16}",NF
+Complicated,Dm,no capo,"['Dm', 'A#', 'F', 'C', 'Gm']","{'Dm': 25, 'A#': 32, 'F': 23, 'C': 25, 'Gm': 4}",78 
+Can You Feel The Love Tonight,A#,3rd fret,"['G', 'D/F#', 'C/E', 'G/D', 'C', 'G/B', 'Am7', 'D', 'Em', 'F', 'A/C#', 'Am', 'C/D', 'C/G']","{'G': 20, 'D/F#': 8, 'C/E': 2, 'G/D': 7, 'C': 34, 'G/B': 19, 'Am7': 3, 'D': 10, 'Em': 11, 'F': 2, 'A/C#': 6, 'Am': 6, 'C/D': 3, 'C/G': 3}",62 
+Skyfall,Cm,3rd fret,"['Am', 'Am/G', 'F', 'F/E', 'E', 'Esus', 'D', 'D/C', 'Dm', 'Dm7/A', 'Asus2/C', 'Bm7b5', 'Esus/B', 'E/C', 'Asus2']","{'Am': 23, 'Am/G': 9, 'F': 22, 'F/E': 10, 'E': 13, 'Esus': 8, 'D': 23, 'D/C': 8, 'Dm': 13, 'Dm7/A': 2, 'Asus2/C': 6, 'Bm7b5': 9, 'Esus/B': 2, 'E/C': 1, 'Asus2': 1}",75 
+Cant Take My Eyes Off You,C#,1st fret,"['C', 'Cmaj7', 'C7', 'F', 'Fm7', 'Dm7', 'G7', 'G', 'Em7', 'Am7', 'A#7', 'A7', 'D', 'Dmaj7', 'D7sus4', 'Gm7', 'F#m7', 'Bm7', 'Em', 'B7']","{'C': 8, 'Cmaj7': 2, 'C7': 3, 'F': 2, 'Fm7': 2, 'Dm7': 6, 'G7': 2, 'G': 4, 'Em7': 6, 'Am7': 2, 'A#7': 1, 'A7': 5, 'D': 5, 'Dmaj7': 1, 'D7sus4': 1, 'Gm7': 1, 'F#m7': 2, 'Bm7': 2, 'Em': 1, 'B7': 1}",88 
+Creep,C,no capo,"['C', 'E', 'F', 'Fm']","{'C': 12, 'E': 11, 'F': 11, 'Fm': 11}",92 
+Karma,Key Not Find,1st fret,"['D', 'Am7', 'C', 'G', 'Bm', 'F#m', 'A']","{'D': 17, 'Am7': 16, 'C': 17, 'G': 17, 'Bm': 1, 'F#m': 1, 'A': 1}",NF
+Stairway To Heaven,Am,no capo,"['Am', 'E+', 'C', 'D', 'F', 'G', 'Em', 'Dsus4', 'Dsus2', 'Cadd9']","{'Am': 51, 'E+': 6, 'C': 37, 'D': 35, 'F': 21, 'G': 48, 'Em': 7, 'Dsus4': 4, 'Dsus2': 2, 'Cadd9': 2}",NF
+Summer Of 69,D,no capo,"['D', 'A', 'D', 'A', 'Bm', 'G', 'F', 'A#', 'C', 'A#/D']","{'D': 31, 'A': 30, 'Bm': 9, 'G': 6, 'F': 2, 'A#': 2, 'C': 2, 'A#/D': 1}",138 
+Ceilings,Key Not Find,2nd fret,"['C', 'Em', 'G', 'D', 'B7']","{'C': 20, 'Em': 9, 'G': 10, 'D': 16, 'B7': 1}",148 
+Run Away To Mars,Key Not Find,2nd fret,"['G', 'D', 'Em7', 'Cadd9', 'Em', 'Am7', 'Dsus4', 'Am']","{'G': 27, 'D': 23, 'Em7': 3, 'Cadd9': 17, 'Em': 15, 'Am7': 6, 'Dsus4': 3, 'Am': 4}",NF
+I Love You,C,no capo,"['Fmaj7', 'Cadd9', 'C', 'Dm', 'G', 'Am']","{'Fmaj7': 18, 'Cadd9': 12, 'C': 6, 'Dm': 4, 'G': 4, 'Am': 3}",138 
+Save Your Tears,C,no capo,"['C', 'Am', 'Em', 'G', 'Dm', 'F', 'F/G']","{'C': 23, 'Am': 25, 'Em': 22, 'G': 23, 'Dm': 3, 'F': 3, 'F/G': 2}",118 
+The Perfect Pair,Key Not Find,no capo,"['G#m', 'G#mmaj7', 'G#m7', 'Emaj7/F', 'Emaj7', 'Emaj7/B', 'Emaj7/G#']","{'G#m': 12, 'G#mmaj7': 12, 'G#m7': 11, 'Emaj7/F': 11, 'Emaj7': 10, 'Emaj7/B': 10, 'Emaj7/G#': 9}",NF
+G#out You,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 16, 'A': 26, 'Bm': 15, 'G': 13}",NF
+Black Panther Wakanda Forever - Lift Me Up,A,no capo,"['A', 'Bm', 'E7', 'F#m7']","{'A': 25, 'Bm': 17, 'E7': 17, 'F#m7': 5}",NF
+Lemon Tree,Am,4th fret,"['F#dim7', 'G', 'Am', 'Em', 'Dm', 'C', 'F', 'G7', 'E']","{'F#dim7': 3, 'G': 14, 'Am': 38, 'Em': 38, 'Dm': 7, 'C': 9, 'F': 7, 'G7': 4, 'E': 2}",143 
+I Still Havent Found What Im Looking For,C#,1st fret,"['C', 'Fsus2', 'G', 'Csus4', 'F']","{'C': 31, 'Fsus2': 15, 'G': 8, 'Csus4': 6, 'F': 2}",101 
+Bohemian Rhapsody,A#,no capo,"['Gm7', 'C7', 'F7', 'Cm7', 'A#', 'A#7', 'D#', 'B', 'A', 'A#/D', 'C#dim7', 'F7/C', 'Gm', 'Cm', 'D#/B', 'D#/A#', 'Am7b5', 'G#maj7', 'D#/G', 'Fm', 'Eaug', 'G#/D#', 'Dm7b5', 'G#m', 'G#', 'D#dim', 'Fm7', 'C#', 'C#/C', 'C#/B', 'C#/A#', 'D', 'Adim', 'C#/G#', 'G#7', 'C/G', 'E7', 'F#dim', 'F#7', 'Bm', 'A7', 'C#7', 'F#7', 'Ddim', 'D7', 'F', 'D#7', 'F#', 'B7', 'Bdim7', 'G#/A#', 'D#dim7', 'A#m/C#', 'C7-9', 'G#dim']","{'Gm7': 5, 'C7': 5, 'F7': 7, 'Cm7': 6, 'A#': 33, 'A#7': 11, 'D#': 36, 'B': 6, 'A': 17, 'A#/D': 8, 'C#dim7': 1, 'F7/C': 1, 'Gm': 8, 'Cm': 15, 'D#/B': 2, 'D#/A#': 4, 'Am7b5': 2, 'G#maj7': 2, 'D#/G': 4, 'Fm': 8, 'Eaug': 4, 'G#/D#': 7, 'Dm7b5': 4, 'G#m': 2, 'G#': 8, 'D#dim': 3, 'Fm7': 2, 'C#': 2, 'C#/C': 1, 'C#/B': 1, 'C#/A#': 1, 'D': 7, 'Adim': 3, 'C#/G#': 1, 'G#7': 2, 'C/G': 1, 'E7': 1, 'F#dim': 1, 'F#7': 1, 'Bm': 1, 'A7': 1, 'C#7': 1, 'F#7': 1, 'Ddim': 1, 'D7': 1, 'F': 5, 'D#7': 1, 'F#': 1, 'B7': 1, 'Bdim7': 2, 'G#/A#': 1, 'D#dim7': 1, 'A#m/C#': 1, 'C7-9': 1, 'G#dim': 1}",NF
+Merry Christmas Everyone,G,2nd fret,"['G', 'B7/F#', 'Em', 'C', 'D', 'A', 'C#7/G#', 'F#m', 'E']","{'G': 44, 'B7/F#': 12, 'Em': 16, 'C': 23, 'D': 28, 'A': 25, 'C#7/G#': 7, 'F#m': 7, 'E': 9}",102 
+Island In The Sun,Em,no capo,"['Em', 'Am', 'D', 'G', 'C']","{'Em': 40, 'Am': 42, 'D': 46, 'G': 44, 'C': 2}",115 
+Thank You,G#m,4th fret,"['D/F#', 'G/B', 'Em', 'C', 'D', 'G', 'Em/B', 'Bm', 'Am']","{'D/F#': 7, 'G/B': 13, 'Em': 10, 'C': 27, 'D': 6, 'G': 21, 'Em/B': 2, 'Bm': 5, 'Am': 5}",80 
+Favorite Crime,A,2nd fret,"['G', 'Em', 'D', 'Cmaj7', 'Am']","{'G': 12, 'Em': 8, 'D': 9, 'Cmaj7': 9, 'Am': 2}",90 
+Home,Bm,2nd fret,"['Am', 'C', 'C/E', 'F', 'Dm', 'G']","{'Am': 24, 'C': 49, 'C/E': 20, 'F': 25, 'Dm': 8, 'G': 8}",112 
+I Walk The Line,F,1st fret,"['B7', 'E', 'A', 'E7', 'D', 'A7', 'G']","{'B7': 6, 'E': 8, 'A': 10, 'E7': 6, 'D': 6, 'A7': 3, 'G': 1}",212 
+This Is The Life,C#m,4th fret,"['Am', 'F', 'C', 'Em']","{'Am': 21, 'F': 17, 'C': 17, 'Em': 17}",190 
+Norwegian Wood,E,2nd fret,"['D', 'C', 'G', 'Dm', 'Em', 'A', 'E', 'F#m', 'B']","{'D': 16, 'C': 8, 'G': 12, 'Dm': 5, 'Em': 4, 'A': 4, 'E': 1, 'F#m': 1, 'B': 1}",NF
+Highway To Hell,A,no capo,"['A', 'D/F#', 'G', 'E', 'D/A', 'D', 'Dsus4']","{'A': 90, 'D/F#': 75, 'G': 42, 'E': 2, 'D/A': 20, 'D': 5, 'Dsus4': 3}",116 
+Riptide,A#m,6th fret,"['Em', 'Dadd9', 'G', 'D', 'C']","{'Em': 39, 'Dadd9': 37, 'G': 39, 'D': 2, 'C': 2}",98 
+Stay ,C,no capo,"['Fmaj7', 'Cmaj7/G', 'Am7', 'Fm', 'D7', 'F']","{'Fmaj7': 7, 'Cmaj7/G': 13, 'Am7': 12, 'Fm': 6, 'D7': 3, 'F': 4}",78 
+Rises The Moon,G,no capo,"['Am7', 'D7', 'Am', 'Cmaj7', 'F', 'Fm', 'C7']","{'Am7': 6, 'D7': 4, 'Am': 4, 'Cmaj7': 13, 'F': 8, 'Fm': 8, 'C7': 5}",137 
+Beautiful Crazy,B,4th fret,"['G', 'D/F#', 'Em7', 'D', 'C', 'Am7', 'G/B']","{'G': 14, 'D/F#': 13, 'Em7': 10, 'D': 15, 'C': 10, 'Am7': 5, 'G/B': 4}",154 
+Kiss Me,D,1st fret,"['D', 'Dmaj7', 'D7', 'G', 'Em', 'A', 'Bm', 'D/C#', 'Bm7', 'D/A', 'Gmaj7', 'Asus4']","{'D': 25, 'Dmaj7': 24, 'D7': 17, 'G': 2, 'Em': 11, 'A': 14, 'Bm': 4, 'D/C#': 3, 'Bm7': 3, 'D/A': 3, 'Gmaj7': 3, 'Asus4': 3}",100 
+Demons,D,1st fret,"['D', 'A', 'Bm', 'G']","{'D': 20, 'A': 16, 'Bm': 16, 'G': 15}",90 
+Wake Me Up When September Ends,G,no capo,"['G5', 'G5/F#', 'G5/E', 'G5/D', 'C', 'Cm', 'Em', 'Bm', 'D', 'D/F#', 'Dsus4']","{'G5': 38, 'G5/F#': 14, 'G5/E': 9, 'G5/D': 9, 'C': 16, 'Cm': 10, 'Em': 6, 'Bm': 6, 'D': 4, 'D/F#': 1, 'Dsus4': 2}",105 
+Basket Case,D#,1st fret,"['E', 'A', 'D', 'G', 'B', 'Bm', 'F#m', 'C']","{'E': 1, 'A': 43, 'D': 41, 'G': 25, 'B': 1, 'Bm': 19, 'F#m': 6, 'C': 3}",NF
+Frosty The Snowman,G,no capo,"['G', 'D7', 'C', 'D', 'Bm', 'Am', 'C#dim', 'Em']","{'G': 30, 'D7': 7, 'C': 19, 'D': 5, 'Bm': 2, 'Am': 2, 'C#dim': 2, 'Em': 2}",144 
+Dont Cry,Key Not Find,no capo,"['Am', 'Dm', 'G', 'C', 'F']","{'Am': 24, 'Dm': 12, 'G': 24, 'C': 15, 'F': 12}",NF
+If I Can Dream,C,no capo,"['C', 'Am', 'F', 'G7', 'Dm', 'C7', 'E7', 'Dm7', 'F#dim', 'D7', 'A', 'D', 'Bm', 'G', 'A7', 'Em', 'G#dim']","{'C': 17, 'Am': 12, 'F': 10, 'G7': 8, 'Dm': 1, 'C7': 5, 'E7': 3, 'Dm7': 3, 'F#dim': 3, 'D7': 1, 'A': 2, 'D': 9, 'Bm': 6, 'G': 4, 'A7': 2, 'Em': 2, 'G#dim': 1}",NF
+Champagne Problems,C,no capo,"['C', 'G', 'Am', 'F']","{'C': 19, 'G': 19, 'Am': 19, 'F': 19}",85 
+Both Sides Now,G,no capo,"['G', 'Am', 'C', 'Gmaj7', 'Am7', 'D', 'Bm', 'D7']","{'G': 74, 'Am': 12, 'C': 58, 'Gmaj7': 6, 'Am7': 6, 'D': 10, 'Bm': 4, 'D7': 4}",NF
+Come As You Are,Key Not Find,no capo,"['F#m', 'E', 'A', 'Bm', 'D', 'F#sus4']","{'F#m': 42, 'E': 30, 'A': 12, 'Bm': 10, 'D': 10, 'F#sus4': 1}",120 
+Harvest Moon,C,2nd fret,"['C', 'Am', 'F', 'G', 'Dm', 'D', 'Bm', 'Dmaj7', 'A', 'Em']","{'C': 33, 'Am': 22, 'F': 12, 'G': 16, 'Dm': 2, 'D': 14, 'Bm': 1, 'Dmaj7': 12, 'A': 4, 'Em': 2}",NF
+La La Land - City Of Stars,Gm,no capo,"['Gm', 'C', 'Dm', 'F', 'F/E', 'Dm7', 'A', 'A#']","{'Gm': 11, 'C': 10, 'Dm': 8, 'F': 5, 'F/E': 2, 'Dm7': 6, 'A': 6, 'A#': 4}",100 
+Fix You,D#,3rd fret,"['C', 'Em', 'Am7', 'Em/G', 'F', 'G', 'Gsus4']","{'C': 36, 'Em': 16, 'Am7': 18, 'Em/G': 13, 'F': 17, 'G': 16, 'Gsus4': 9}",69 
+Jealous,C,1st fret,"['C', 'F', 'Am', 'G', 'Dm', 'G7', 'F#dim7', 'F7b9', 'G#maj7', 'D#maj7', 'C7', 'Fm7', 'A#7', 'D#', 'Fm', 'Cm7', 'C#7-9', 'A#7-9', 'G#', 'Cm', 'A#', 'F7']","{'C': 26, 'F': 28, 'Am': 23, 'G': 11, 'Dm': 6, 'G7': 2, 'F#dim7': 2, 'F7b9': 1, 'G#maj7': 2, 'D#maj7': 2, 'C7': 2, 'Fm7': 3, 'A#7': 2, 'D#': 3, 'Fm': 1, 'Cm7': 1, 'C#7-9': 1, 'A#7-9': 1, 'G#': 4, 'Cm': 3, 'A#': 2, 'F7': 1}",85 
+Under The Bridge,E,no capo,"['D', 'F#', 'E', 'B', 'C#m', 'G#m', 'A', 'Emaj7', 'F#m', 'B/F#', 'Am7', 'G6', 'Fmaj7', 'E7', 'Gmaj7', 'C']","{'D': 1, 'F#': 1, 'E': 22, 'B': 14, 'C#m': 14, 'G#m': 7, 'A': 18, 'Emaj7': 3, 'F#m': 12, 'B/F#': 8, 'Am7': 3, 'G6': 4, 'Fmaj7': 5, 'E7': 1, 'Gmaj7': 1, 'C': 1}",85 
+Ill Be Home For Christmas,C,no capo,"['C', 'Em', 'Dm', 'G7', 'Gm', 'A', 'Fm', 'Am', 'D7', 'F', 'A7', 'G', 'E7', 'Cm']","{'C': 9, 'Em': 3, 'Dm': 6, 'G7': 4, 'Gm': 2, 'A': 2, 'Fm': 2, 'Am': 5, 'D7': 7, 'F': 1, 'A7': 5, 'G': 8, 'E7': 3, 'Cm': 1}",NF
+Supermarket Flowers,C,6th fret,"['C', 'Dm', 'Em', 'F', 'Am', 'G', 'Dm7', 'Fadd9']","{'C': 38, 'Dm': 5, 'Em': 20, 'F': 36, 'Am': 11, 'G': 25, 'Dm7': 3, 'Fadd9': 2}",90 
+Bad HG#it,Key Not Find,1st fret,"['Bm', 'C', 'G', 'Am', 'D', 'B', 'Em', 'B7']","{'Bm': 33, 'C': 40, 'G': 32, 'Am': 32, 'D': 7, 'B': 1, 'Em': 5, 'B7': 5}",84 
+Dancing In The Dark,B,4th fret,"['G', 'Em', 'C', 'Am', 'D', 'A', 'F#m', 'Bm', 'E']","{'G': 28, 'Em': 23, 'C': 19, 'Am': 16, 'D': 11, 'A': 1, 'F#m': 1, 'Bm': 1, 'E': 1}",NF
+Isnt She Lovely,C#m,2nd fret,"['Bm7', 'E', 'E7', 'Em', 'A7', 'D', 'G', 'F#', 'F#m']","{'Bm7': 9, 'E': 9, 'E7': 9, 'Em': 9, 'A7': 9, 'D': 9, 'G': 6, 'F#': 3, 'F#m': 3}",119 
+Havana,Gm,3rd fret,"['Em', 'C', 'B7']","{'Em': 48, 'C': 44, 'B7': 46}",105 
+Ceilings,Key Not Find,2nd fret,"['Cmaj7', 'G', 'D/F#', 'B']","{'Cmaj7': 19, 'G': 16, 'D/F#': 17, 'B': 1}",145 
+I Wont Back Down,G,no capo,"['Em', 'D', 'G', 'C']","{'Em': 29, 'D': 45, 'G': 49, 'C': 20}",114 
+Let It Go,G,6th fret,"['Em', 'Em7/D', 'C#m7b5', 'Cmaj7', 'G', 'C', 'D', 'Em/C#', 'Am']","{'Em': 29, 'Em7/D': 1, 'C#m7b5': 1, 'Cmaj7': 1, 'G': 35, 'C': 25, 'D': 35, 'Em/C#': 4, 'Am': 9}",74 
+Ghost,D,no capo,"['Bm', 'G', 'D', 'A', 'Em', 'F#m']","{'Bm': 21, 'G': 23, 'D': 20, 'A': 22, 'Em': 2, 'F#m': 2}",77 
+Ho Hey,C,no capo,"['C', 'F', 'Am', 'G']","{'C': 36, 'F': 32, 'Am': 11, 'G': 14}",80 
+Little Drummer Boy,G#,1st fret,"['G', 'C', 'D']","{'G': 29, 'C': 12, 'D': 11}",100 
+Shake The Frost,G,2nd fret,"['C/G', 'Am/B', 'Csus2', 'G', 'F', 'C', 'Am', 'Csus']","{'C/G': 15, 'Am/B': 10, 'Csus2': 3, 'G': 29, 'F': 16, 'C': 27, 'Am': 9, 'Csus': 5}",NF
+Paint It Black,Em,no capo,"['Em', 'B', 'D', 'G', 'A']","{'Em': 34, 'B': 23, 'D': 20, 'G': 10, 'A': 5}",159 
+First Day Of My Life,C,4th fret,"['Dmadd9', 'C', 'E7', 'Am', 'F', 'G', 'D7', 'G7', 'E', 'E7/B', 'Am7', 'Fm', 'Dm']","{'Dmadd9': 6, 'C': 23, 'E7': 9, 'Am': 13, 'F': 7, 'G': 13, 'D7': 4, 'G7': 4, 'E': 2, 'E7/B': 4, 'Am7': 4, 'Fm': 3, 'Dm': 1}",180 
+Unchained Melody,G,no capo,"['G', 'Em', 'C', 'D', 'Bm', 'G7', 'A#']","{'G': 10, 'Em': 7, 'C': 10, 'D': 15, 'Bm': 1, 'G7': 1, 'A#': 2}",NF
+Please Come Home For Christmas,A,no capo,"['A', 'E', 'F#', 'C#', 'Amaj7', 'A7', 'D', 'B7/D#', 'A/G#', 'F#m', 'B7', 'E+', 'E7', 'Dm', 'C#7', 'F#m/E', 'D#dim', 'A/E']","{'A': 19, 'E': 4, 'F#': 2, 'C#': 2, 'Amaj7': 4, 'A7': 6, 'D': 13, 'B7/D#': 4, 'A/G#': 2, 'F#m': 6, 'B7': 5, 'E+': 3, 'E7': 3, 'Dm': 2, 'C#7': 2, 'F#m/E': 2, 'D#dim': 2, 'A/E': 2}",61 
+Desperado,Key Not Find,no capo,"['G', 'G7', 'C', 'Cm', 'Em', 'A7', 'D7', 'D', 'Bm', 'Am', 'B7', 'F', 'F7', 'A#', 'A#m', 'Dm', 'C7', 'Gm']","{'G': 26, 'G7': 10, 'C': 17, 'Cm': 9, 'Em': 16, 'A7': 9, 'D7': 9, 'D': 7, 'Bm': 5, 'Am': 6, 'B7': 2, 'F': 1, 'F7': 1, 'A#': 1, 'A#m': 1, 'Dm': 1, 'C7': 1, 'Gm': 1}",NF
+The River,Em,no capo,"['Em', 'G', 'D', 'C', 'Am']","{'Em': 26, 'G': 32, 'D': 20, 'C': 40, 'Am': 7}",117 
+Tangled - I See The Light,C,no capo,"['C', 'G', 'F', 'C/E', 'D7', 'Em', 'Am', 'D#', 'A#', 'G#', 'D#/G', 'F7', 'Gm', 'Cm', 'G7', 'D#/D', 'F9']","{'C': 15, 'G': 10, 'F': 7, 'C/E': 2, 'D7': 2, 'Em': 3, 'Am': 2, 'D#': 14, 'A#': 11, 'G#': 8, 'D#/G': 4, 'F7': 2, 'Gm': 2, 'Cm': 3, 'G7': 1, 'D#/D': 1, 'F9': 1}",100 
+The Greatest Showman - Never Enough,G#,1st fret,"['G', 'D', 'Em', 'C', 'Am', 'Cm']","{'G': 16, 'D': 13, 'Em': 11, 'C': 11, 'Am': 4, 'Cm': 1}",NF
+Fake Plastic Trees,A,no capo,"['A', 'Asus4', 'Dmaj9/F#', 'E6', 'Dsus2', 'Bm7add11', 'Amaj7']","{'A': 23, 'Asus4': 9, 'Dmaj9/F#': 13, 'E6': 10, 'Dsus2': 13, 'Bm7add11': 11, 'Amaj7': 2}",74 
+Youre Still The One,D#,1st fret,"['D', 'G', 'A', 'Em']","{'D': 26, 'G': 25, 'A': 25, 'Em': 6}",67 
+G#out A Girl ,Em,no capo,"['F#7add11', 'Em', 'G', 'C#', 'C#/G#', 'E', 'A5', 'C', 'A']","{'F#7add11': 9, 'Em': 57, 'G': 52, 'C#': 8, 'C#/G#': 8, 'E': 5, 'A5': 4, 'C': 6, 'A': 1}",120 
+Cleopatra ,Key Not Find,1st fret,"['G', 'D', 'C', 'Em']","{'G': 42, 'D': 23, 'C': 22, 'Em': 3}",150 
+Hello,Fm,1st fret,"['Em', 'G/D', 'D', 'C', 'Bm']","{'Em': 48, 'G/D': 42, 'D': 47, 'C': 47, 'Bm': 2}",79 
+Between The Bars,Key Not Find,no capo,"['Am7', 'F', 'C', 'E7', 'G', 'Am', 'Am/F#', 'Fm']","{'Am7': 10, 'F': 20, 'C': 8, 'E7': 8, 'G': 6, 'Am': 6, 'Am/F#': 2, 'Fm': 2}",138 
+Free Bird,G,no capo,"['G', 'D', 'Em', 'F', 'C', 'A#']","{'G': 14, 'D': 27, 'Em': 10, 'F': 17, 'C': 20, 'A#': 3}",NF
+Come Together,Dm,no capo,"['Dm', 'A7', 'G7', 'Bm', 'A', 'G']","{'Dm': 8, 'A7': 4, 'G7': 4, 'Bm': 3, 'A': 6, 'G': 3}",82 
+Life On Mars,Fm,no capo,"['F', 'Am', 'Cm/D#', 'D7', 'Gm', 'A#', 'C7', 'G#', 'Eaug', 'Fm', 'G#7', 'C#', 'Aaug', 'A#m', 'C#7', 'D#', 'Gm7', 'F#aug', 'Cm7', 'D#m7', 'A#/F', 'C/E', 'F#dim', 'Ddim']","{'F': 12, 'Am': 6, 'Cm/D#': 5, 'D7': 5, 'Gm': 8, 'A#': 10, 'C7': 5, 'G#': 3, 'Eaug': 3, 'Fm': 7, 'G#7': 3, 'C#': 3, 'Aaug': 3, 'A#m': 4, 'C#7': 3, 'D#': 5, 'Gm7': 5, 'F#aug': 7, 'Cm7': 5, 'D#m7': 5, 'A#/F': 2, 'C/E': 2, 'F#dim': 1, 'Ddim': 1}",NF
+Halo,G,2nd fret,"['G', 'Am', 'Em', 'C']","{'G': 25, 'Am': 20, 'Em': 20, 'C': 20}",80 
+Under The Influence,Am,no capo,"['Am', 'Cadd9', 'Fmaj7', 'G', 'Cmaj9', 'C', 'F', 'Em']","{'Am': 20, 'Cadd9': 1, 'Fmaj7': 2, 'G': 20, 'Cmaj9': 1, 'C': 12, 'F': 18, 'Em': 2}",NF
+21 Guns,Dm,no capo,"['A', 'A#', 'C', 'Dm', 'F', 'A#5', 'C5', 'C/E', 'D5', 'F5', 'A5']","{'A': 1, 'A#': 25, 'C': 22, 'Dm': 20, 'F': 20, 'A#5': 19, 'C5': 28, 'C/E': 11, 'D5': 14, 'F5': 29, 'A5': 3}",80 
+A Day In The Life,G,no capo,"['G', 'Bm', 'Em', 'Em7', 'C', 'C/B', 'Asus2', 'F', 'Em/F#', 'Em/G', 'Em/A', 'Em/B', 'Em/C#', 'Em/D', 'E', 'Dsus2', 'B7sus4', 'D', 'A', 'Em/C']","{'G': 11, 'Bm': 9, 'Em': 16, 'Em7': 13, 'C': 18, 'C/B': 4, 'Asus2': 4, 'F': 5, 'Em/F#': 2, 'Em/G': 2, 'Em/A': 2, 'Em/B': 2, 'Em/C#': 1, 'Em/D': 2, 'E': 9, 'Dsus2': 2, 'B7sus4': 4, 'D': 4, 'A': 2, 'Em/C': 1}",78 
+My Way,D,no capo,"['D', 'Dmaj7', 'D7', 'B7', 'Em7', 'Em7/D', 'Em7/C#', 'A7', 'G', 'Gm', 'A', 'Asus4', 'Gsus4', 'Em', 'F#m', 'Bm7']","{'D': 21, 'Dmaj7': 5, 'D7': 8, 'B7': 3, 'Em7': 5, 'Em7/D': 3, 'Em7/C#': 3, 'A7': 5, 'G': 11, 'Gm': 3, 'A': 5, 'Asus4': 5, 'Gsus4': 1, 'Em': 2, 'F#m': 2, 'Bm7': 2}",75 
+And I Love Her,Key Not Find,no capo,"['F#m', 'E', 'C#m', 'A', 'B', 'G#m', 'B7', 'Gm', 'Dm', 'A#', 'C7', 'F', 'Dm/F', 'D']","{'F#m': 10, 'E': 4, 'C#m': 12, 'A': 3, 'B': 5, 'G#m': 2, 'B7': 1, 'Gm': 8, 'Dm': 6, 'A#': 2, 'C7': 2, 'F': 3, 'Dm/F': 1, 'D': 1}",115 
+Time,Key Not Find,no capo,"['F#m', 'Dmaj7', 'Amaj7', 'C#m7', 'Bm7', 'F/B', 'A', 'E', 'Bm', 'Emadd9', 'Em7', 'Cmaj7', 'Fmaj7', 'G', 'D7#9', 'D7b9']","{'F#m': 11, 'Dmaj7': 10, 'Amaj7': 7, 'C#m7': 4, 'Bm7': 5, 'F/B': 2, 'A': 11, 'E': 7, 'Bm': 2, 'Emadd9': 2, 'Em7': 4, 'Cmaj7': 1, 'Fmaj7': 1, 'G': 1, 'D7#9': 1, 'D7b9': 1}",NF
+Home,Bm,no capo,"['Bm', 'D', 'D/F#', 'G', 'Em', 'A']","{'Bm': 25, 'D': 53, 'D/F#': 21, 'G': 27, 'Em': 6, 'A': 8}",112 
+God Rest Ye Merry Gentlemen,Em,no capo,"['Em', 'C', 'B7', 'Am', 'G', 'D']","{'Em': 25, 'C': 10, 'B7': 20, 'Am': 5, 'G': 15, 'D': 10}",NF
+Grease - Hopelessly Devoted To You,Dm,no capo,"['Dm', 'A', 'C#m7', 'D', 'Bm7', 'E7', 'Amaj7', 'A6', 'F#7', 'G6', 'Cm7', 'Gm7', 'C7', 'Caug', 'F', 'Fma7', 'Cdim', 'Gdim', 'Dm/C#', 'Dm/C', 'Dm/B', 'A#m']","{'Dm': 8, 'A': 12, 'C#m7': 6, 'D': 3, 'Bm7': 9, 'E7': 3, 'Amaj7': 3, 'A6': 3, 'F#7': 6, 'G6': 3, 'Cm7': 3, 'Gm7': 6, 'C7': 2, 'Caug': 2, 'F': 3, 'Fma7': 2, 'Cdim': 2, 'Gdim': 4, 'Dm/C#': 2, 'Dm/C': 2, 'Dm/B': 2, 'A#m': 1}",NF
+My Way,C,2nd fret,"['C', 'Em', 'Gm', 'A7', 'Dm', 'Dm7', 'G7', 'C7', 'F', 'Fm', 'Em7', 'Am', 'A#', 'A', 'C/B', 'G']","{'C': 24, 'Em': 3, 'Gm': 3, 'A7': 3, 'Dm': 7, 'Dm7': 3, 'G7': 10, 'C7': 5, 'F': 11, 'Fm': 4, 'Em7': 2, 'Am': 3, 'A#': 1, 'A': 1, 'C/B': 1, 'G': 1}",75 
+Mardy Bum,Key Not Find,no capo,"['E', 'A', 'D', 'G', 'B', 'F#', 'F#m', 'Em', 'Bm', 'F#5', 'G5', 'A5']","{'E': 2, 'A': 23, 'D': 16, 'G': 17, 'B': 1, 'F#': 7, 'F#m': 7, 'Em': 7, 'Bm': 6, 'F#5': 5, 'G5': 4, 'A5': 1}",112 
+The Gambler,G,no capo,"['G', 'C', 'D']","{'G': 63, 'C': 45, 'D': 18}",NF
+SomD#ody To Love,G#,1st fret,"['G', 'D/F#', 'Em', 'C', 'D7', 'G/D', 'D', 'A7', 'G7', 'C7', 'F', 'Fm']","{'G': 34, 'D/F#': 18, 'Em': 17, 'C': 15, 'D7': 5, 'G/D': 1, 'D': 21, 'A7': 17, 'G7': 1, 'C7': 1, 'F': 1, 'Fm': 1}",NF
+Dont Dream Its Over,D#,3rd fret,"['Csus2', 'C7(sus2)', 'C7sus4', 'Am', 'F', 'E', 'Asus2/E', 'G', 'C', 'A#', 'F/D', 'G/E']","{'Csus2': 10, 'C7(sus2)': 2, 'C7sus4': 2, 'Am': 18, 'F': 24, 'E': 9, 'Asus2/E': 3, 'G': 10, 'C': 13, 'A#': 2, 'F/D': 1, 'G/E': 1}",82 
+Take Me To Church,Em,no capo,"['Em', 'Am', 'G', 'D', 'C/G', 'C', 'Cm', 'F#', 'F', 'B', 'G/D', 'G/C']","{'Em': 32, 'Am': 32, 'G': 39, 'D': 4, 'C/G': 7, 'C': 7, 'Cm': 4, 'F#': 12, 'F': 3, 'B': 10, 'G/D': 1, 'G/C': 1}",NF
+I Want To Hold Your Hand,G,no capo,"['C', 'D', 'G', 'Em', 'B', 'B7', 'Dm7', 'Am']","{'C': 32, 'D': 27, 'G': 20, 'Em': 12, 'B': 4, 'B7': 5, 'Dm7': 4, 'Am': 2}",132 
+Nutshell,Em,no capo,"['Cadd9', 'Em7', 'G', 'D']","{'Cadd9': 12, 'Em7': 12, 'G': 12, 'D': 12}",NF
+Runaway,G#m,4th fret,"['Em', 'D', 'C', 'G', 'Am', 'Cmaj7']","{'Em': 10, 'D': 28, 'C': 16, 'G': 19, 'Am': 11, 'Cmaj7': 11}",174 
+Little Talks,A#m,1st fret,"['Am', 'Fmaj7', 'C', 'G', 'F']","{'Am': 51, 'Fmaj7': 42, 'C': 46, 'G': 28, 'F': 4}",206 
+Let You Break My Heart Again,D,no capo,"['Em7', 'A7', 'Dmaj7', 'D7', 'B7', 'F#m7', 'D', 'Gmaj7', 'GmMaj7', 'C', 'Asus', 'A', 'A7sus']","{'Em7': 20, 'A7': 13, 'Dmaj7': 6, 'D7': 4, 'B7': 13, 'F#m7': 5, 'D': 10, 'Gmaj7': 3, 'GmMaj7': 3, 'C': 4, 'Asus': 2, 'A': 4, 'A7sus': 2}",74 
+She Will Be Loved,Cm,3rd fret,"['Am', 'G', 'C', 'F']","{'Am': 37, 'G': 42, 'C': 13, 'F': 9}",102 
+You Know Im No Good,Dm,no capo,"['Dm', 'Gm', 'A7', 'E7', 'F', 'Am']","{'Dm': 17, 'Gm': 9, 'A7': 9, 'E7': 14, 'F': 3, 'Am': 16}",103 
+Eleanor RiF#y,Em,no capo,"['C', 'Em', 'Em7', 'Em6']","{'C': 21, 'Em': 22, 'Em7': 6, 'Em6': 6}",138 
+Driving Home For Christmas,A,no capo,"['Amaj9', 'A', 'Dmaj7', 'D6', 'C#m7', 'F#m7', 'Bm7', 'Esus4', 'Bm', 'C#m', 'D', 'E', 'F#m', 'Gmaj7', 'Em9']","{'Amaj9': 26, 'A': 25, 'Dmaj7': 25, 'D6': 22, 'C#m7': 9, 'F#m7': 9, 'Bm7': 9, 'Esus4': 9, 'Bm': 1, 'C#m': 2, 'D': 3, 'E': 2, 'F#m': 1, 'Gmaj7': 1, 'Em9': 1}",180 
+Pumped Up Kicks ,Bm,7th fret,"['Em', 'G', 'D', 'A']","{'Em': 15, 'G': 15, 'D': 15, 'A': 15}",132 
+Million Reasons,C,no capo,"['C', 'Am', 'F', 'G', 'Fsus2']","{'C': 19, 'Am': 18, 'F': 25, 'G': 21, 'Fsus2': 11}",65 
+My Heart Will Go On,D,2nd fret,"['Bm', 'A', 'G', 'D', 'Dm', 'C', 'A#', 'F', 'Em', 'Am', 'F#m', 'E', 'C#m']","{'Bm': 12, 'A': 47, 'G': 39, 'D': 65, 'Dm': 13, 'C': 56, 'A#': 20, 'F': 15, 'Em': 13, 'Am': 1, 'F#m': 4, 'E': 8, 'C#m': 1}",NF
+Dream A Little Dream Of Me,C,no capo,"['G', 'Am', 'G/B', 'C', 'F#dim', 'G#13', 'G13', 'F#dim7', 'B7', 'A#7', 'A7', 'A7b9', 'F', 'Fm', 'G#7', 'G7', 'E7', 'A', 'F#m7', 'Bm7']","{'G': 2, 'Am': 1, 'G/B': 1, 'C': 24, 'F#dim': 1, 'G#13': 8, 'G13': 8, 'F#dim7': 10, 'B7': 5, 'A#7': 5, 'A7': 5, 'A7b9': 5, 'F': 5, 'Fm': 5, 'G#7': 10, 'G7': 9, 'E7': 7, 'A': 8, 'F#m7': 8, 'Bm7': 6}",NF
+Make Room ,Key Not Find,no capo,"['G', 'D', 'Am', 'C', 'Am7', 'Cmaj7']","{'G': 27, 'D': 26, 'Am': 24, 'C': 23, 'Am7': 2, 'Cmaj7': 4}",122 
+Matilda,D,no capo,"['D', 'Gmaj7', 'G', 'Bm', 'A', 'Asus4', 'Dmaj7', 'F#m', 'Em7', 'F#7', 'E7', 'G5', 'D6', 'F#', 'Em9']","{'D': 31, 'Gmaj7': 31, 'G': 9, 'Bm': 3, 'A': 1, 'Asus4': 1, 'Dmaj7': 1, 'F#m': 6, 'Em7': 1, 'F#7': 2, 'E7': 1, 'G5': 3, 'D6': 2, 'F#': 1, 'Em9': 1}",114 
+Autumn Leaves,Bm,no capo,"['Bm', 'Em7', 'A7', 'Dmaj7', 'Gmaj7', 'C#dim', 'F#7']","{'Bm': 24, 'Em7': 6, 'A7': 6, 'Dmaj7': 9, 'Gmaj7': 4, 'C#dim': 15, 'F#7': 18}",83 
+Cyberpunk 2077 - I Really Want To Stay At Your House,Key Not Find,no capo,"['B', 'F#', 'D#m', 'C#', 'Bm', 'G#m', 'A#m', 'F#m', 'G#']","{'B': 29, 'F#': 23, 'D#m': 31, 'C#': 29, 'Bm': 1, 'G#m': 4, 'A#m': 4, 'F#m': 3, 'G#': 3}",NF
+Back In Black,E,no capo,"['E', 'D', 'A/C#', 'A', 'B', 'G', 'C']","{'E': 33, 'D': 25, 'A/C#': 11, 'A': 69, 'B': 45, 'G': 24, 'C': 1}",NF
+Lithium,Key Not Find,no capo,"['D', 'F#m', 'Bm', 'G', 'A#', 'C', 'A']","{'D': 23, 'F#m': 23, 'Bm': 23, 'G': 55, 'A#': 55, 'C': 47, 'A': 25}",123 
+Lyin Eyes,G,no capo,"['G', 'Gmaj7', 'C', 'Am', 'D7', 'D', 'Em', 'Bm', 'F/G', 'A7']","{'G': 51, 'Gmaj7': 22, 'C': 42, 'Am': 28, 'D7': 11, 'D': 13, 'Em': 3, 'Bm': 3, 'F/G': 3, 'A7': 3}",133 
+Say It Aint So,Key Not Find,3rd fret,"['Am', 'E', 'F', 'C', 'G', 'G/F#', 'D#']","{'Am': 41, 'E': 41, 'F': 29, 'C': 37, 'G': 8, 'G/F#': 8, 'D#': 8}",NF
+See You Again,Gm,3rd fret,"['Em', 'G', 'C', 'D']","{'Em': 33, 'G': 73, 'C': 40, 'D': 5}",80 
+Oceans Where Feet May Fail,Bm,7th fret,"['Em', 'D/F#', 'G', 'D', 'C', 'D/D#', 'Am', 'D4']","{'Em': 27, 'D/F#': 12, 'G': 37, 'D': 37, 'C': 32, 'D/D#': 1, 'Am': 8, 'D4': 3}",132 
+Dancing In The Moonlight,Key Not Find,3rd fret,"['Dm', 'G', 'C', 'G/B', 'Am']","{'Dm': 23, 'G': 23, 'C': 23, 'G/B': 23, 'Am': 23}",119 
+Falling,E,no capo,"['E', 'C#m', 'B', 'A', 'G#m']","{'E': 13, 'C#m': 13, 'B': 12, 'A': 13, 'G#m': 11}",110 
+Without You,Am,no capo,"['Am', 'Fmaj7', 'C', 'G', 'E']","{'Am': 15, 'Fmaj7': 15, 'C': 15, 'G': 13, 'E': 1}",93 
+Mary,Key Not Find,no capo,"['G', 'Cmaj7', 'Gmaj7', 'Em', 'Bm', 'C', 'D', 'A']","{'G': 36, 'Cmaj7': 14, 'Gmaj7': 10, 'Em': 27, 'Bm': 2, 'C': 9, 'D': 6, 'A': 6}",106 
+Bridge Over Troubled Water,D#,3rd fret,"['C', 'F', 'A#', 'G', 'Am', 'G7', 'C7', 'D', 'F#dim', 'A7sus', 'A7', 'E7', 'G9', 'D7', 'Fm', 'Fmaj7', 'D9', 'E']","{'C': 33, 'F': 38, 'A#': 3, 'G': 9, 'Am': 13, 'G7': 2, 'C7': 9, 'D': 3, 'F#dim': 4, 'A7sus': 3, 'A7': 3, 'E7': 5, 'G9': 1, 'D7': 1, 'Fm': 2, 'Fmaj7': 2, 'D9': 3, 'E': 2}",NF
+Ceilings,Key Not Find,2nd fret,"['C', 'Em', 'G', 'D', 'B7']","{'C': 20, 'Em': 9, 'G': 10, 'D': 16, 'B7': 1}",148 
+Run Away To Mars,Key Not Find,2nd fret,"['G', 'D', 'Em7', 'Cadd9', 'Em', 'Am7', 'Dsus4', 'Am']","{'G': 27, 'D': 23, 'Em7': 3, 'Cadd9': 17, 'Em': 15, 'Am7': 6, 'Dsus4': 3, 'Am': 4}",NF
+G#out You,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 16, 'A': 26, 'Bm': 15, 'G': 13}",NF
+Lemon Tree,Am,4th fret,"['F#dim7', 'G', 'Am', 'Em', 'Dm', 'C', 'F', 'G7', 'E']","{'F#dim7': 3, 'G': 14, 'Am': 38, 'Em': 38, 'Dm': 7, 'C': 9, 'F': 7, 'G7': 4, 'E': 2}",143 
+I Still Havent Found What Im Looking For,C#,1st fret,"['C', 'Fsus2', 'G', 'Csus4', 'F']","{'C': 31, 'Fsus2': 15, 'G': 8, 'Csus4': 6, 'F': 2}",101 
+Half The World Away,C,no capo,"['C', 'Fmaj7', 'C/B', 'Am', 'D7', 'E7', 'G', 'G7', 'Fm']","{'C': 27, 'Fmaj7': 31, 'C/B': 6, 'Am': 14, 'D7': 8, 'E7': 4, 'G': 2, 'G7': 2, 'Fm': 2}",115 
+Friday Im In Love,D,no capo,"['D', 'G', 'A', 'Bm', 'C']","{'D': 30, 'G': 20, 'A': 24, 'Bm': 14, 'C': 4}",136 
+Apocalypse,F,no capo,"['F', 'Dm', 'Am', 'C', 'A#', 'Gm7', 'Fmaj7', 'Gm']","{'F': 22, 'Dm': 15, 'Am': 11, 'C': 19, 'A#': 13, 'Gm7': 3, 'Fmaj7': 2, 'Gm': 1}",94 
+Afterglow,B,4th fret,"['G', 'Cadd9', 'Dsus4', 'Em7']","{'G': 17, 'Cadd9': 22, 'Dsus4': 16, 'Em7': 5}",110 
+Favorite Crime,A,2nd fret,"['G', 'Em', 'D', 'Cmaj7', 'Am']","{'G': 12, 'Em': 8, 'D': 9, 'Cmaj7': 9, 'Am': 2}",90 
+Home,Bm,2nd fret,"['Am', 'C', 'C/E', 'F', 'Dm', 'G']","{'Am': 24, 'C': 49, 'C/E': 20, 'F': 25, 'Dm': 8, 'G': 8}",112 
+Snuff,F#m,no capo,"['Am', 'Em', 'F', 'C', 'G', 'A5', 'B5', 'C5', 'E5', 'F5']","{'Am': 30, 'Em': 18, 'F': 21, 'C': 15, 'G': 12, 'A5': 1, 'B5': 1, 'C5': 1, 'E5': 1, 'F5': 1}",62 
+I Walk The Line,F,1st fret,"['B7', 'E', 'A', 'E7', 'D', 'A7', 'G']","{'B7': 6, 'E': 8, 'A': 10, 'E7': 6, 'D': 6, 'A7': 3, 'G': 1}",212 
+Video Games,Em,2nd fret,"['Em', 'G', 'Bm', 'C', 'D', 'Dsus4', 'F', 'D#aug']","{'Em': 44, 'G': 30, 'Bm': 14, 'C': 26, 'D': 5, 'Dsus4': 2, 'F': 6, 'D#aug': 3}",NF
+Norwegian Wood,E,2nd fret,"['D', 'C', 'G', 'Dm', 'Em', 'A', 'E', 'F#m', 'B']","{'D': 16, 'C': 8, 'G': 12, 'Dm': 5, 'Em': 4, 'A': 4, 'E': 1, 'F#m': 1, 'B': 1}",NF
+Highway To Hell,A,no capo,"['A', 'D/F#', 'G', 'E', 'D/A', 'D', 'Dsus4']","{'A': 90, 'D/F#': 75, 'G': 42, 'E': 2, 'D/A': 20, 'D': 5, 'Dsus4': 3}",116 
+Riptide,A#m,6th fret,"['Em', 'Dadd9', 'G', 'D', 'C']","{'Em': 39, 'Dadd9': 37, 'G': 39, 'D': 2, 'C': 2}",98 
+Stay ,C,no capo,"['Fmaj7', 'Cmaj7/G', 'Am7', 'Fm', 'D7', 'F']","{'Fmaj7': 7, 'Cmaj7/G': 13, 'Am7': 12, 'Fm': 6, 'D7': 3, 'F': 4}",78 
+Rises The Moon,G,no capo,"['Am7', 'D7', 'Am', 'Cmaj7', 'F', 'Fm', 'C7']","{'Am7': 6, 'D7': 4, 'Am': 4, 'Cmaj7': 13, 'F': 8, 'Fm': 8, 'C7': 5}",137 
+Demons,D,1st fret,"['D', 'A', 'Bm', 'G']","{'D': 20, 'A': 16, 'Bm': 16, 'G': 15}",90 
+Wake Me Up When September Ends,G,no capo,"['G5', 'G5/F#', 'G5/E', 'G5/D', 'C', 'Cm', 'Em', 'Bm', 'D', 'D/F#', 'Dsus4']","{'G5': 38, 'G5/F#': 14, 'G5/E': 9, 'G5/D': 9, 'C': 16, 'Cm': 10, 'Em': 6, 'Bm': 6, 'D': 4, 'D/F#': 1, 'Dsus4': 2}",105 
+Basket Case,D#,1st fret,"['E', 'A', 'D', 'G', 'B', 'Bm', 'F#m', 'C']","{'E': 1, 'A': 43, 'D': 41, 'G': 25, 'B': 1, 'Bm': 19, 'F#m': 6, 'C': 3}",NF
+Dont Cry,Key Not Find,no capo,"['Am', 'Dm', 'G', 'C', 'F']","{'Am': 24, 'Dm': 12, 'G': 24, 'C': 15, 'F': 12}",NF
+She Used To Be Mine,F,no capo,"['F', 'C', 'Dm', 'A#', 'A7/C#', 'Dm/C']","{'F': 12, 'C': 7, 'Dm': 10, 'A#': 10, 'A7/C#': 3, 'Dm/C': 1}",130 
+Wind Of Change,C,no capo,"['F', 'Dm', 'Am', 'G', 'C', 'E']","{'F': 14, 'Dm': 35, 'Am': 23, 'G': 40, 'C': 29, 'E': 4}",76 
+Heading South,Key Not Find,4th fret,"['Am', 'F', 'C', 'G']","{'Am': 17, 'F': 17, 'C': 17, 'G': 17}",200 
+Say Something,Am,2nd fret,"['Am', 'F', 'C', 'Gsus4', 'Em']","{'Am': 15, 'F': 18, 'C': 21, 'Gsus4': 17, 'Em': 3}",47 
+Yellow Submarine,F#,no capo,"['G', 'D', 'C', 'Em', 'Am']","{'G': 37, 'D': 35, 'C': 19, 'Em': 9, 'Am': 9}",111 
+Lean On Me,C,no capo,"['C', 'F', 'Em', 'G9', 'G7', 'G']","{'C': 44, 'F': 14, 'Em': 7, 'G9': 1, 'G7': 11, 'G': 5}",75 
+Both Sides Now,G,no capo,"['G', 'Am', 'C', 'Gmaj7', 'Am7', 'D', 'Bm', 'D7']","{'G': 74, 'Am': 12, 'C': 58, 'Gmaj7': 6, 'Am7': 6, 'D': 10, 'Bm': 4, 'D7': 4}",NF
+7 Years,Gm,3rd fret,"['Em', 'G', 'C', 'D', 'G/B', 'Bsus4', 'B']","{'Em': 29, 'G': 25, 'C': 29, 'D': 39, 'G/B': 3, 'Bsus4': 1, 'B': 1}",NF
+Harvest Moon,C,2nd fret,"['C', 'Am', 'F', 'G', 'Dm', 'D', 'Bm', 'Dmaj7', 'A', 'Em']","{'C': 33, 'Am': 22, 'F': 12, 'G': 16, 'Dm': 2, 'D': 14, 'Bm': 1, 'Dmaj7': 12, 'A': 4, 'Em': 2}",NF
+La La Land - City Of Stars,Gm,no capo,"['Gm', 'C', 'Dm', 'F', 'F/E', 'Dm7', 'A', 'A#']","{'Gm': 11, 'C': 10, 'Dm': 8, 'F': 5, 'F/E': 2, 'Dm7': 6, 'A': 6, 'A#': 4}",100 
+Fix You,D#,3rd fret,"['C', 'Em', 'Am7', 'Em/G', 'F', 'G', 'Gsus4']","{'C': 36, 'Em': 16, 'Am7': 18, 'Em/G': 13, 'F': 17, 'G': 16, 'Gsus4': 9}",69 
+Mr Tambourine Man,F,3rd fret,"['D', 'Dsus2', 'G', 'A']","{'D': 66, 'Dsus2': 4, 'G': 73, 'A': 36}",NF
+Heaven,C,no capo,"['C', 'Am', 'F', 'G', 'C/E', 'Dm', 'A#', 'A#/A', 'G/B', 'Gsus4']","{'C': 13, 'Am': 26, 'F': 28, 'G': 35, 'C/E': 4, 'Dm': 6, 'A#': 4, 'A#/A': 2, 'G/B': 1, 'Gsus4': 1}",NF
+The Twilight Saga New Moon - Rosyln,Key Not Find,no capo,"['F', 'C', 'G', 'Dm7', 'Am', 'G2', 'G']","{'F': 11, 'C': 12, 'G': 3, 'Dm7': 7, 'Am': 4, 'G2': 1}",160 
+Jealous,C,1st fret,"['C', 'F', 'Am', 'G', 'Dm', 'G7', 'F#dim7', 'F7b9', 'G#maj7', 'D#maj7', 'C7', 'Fm7', 'A#7', 'D#', 'Fm', 'Cm7', 'C#7-9', 'A#7-9', 'G#', 'Cm', 'A#', 'F7']","{'C': 26, 'F': 28, 'Am': 23, 'G': 11, 'Dm': 6, 'G7': 2, 'F#dim7': 2, 'F7b9': 1, 'G#maj7': 2, 'D#maj7': 2, 'C7': 2, 'Fm7': 3, 'A#7': 2, 'D#': 3, 'Fm': 1, 'Cm7': 1, 'C#7-9': 1, 'A#7-9': 1, 'G#': 4, 'Cm': 3, 'A#': 2, 'F7': 1}",85 
+Under The Bridge,E,no capo,"['D', 'F#', 'E', 'B', 'C#m', 'G#m', 'A', 'Emaj7', 'F#m', 'B/F#', 'Am7', 'G6', 'Fmaj7', 'E7', 'Gmaj7', 'C']","{'D': 1, 'F#': 1, 'E': 22, 'B': 14, 'C#m': 14, 'G#m': 7, 'A': 18, 'Emaj7': 3, 'F#m': 12, 'B/F#': 8, 'Am7': 3, 'G6': 4, 'Fmaj7': 5, 'E7': 1, 'Gmaj7': 1, 'C': 1}",85 
+Ill Be Home For Christmas,C,no capo,"['C', 'Em', 'Dm', 'G7', 'Gm', 'A', 'Fm', 'Am', 'D7', 'F', 'A7', 'G', 'E7', 'Cm']","{'C': 9, 'Em': 3, 'Dm': 6, 'G7': 4, 'Gm': 2, 'A': 2, 'Fm': 2, 'Am': 5, 'D7': 7, 'F': 1, 'A7': 5, 'G': 8, 'E7': 3, 'Cm': 1}",NF
+Bigger Than The Whole Sky,F#,no capo,"['F#', 'C#', 'G#m', 'B']","{'F#': 18, 'C#': 18, 'G#m': 18, 'B': 18}",NF
+Supermarket Flowers,C,6th fret,"['C', 'Dm', 'Em', 'F', 'Am', 'G', 'Dm7', 'Fadd9']","{'C': 38, 'Dm': 5, 'Em': 20, 'F': 36, 'Am': 11, 'G': 25, 'Dm7': 3, 'Fadd9': 2}",90 
+Be Alright,G#m,4th fret,"['Em', 'C', 'G', 'D']","{'Em': 25, 'C': 24, 'G': 20, 'D': 28}",64 
+Bad HG#it,Key Not Find,1st fret,"['Bm', 'C', 'G', 'Am', 'D', 'B', 'Em', 'B7']","{'Bm': 33, 'C': 40, 'G': 32, 'Am': 32, 'D': 7, 'B': 1, 'Em': 5, 'B7': 5}",84 
+Away In A Manger,G,no capo,"['G', 'G7', 'C', 'D', 'D7', 'Am']","{'G': 21, 'G7': 6, 'C': 9, 'D': 6, 'D7': 6, 'Am': 3}",100 
+Dancing In The Dark,B,4th fret,"['G', 'Em', 'C', 'Am', 'D', 'A', 'F#m', 'Bm', 'E']","{'G': 28, 'Em': 23, 'C': 19, 'Am': 16, 'D': 11, 'A': 1, 'F#m': 1, 'Bm': 1, 'E': 1}",NF
+Isnt She Lovely,C#m,2nd fret,"['Bm7', 'E', 'E7', 'Em', 'A7', 'D', 'G', 'F#', 'F#m']","{'Bm7': 9, 'E': 9, 'E7': 9, 'Em': 9, 'A7': 9, 'D': 9, 'G': 6, 'F#': 3, 'F#m': 3}",119 
+Havana,Gm,3rd fret,"['Em', 'C', 'B7']","{'Em': 48, 'C': 44, 'B7': 46}",105 
+Ceilings,Key Not Find,2nd fret,"['Cmaj7', 'G', 'D/F#', 'B']","{'Cmaj7': 19, 'G': 16, 'D/F#': 17, 'B': 1}",145 
+I Wont Back Down,G,no capo,"['Em', 'D', 'G', 'C']","{'Em': 29, 'D': 45, 'G': 49, 'C': 20}",114 
+Let It Go,G,6th fret,"['Em', 'Em7/D', 'C#m7b5', 'Cmaj7', 'G', 'C', 'D', 'Em/C#', 'Am']","{'Em': 29, 'Em7/D': 1, 'C#m7b5': 1, 'Cmaj7': 1, 'G': 35, 'C': 25, 'D': 35, 'Em/C#': 4, 'Am': 9}",74 
+Ghost,D,no capo,"['Bm', 'G', 'D', 'A', 'Em', 'F#m']","{'Bm': 21, 'G': 23, 'D': 20, 'A': 22, 'Em': 2, 'F#m': 2}",77 
+Ho Hey,C,no capo,"['C', 'F', 'Am', 'G']","{'C': 36, 'F': 32, 'Am': 11, 'G': 14}",80 
+Little Drummer Boy,G#,1st fret,"['G', 'C', 'D']","{'G': 29, 'C': 12, 'D': 11}",100 
+Fake Plastic Trees,A,no capo,"['A', 'F#m7', 'E', 'E6', 'D5', 'Bm7', 'Asus']","{'A': 22, 'F#m7': 6, 'E': 6, 'E6': 6, 'D5': 12, 'Bm7': 10, 'Asus': 8}",NF
+Toxic,Am,3rd fret,"['Am', 'C', 'E7', 'F7', 'D', 'G', 'B7', 'A#7']","{'Am': 42, 'C': 21, 'E7': 14, 'F7': 9, 'D': 1, 'G': 1, 'B7': 9, 'A#7': 9}",NF
+No Time To Die,Em,no capo,"['Em', 'Cmaj7', 'Am', 'B7', 'A', 'Emmaj9']","{'Em': 26, 'Cmaj7': 27, 'Am': 25, 'B7': 11, 'A': 9, 'Emmaj9': 1}",75 
+Shake The Frost,G,2nd fret,"['C/G', 'Am/B', 'Csus2', 'G', 'F', 'C', 'Am', 'Csus']","{'C/G': 15, 'Am/B': 10, 'Csus2': 3, 'G': 29, 'F': 16, 'C': 27, 'Am': 9, 'Csus': 5}",NF

@@ -1,0 +1,319 @@
+,Song_Name,Key,Capo,Chord,Frequency_map_of_each_chord,BPM
+120,Let Me Chords,A,no capo,"['A', 'Dmaj7', 'F#m', 'Bm7', 'E', 'C#m7']","{'A': 17, 'Dmaj7': 16, 'F#m': 4, 'Bm7': 16, 'E': 13, 'C#m7': 13}",84 bpm
+213,The A Team Chords,A,2nd fret,"['G', 'D/F#', 'Em', 'C', 'Am']","{'G': 39, 'D/F#': 12, 'Em': 26, 'C': 33, 'Am': 9}",170 bpm
+286,Take Me Home Country Roads Chords,A,2nd fret,"['G', 'G/D', 'Em', 'D', 'C', 'D/F#', 'F', 'D7']","{'G': 26, 'G/D': 1, 'Em': 10, 'D': 16, 'C': 14, 'D/F#': 1, 'F': 1, 'D7': 1}",164 bpm
+92,As It Was Chords,A,2nd fret,"['Am', 'D', 'G', 'C']","{'Am': 14, 'D': 14, 'G': 14, 'C': 12}",174 bpm
+208,Fade Into You Chords,A,no capo,"['A', 'E', 'Bm', 'D']","{'A': 31, 'E': 31, 'Bm': 31, 'D': 4}",157 bpm
+362,Fade Into You Chords,A,no capo,"['A', 'E', 'Bm', 'D']","{'A': 31, 'E': 31, 'Bm': 31, 'D': 4}",157 bpm
+234,Tears In Heaven Chords,A,no capo,"['A', 'E/G#', 'F#m', 'A/E', 'D/F#', 'E7sus4', 'E7', 'E', 'C#/F', 'A7/E', 'F#7', 'Bm7', 'Bm7/E', 'E7sus', 'C', 'G/B', 'Am', 'G', 'Em']","{'A': 22, 'E/G#': 6, 'F#m': 16, 'A/E': 18, 'D/F#': 16, 'E7sus4': 3, 'E7': 5, 'E': 13, 'C#/F': 4, 'A7/E': 4, 'F#7': 4, 'Bm7': 5, 'Bm7/E': 5, 'E7sus': 1, 'C': 2, 'G/B': 2, 'Am': 2, 'G': 3, 'Em': 1}",80 bpm
+193,Stick Season Chords,A,no capo,"['A', 'E', 'F#m', 'D']","{'A': 13, 'E': 14, 'F#m': 10, 'D': 10}",204 bpm
+188,Wagon Wheel Chords,A,2nd fret,"['G', 'D', 'Em', 'C']","{'G': 45, 'D': 45, 'Em': 23, 'C': 45}",148 bpm
+236,Here Comes The Sun Chords,A,7th fret,"['D', 'G', 'A7', 'E7', 'F', 'C', 'G/B', 'A7sus4']","{'D': 22, 'G': 14, 'A7': 11, 'E7': 5, 'F': 1, 'C': 1, 'G/B': 1, 'A7sus4': 1}",129 bpm
+331,Whats Up Chords,A,2nd fret,"['G', 'Am', 'C']","{'G': 39, 'Am': 20, 'C': 19}",67 bpm
+349,Stick Season Chords,A,no capo,"['A', 'E', 'F#m', 'D']","{'A': 13, 'E': 14, 'F#m': 10, 'D': 10}",204 bpm
+246,When The Partys Over Chords,A,4th fret,"['F', 'Am', 'C', 'Dm', 'G', 'F#dim']","{'F': 34, 'Am': 20, 'C': 21, 'Dm': 8, 'G': 2, 'F#dim': 1}",124 bpm
+296,Black Panther Wakanda Forever - Lift Me Up Chords,A,no capo,"['A', 'Bm', 'E7', 'F#m7']","{'A': 25, 'Bm': 17, 'E7': 17, 'F#m7': 5}",NF
+345,Wagon Wheel Chords,A,2nd fret,"['G', 'D', 'Em', 'C']","{'G': 45, 'D': 45, 'Em': 23, 'C': 45}",148 bpm
+323,Favorite Crime Chords,A,2nd fret,"['G', 'Em', 'D', 'Cmaj7', 'Am']","{'G': 12, 'Em': 8, 'D': 9, 'Cmaj7': 9, 'Am': 2}",90 bpm
+401,When The Partys Over Chords,A,4th fret,"['F', 'Am', 'C', 'Dm', 'G', 'F#dim']","{'F': 34, 'Am': 20, 'C': 21, 'Dm': 8, 'G': 2, 'F#dim': 1}",124 bpm
+386,Tears In Heaven Chords,A,no capo,"['A', 'E/G#', 'F#m', 'A/E', 'D/F#', 'E7sus4', 'E7', 'E', 'C#/F', 'A7/E', 'F#7', 'Bm7', 'Bm7/E', 'E7sus', 'C', 'G/B', 'Am', 'G', 'Em']","{'A': 22, 'E/G#': 6, 'F#m': 16, 'A/E': 18, 'D/F#': 16, 'E7sus4': 3, 'E7': 5, 'E': 13, 'C#/F': 4, 'A7/E': 4, 'F#7': 4, 'Bm7': 5, 'Bm7/E': 5, 'E7sus': 1, 'C': 2, 'G/B': 2, 'Am': 2, 'G': 3, 'Em': 1}",80 bpm
+388,Here Comes The Sun Chords,A,7th fret,"['D', 'G', 'A7', 'E7', 'F', 'C', 'G/B', 'A7sus4']","{'D': 22, 'G': 14, 'A7': 11, 'E7': 5, 'F': 1, 'C': 1, 'G/B': 1, 'A7sus4': 1}",129 bpm
+159,Intentions Chords,A,no capo,"['A', 'F#m', 'D']","{'A': 33, 'F#m': 30, 'D': 30}",NF
+390,Take Me Home Country Roads Chords,A,2nd fret,"['G', 'Em', 'D', 'C', 'F', 'D7']","{'G': 25, 'Em': 10, 'D': 17, 'C': 14, 'F': 1, 'D7': 1}",164 bpm
+278,Someone Like You Chords,A,2nd fret,"['G', 'Bm/F#', 'Em', 'C', 'D9', 'D', 'Am', 'D/F#']","{'G': 26, 'Bm/F#': 6, 'Em': 31, 'C': 30, 'D9': 4, 'D': 19, 'Am': 1, 'D/F#': 4}",68 bpm
+380,Rockin Around The Christmas Tree Chords,G#,1st fret,"['G', 'Em', 'C', 'D', 'D7', 'Am7', 'Bm', 'Emmaj7', 'Em7', 'A7', 'Am']","{'G': 13, 'Em': 5, 'C': 6, 'D': 2, 'D7': 23, 'Am7': 13, 'Bm': 3, 'Emmaj7': 3, 'Em7': 3, 'A7': 3, 'Am': 2}",141 bpm
+100,Dil Mere Chords,G#,1st fret,"['G', 'D', 'Em', 'C']","{'G': 40, 'D': 66, 'Em': 18, 'C': 29}",93 bpm
+320,Enchanted Chords,G#,1st fret,"['G', 'Bm', 'C', 'Em', 'D']","{'G': 39, 'Bm': 9, 'C': 43, 'Em': 14, 'D': 33}",82 bpm
+226,Rockin Around The Christmas Tree Chords,G#,1st fret,"['G', 'Em', 'C', 'D', 'D7', 'Am7', 'Bm', 'Emmaj7', 'Em7', 'A7', 'Am']","{'G': 13, 'Em': 5, 'C': 6, 'D': 2, 'D7': 23, 'Am7': 13, 'Bm': 3, 'Emmaj7': 3, 'Em7': 3, 'A7': 3, 'Am': 2}",141 bpm
+70,Perfect Chords,G#,1st fret,"['G', 'Em', 'C', 'D', 'D/F#', 'G/B', 'Dsus4']","{'G': 30, 'Em': 23, 'C': 24, 'D': 26, 'D/F#': 2, 'G/B': 1, 'Dsus4': 1}",64 bpm
+40,Give Me Love Chords,Am,2nd fret,"['G#m7', 'E', 'B5', 'Bmaj7', 'B7+', 'C#m', 'B', 'F#', 'G#m']","{'G#m7': 11, 'E': 32, 'B5': 11, 'Bmaj7': 9, 'B7+': 2, 'C#m': 13, 'B': 15, 'F#': 24, 'G#m': 22}",117 bpm
+266,Stairway To Heaven Chords,Am,no capo,"['Am', 'E+', 'C', 'D', 'F', 'G', 'Em', 'Dsus4', 'Dsus2', 'Cadd9']","{'Am': 51, 'E+': 6, 'C': 37, 'D': 35, 'F': 21, 'G': 48, 'Em': 7, 'Dsus4': 4, 'Dsus2': 2, 'Cadd9': 2}",NF
+316,Hurt Chords,Am,no capo,"['Am', 'C', 'D', 'G', 'F']","{'Am': 31, 'C': 24, 'D': 20, 'G': 16, 'F': 10}",90 bpm
+233,Snap Chords,Am,no capo,"['Am', 'F', 'C', 'G', 'G/B']","{'Am': 25, 'F': 29, 'C': 27, 'G': 11, 'G/B': 18}",85 bpm
+259,Stairway To Heaven Chords,Am,no capo,"['Am', 'E+', 'C', 'D', 'F', 'G', 'Em', 'Dsus4', 'Dsus2', 'Cadd9']","{'Am': 51, 'E+': 6, 'C': 37, 'D': 35, 'F': 21, 'G': 48, 'Em': 7, 'Dsus4': 4, 'Dsus2': 2, 'Cadd9': 2}",NF
+111,Manjha Chords,Am,2nd fret,"['Am', 'Em', 'F', 'G']","{'Am': 10, 'Em': 10, 'F': 7, 'G': 7}",NF
+238,House Of The Rising Sun Chords,Am,no capo,"['Am', 'C', 'D', 'F', 'E', 'C/E', 'E7', 'F7', 'Dm']","{'Am': 57, 'C': 28, 'D': 22, 'F': 21, 'E': 27, 'C/E': 1, 'E7': 2, 'F7': 1, 'Dm': 5}",234 bpm
+244,Fly Me To The Moon Chords,Am,no capo,"['Am', 'Dm7', 'G7', 'Cmaj7', 'F', 'Dm', 'E7', 'A7', 'C', 'E', 'Fm', 'Em', 'G']","{'Am': 11, 'Dm7': 13, 'G7': 13, 'Cmaj7': 4, 'F': 4, 'Dm': 4, 'E7': 3, 'A7': 4, 'C': 7, 'E': 4, 'Fm': 1, 'Em': 1, 'G': 1}",NF
+126,Bad Romance Chords,Am,no capo,"['Am', 'C', 'G', 'F', 'E', 'Em']","{'Am': 51, 'C': 37, 'G': 35, 'F': 32, 'E': 12, 'Em': 9}",119 bpm
+293,Lemon Tree Chords,Am,4th fret,"['F#dim7', 'G', 'Am', 'Em', 'Dm', 'C', 'F', 'G7', 'E']","{'F#dim7': 3, 'G': 14, 'Am': 38, 'Em': 38, 'Dm': 7, 'C': 9, 'F': 7, 'G7': 4, 'E': 2}",143 bpm
+209,Karma Police Chords,Am,no capo,"['Am', 'D/F#', 'Em', 'G', 'F', 'D', 'C', 'Em/B', 'Bm', 'F#7', 'E7']","{'Am': 16, 'D/F#': 8, 'Em': 8, 'G': 30, 'F': 4, 'D': 34, 'C': 12, 'Em/B': 4, 'Bm': 14, 'F#7': 4, 'E7': 12}",75 bpm
+217,Mary Did You Know Chords,Am,no capo,"['Am', 'G', 'Dm7', 'Esus', 'E', 'C', 'G/B', 'F', 'E7sus', 'E7']","{'Am': 14, 'G': 14, 'Dm7': 15, 'Esus': 12, 'E': 13, 'C': 4, 'G/B': 4, 'F': 2, 'E7sus': 1, 'E7': 1}",NF
+399,Fly Me To The Moon Chords,Am,no capo,"['Am', 'Dm7', 'G7', 'Cmaj7', 'F', 'Dm', 'E7', 'A7', 'C', 'E', 'Fm', 'Em', 'G']","{'Am': 11, 'Dm7': 13, 'G7': 13, 'Cmaj7': 4, 'F': 4, 'Dm': 4, 'E7': 3, 'A7': 4, 'C': 7, 'E': 4, 'Fm': 1, 'Em': 1, 'G': 1}",NF
+169,Counting Stars Chords,Am,4th fret,"['Am', 'C', 'G', 'F', 'Dm']","{'Am': 28, 'C': 27, 'G': 27, 'F': 33, 'Dm': 1}",122 bpm
+171,Him And I Chords,Am,no capo,"['Am', 'G', 'Dm', 'F']","{'Am': 22, 'G': 24, 'Dm': 24, 'F': 16}",88 bpm
+391,House Of The Rising Sun Chords,Am,no capo,"['Am', 'C', 'D', 'F', 'E', 'C/E', 'E7', 'F7', 'Dm']","{'Am': 57, 'C': 28, 'D': 22, 'F': 21, 'E': 27, 'C/E': 1, 'E7': 2, 'F7': 1, 'Dm': 5}",234 bpm
+385,Snap Chords,Am,no capo,"['Am', 'F', 'C', 'G', 'G/B']","{'Am': 25, 'F': 29, 'C': 27, 'G': 11, 'G/B': 18}",85 bpm
+150,Let Me Down Slowly Chords,Am,4th fret,"['Am', 'G', 'Em', 'F']","{'Am': 27, 'G': 27, 'Em': 27, 'F': 27}",75 bpm
+373,Mary Did You Know Chords,Am,no capo,"['Am', 'G', 'Dm7', 'Esus', 'E', 'C', 'G/B', 'F', 'E7sus', 'E7']","{'Am': 14, 'G': 14, 'Dm7': 15, 'Esus': 12, 'E': 13, 'C': 4, 'G/B': 4, 'F': 2, 'E7sus': 1, 'E7': 1}",NF
+303,Under The Influence Chords,Am,no capo,"['Am', 'Cadd9', 'Fmaj7', 'G', 'Cmaj9', 'C', 'F', 'Em']","{'Am': 20, 'Cadd9': 1, 'Fmaj7': 2, 'G': 20, 'Cmaj9': 1, 'C': 12, 'F': 18, 'Em': 2}",NF
+363,Karma Police Chords,Am,no capo,"['Am', 'D/F#', 'Em', 'G', 'F', 'D', 'C', 'Em/B', 'Bm', 'F#7', 'E7']","{'Am': 16, 'D/F#': 8, 'Em': 8, 'G': 30, 'F': 4, 'D': 34, 'C': 12, 'Em/B': 4, 'Bm': 14, 'F#7': 4, 'E7': 12}",75 bpm
+358,While My Guitar Gently Weeps Chords,Am,no capo,"['Am', 'G', 'A', 'Am/G', 'D', 'C#m', 'F#m7b5', 'E', 'F#m', 'Fmaj7', 'C', 'Bm', 'Dsus4', 'Dsus2', 'Esus4']","{'Am': 23, 'G': 12, 'A': 5, 'Am/G': 12, 'D': 13, 'C#m': 9, 'F#m7b5': 12, 'E': 20, 'F#m': 5, 'Fmaj7': 12, 'C': 6, 'Bm': 5, 'Dsus4': 4, 'Dsus2': 4, 'Esus4': 8}",57 bpm
+351,I Will Follow You Into The Dark Chords,Am,5th fret,"['Am', 'C', 'F', 'G/B', 'G', 'E', 'Am/G', 'Fm', 'C/G', 'Am/E']","{'Am': 18, 'C': 23, 'F': 16, 'G/B': 5, 'G': 10, 'E': 4, 'Am/G': 4, 'Fm': 5, 'C/G': 10, 'Am/E': 6}",155 bpm
+196,I Will Follow You Into The Dark Chords,Am,5th fret,"['Am', 'C', 'F', 'G/B', 'G', 'E', 'Am/G', 'Fm', 'C/G', 'Am/E']","{'Am': 18, 'C': 23, 'F': 16, 'G/B': 5, 'G': 10, 'E': 4, 'Am/G': 4, 'Fm': 5, 'C/G': 10, 'Am/E': 6}",155 bpm
+334,Im Yours Chords,B,4th fret,"['G', 'D', 'Em', 'C', 'A7', 'Dsus4', 'Bm']","{'G': 16, 'D': 18, 'Em': 16, 'C': 16, 'A7': 4, 'Dsus4': 3, 'Bm': 1}",75 bpm
+325,Afterglow Chords,B,4th fret,"['G', 'Cadd9', 'Dsus4', 'Em7']","{'G': 17, 'Cadd9': 22, 'Dsus4': 16, 'Em7': 5}",110 bpm
+9,Permission Chords,B,no capo,"['F#', 'G#m', 'E', 'B', 'G#']","{'F#': 21, 'G#m': 19, 'E': 20, 'B': 18, 'G#': 1}",NF
+211,A Thousand Years Chords,A#,3rd fret,"['G', 'Em7', 'Cadd9', 'D', 'Am']","{'G': 12, 'Em7': 17, 'Cadd9': 14, 'D': 21, 'Am': 4}",139 bpm
+158,The Greatest Showman - Rewrite The Stars Chords,A#,3rd fret,"['G', 'C', 'D/F#', 'Em', 'D', 'Bm']","{'G': 28, 'C': 23, 'D/F#': 17, 'Em': 18, 'D': 1, 'Bm': 1}",125 bpm
+262,Can You Feel The Love Tonight Chords,A#,3rd fret,"['G', 'D/F#', 'C/E', 'G/D', 'C', 'G/B', 'Am7', 'D', 'Em', 'F', 'A/C#', 'Am', 'C/D', 'C/G']","{'G': 20, 'D/F#': 8, 'C/E': 2, 'G/D': 7, 'C': 34, 'G/B': 19, 'Am7': 3, 'D': 10, 'Em': 11, 'F': 2, 'A/C#': 6, 'Am': 6, 'C/D': 3, 'C/G': 3}",62 bpm
+84,Lost In Japan Chords,A#,3rd fret,"['Gmaj7', 'G', 'Am7', 'Am', 'Bm/E', 'Em', 'C', 'C/B']","{'Gmaj7': 3, 'G': 21, 'Am7': 17, 'Am': 20, 'Bm/E': 3, 'Em': 20, 'C': 20, 'C/B': 13}",105 bpm
+153,A Thousand Years Chords,A#,3rd fret,"['G', 'Em7', 'Cadd9', 'D', 'Am']","{'G': 12, 'Em7': 17, 'Cadd9': 14, 'D': 21, 'Am': 4}",139 bpm
+367,A Thousand Years Chords,A#,3rd fret,"['G', 'Em7', 'Cadd9', 'D', 'Am']","{'G': 12, 'Em7': 17, 'Cadd9': 14, 'D': 21, 'Am': 4}",139 bpm
+69,10000 Hours Chords,A#,3rd fret,"['G', 'Bm', 'G/B', 'Em', 'C']","{'G': 59, 'Bm': 3, 'G/B': 6, 'Em': 24, 'C': 34}",90 bpm
+223,Vienna Chords,A#,no capo,"['Gm', 'A#', 'F', 'G#', 'D#', 'C', 'D9sus', 'D', 'Am', 'Dm/A', 'A#/F', 'Am7', 'D7', 'Gm7', 'C7', 'F#7', 'G7']","{'Gm': 9, 'A#': 19, 'F': 14, 'G#': 5, 'D#': 13, 'C': 2, 'D9sus': 5, 'D': 5, 'Am': 3, 'Dm/A': 4, 'A#/F': 4, 'Am7': 4, 'D7': 4, 'Gm7': 4, 'C7': 4, 'F#7': 5, 'G7': 1}",63 bpm
+377,Vienna Chords,A#,no capo,"['Gm', 'A#', 'F', 'G#', 'D#', 'C', 'D9sus', 'D', 'Am', 'Dm/A', 'A#/F', 'Am7', 'D7', 'Gm7', 'C7', 'F#7', 'G7']","{'Gm': 9, 'A#': 19, 'F': 14, 'G#': 5, 'D#': 13, 'C': 2, 'D9sus': 5, 'D': 5, 'Am': 3, 'Dm/A': 4, 'A#/F': 4, 'Am7': 4, 'D7': 4, 'Gm7': 4, 'C7': 4, 'F#7': 5, 'G7': 1}",63 bpm
+299,Bohemian Rhapsody Chords,A#,no capo,"['Gm7', 'C7', 'F7', 'Cm7', 'A#', 'A#7', 'D#', 'B', 'A', 'A#/D', 'C#dim7', 'F7/C', 'Gm', 'Cm', 'D#/B', 'D#/A#', 'Am7b5', 'G#maj7', 'D#/G', 'Fm', 'Eaug', 'G#/D#', 'Dm7b5', 'G#m', 'G#', 'D#dim', 'Fm7', 'C#', 'C#/C', 'C#/B', 'C#/A#', 'D', 'Adim', 'C#/G#', 'G#7', 'C/G', 'E7', 'F#dim', 'F#7', 'Bm', 'A7', 'C#7', 'F#7', 'Ddim', 'D7', 'F', 'D#7', 'F#', 'B7', 'Bdim7', 'G#/A#', 'D#dim7', 'A#m/C#', 'C7-9', 'G#dim']","{'Gm7': 5, 'C7': 5, 'F7': 7, 'Cm7': 6, 'A#': 33, 'A#7': 11, 'D#': 36, 'B': 6, 'A': 17, 'A#/D': 8, 'C#dim7': 1, 'F7/C': 1, 'Gm': 8, 'Cm': 15, 'D#/B': 2, 'D#/A#': 4, 'Am7b5': 2, 'G#maj7': 2, 'D#/G': 4, 'Fm': 8, 'Eaug': 4, 'G#/D#': 7, 'Dm7b5': 4, 'G#m': 2, 'G#': 8, 'D#dim': 3, 'Fm7': 2, 'C#': 2, 'C#/C': 1, 'C#/B': 1, 'C#/A#': 1, 'D': 7, 'Adim': 3, 'C#/G#': 1, 'G#7': 2, 'C/G': 1, 'E7': 1, 'F#dim': 1, 'F#7': 1, 'Bm': 1, 'A7': 1, 'C#7': 1, 'F#7': 1, 'Ddim': 1, 'D7': 1, 'F': 5, 'D#7': 1, 'F#': 1, 'B7': 1, 'Bdim7': 2, 'G#/A#': 1, 'D#dim7': 1, 'A#m/C#': 1, 'C7-9': 1, 'G#dim': 1}",NF
+73,Drivers License Chords,A#,3rd fret,"['G', 'Em', 'C', 'D', 'Bm7', 'C6', 'D/F#', 'Em7']","{'G': 22, 'Em': 10, 'C': 17, 'D': 12, 'Bm7': 3, 'C6': 3, 'D/F#': 1, 'Em7': 1}",72 bpm
+83,Stitches Chords,A#m,1st fret,"['Am', 'G', 'C', 'F']","{'Am': 30, 'G': 32, 'C': 26, 'F': 29}",150 bpm
+344,Riptide Chords,A#m,1st fret,"['Am', 'G', 'C', 'Fmaj7']","{'Am': 39, 'G': 39, 'C': 40, 'Fmaj7': 2}",102 bpm
+90,Treat You Better Chords,A#m,1st fret,"['Am', 'G', 'F', 'C']","{'Am': 30, 'G': 30, 'F': 30, 'C': 19}",83 bpm
+251,Stitches Chords,A#m,1st fret,"['Am', 'G', 'C', 'F']","{'Am': 30, 'G': 32, 'C': 26, 'F': 29}",150 bpm
+229,Dandelions Chords,A#m,6th fret,"['C', 'Em', 'G', 'D']","{'C': 36, 'Em': 35, 'G': 35, 'D': 35}",78 bpm
+81,Whatever It Takes Chords,A#m,1st fret,"['Am', 'G', 'Em', 'D', 'F', 'C']","{'Am': 24, 'G': 27, 'Em': 15, 'D': 4, 'F': 12, 'C': 12}",68 bpm
+355,Sparks Chords,A#m,1st fret,"['C', 'Am7', 'Fadd9/A', 'Am', 'Ammaj7', 'C7', 'Am6', 'Fmaj7/A']","{'C': 17, 'Am7': 13, 'Fadd9/A': 5, 'Am': 10, 'Ammaj7': 6, 'C7': 5, 'Am6': 5, 'Fmaj7/A': 5}",137 bpm
+201,Sparks Chords,A#m,1st fret,"['C', 'Am7', 'Fadd9/A', 'Am', 'Ammaj7', 'C7', 'Am6', 'Fmaj7/A']","{'C': 17, 'Am7': 13, 'Fadd9/A': 5, 'Am': 10, 'Ammaj7': 6, 'C7': 5, 'Am6': 5, 'Fmaj7/A': 5}",137 bpm
+187,Riptide Chords,A#m,1st fret,"['Am', 'G', 'C', 'Fmaj7']","{'Am': 39, 'G': 39, 'C': 40, 'Fmaj7': 2}",102 bpm
+383,Dandelions Chords,A#m,6th fret,"['C', 'Em', 'G', 'D']","{'C': 36, 'Em': 35, 'G': 35, 'D': 35}",78 bpm
+79,Believer Chords,A#m,1st fret,"['Am', 'F', 'E', 'E/G#', 'G', 'E7', 'E7/G#']","{'Am': 24, 'F': 25, 'E': 18, 'E/G#': 3, 'G': 1, 'E7': 3, 'E7/G#': 1}",63 bpm
+254,Home Chords,Bm,no capo,"['Bm', 'D', 'D/F#', 'G', 'Em', 'A']","{'Bm': 25, 'D': 53, 'D/F#': 21, 'G': 27, 'Em': 6, 'A': 8}",112 bpm
+185,Hotel California Chords,Bm,2nd fret,"['Am', 'E7', 'G', 'D', 'F', 'C', 'Dm']","{'Am': 11, 'E7': 22, 'G': 9, 'D': 9, 'F': 13, 'C': 13, 'Dm': 11}",73 bpm
+277,Iris Chords,Bm,no capo,"['A', 'Bm', 'Bm/A', 'G', 'F#m', 'Bsus2', 'D', 'Em']","{'A': 26, 'Bm': 49, 'Bm/A': 13, 'G': 62, 'F#m': 4, 'Bsus2': 5, 'D': 10, 'Em': 6}",154 bpm
+162,Radioactive Chords,Bm,2nd fret,"['G6sus2', 'Am', 'C', 'G6', 'G', 'D', 'Cmaj7']","{'G6sus2': 2, 'Am': 23, 'C': 21, 'G6': 1, 'G': 22, 'D': 21, 'Cmaj7': 2}",136 bpm
+321,Home Chords,Bm,2nd fret,"['Am', 'C', 'C/E', 'F', 'Dm', 'G']","{'Am': 24, 'C': 49, 'C/E': 20, 'F': 25, 'Dm': 8, 'G': 8}",112 bpm
+342,Hotel California Chords,Bm,2nd fret,"['Am', 'E7', 'G', 'D', 'F', 'C', 'Dm']","{'Am': 11, 'E7': 22, 'G': 9, 'D': 9, 'F': 13, 'C': 13, 'Dm': 11}",73 bpm
+71,Shivers Chords,Bm,2nd fret,"['F', 'Am', 'C', 'G']","{'F': 16, 'Am': 15, 'C': 15, 'G': 16}",141 bpm
+337,Wicked Game Chords,Bm,no capo,"['Bm', 'A', 'E']","{'Bm': 20, 'A': 20, 'E': 20}",112 bpm
+335,Wicked Game Chords,Bm,no capo,"['Bm', 'A', 'E']","{'Bm': 20, 'A': 20, 'E': 20}",112 bpm
+37,Love Story Chords,C,2nd fret,"['C', 'G', 'Am', 'F', 'D', 'A', 'Bm']","{'C': 14, 'G': 23, 'Am': 15, 'F': 18, 'D': 3, 'A': 3, 'Bm': 2}",119 bpm
+228,We Wish You A Merry Christmas Chords,C,no capo,"['C', 'F', 'D', 'G', 'E7', 'Am', 'Em']","{'C': 14, 'F': 10, 'D': 4, 'G': 14, 'E7': 4, 'Am': 6, 'Em': 2}",150 bpm
+42,Supermarket Flowers Chords,C,6th fret,"['C', 'Dm', 'Em', 'F', 'Am', 'G', 'Dm7', 'Fadd9']","{'C': 38, 'Dm': 5, 'Em': 20, 'F': 36, 'Am': 11, 'G': 25, 'Dm7': 3, 'Fadd9': 2}",90 bpm
+163,All I Want Chords,C,no capo,"['C', 'F', 'G/B', 'Am', 'G', 'Dm']","{'C': 36, 'F': 23, 'G/B': 6, 'Am': 14, 'G': 13, 'Dm': 2}",125 bpm
+240,Somewhere Only We Know Chords,C,no capo,"['C', 'Em', 'Dm', 'G', 'F', 'Am']","{'C': 15, 'Em': 17, 'Dm': 21, 'G': 20, 'F': 16, 'Am': 6}",86 bpm
+242,When I Was Your Man Chords,C,no capo,"['D7', 'Dm7', 'C', 'G/B', 'Am', 'Dm', 'G', 'G7', 'Em/B', 'Em', 'A#', 'C/G', 'F', 'Fm', 'Em/G']","{'D7': 7, 'Dm7': 3, 'C': 22, 'G/B': 2, 'Am': 10, 'Dm': 4, 'G': 17, 'G7': 2, 'Em/B': 5, 'Em': 2, 'A#': 2, 'C/G': 2, 'F': 15, 'Fm': 4, 'Em/G': 1}",73 bpm
+243,All I Ask Chords,C,4th fret,"['C', 'Em', 'F', 'G', 'E', 'E/G#', 'Am', 'C/G', 'Dm', 'Dm7/G', 'A7', 'A7/C#', 'F/G', 'G7', 'G/B', 'C/E', 'Dm7', 'C/A#', 'G/F', 'E/B', 'G#7sus4', 'C#', 'A#7', 'A#/D', 'D#m', 'F#/G#', 'G#7', 'G#7/C', 'G#/C', 'A#m7', 'C#/F']","{'C': 13, 'Em': 6, 'F': 7, 'G': 6, 'E': 3, 'E/G#': 3, 'Am': 5, 'C/G': 2, 'Dm': 7, 'Dm7/G': 2, 'A7': 4, 'A7/C#': 4, 'F/G': 8, 'G7': 5, 'G/B': 6, 'C/E': 2, 'Dm7': 3, 'C/A#': 1, 'G/F': 1, 'E/B': 1, 'G#7sus4': 2, 'C#': 4, 'A#7': 2, 'A#/D': 2, 'D#m': 3, 'F#/G#': 3, 'G#7': 2, 'G#7/C': 2, 'G#/C': 1, 'A#m7': 1, 'C#/F': 1}",NF
+328,Let It Be Chords,C,no capo,"['C', 'G', 'Am', 'Am7', 'Fmaj7', 'F6', 'F', 'E', 'D']","{'C': 36, 'G': 24, 'Am': 12, 'Am7': 6, 'Fmaj7': 6, 'F6': 6, 'F': 18, 'E': 12, 'D': 24}",72 bpm
+327,Imagine Chords,C,no capo,"['C', 'Cmaj7', 'F', 'Cadd9', 'Am/E', 'Dm7', 'F/C', 'G', 'C/G', 'G7', 'E', 'E7']","{'C': 29, 'Cmaj7': 24, 'F': 29, 'Cadd9': 3, 'Am/E': 3, 'Dm7': 3, 'F/C': 3, 'G': 11, 'C/G': 3, 'G7': 3, 'E': 6, 'E7': 6}",76 bpm
+115,Closer Chords,C,1st fret,"['C', 'D', 'Em']","{'C': 40, 'D': 81, 'Em': 41}",95 bpm
+350,Love Story Chords,C,2nd fret,"['C', 'G', 'Am', 'F', 'D', 'A', 'Bm']","{'C': 14, 'G': 23, 'Am': 15, 'F': 18, 'D': 3, 'A': 3, 'Bm': 2}",119 bpm
+333,Happier Than Ever Chords,C,no capo,"['G', 'G6', 'G7', 'C', 'C/G', 'E7', 'Am', 'Am/E', 'Dm7b5', 'Cadd9', 'Dm7', 'Am/G', 'D/F#', 'F', 'Fm']","{'G': 4, 'G6': 1, 'G7': 2, 'C': 20, 'C/G': 2, 'E7': 21, 'Am': 22, 'Am/E': 2, 'Dm7b5': 3, 'Cadd9': 3, 'Dm7': 4, 'Am/G': 1, 'D/F#': 1, 'F': 14, 'Fm': 4}",91 bpm
+33,Oh My God Chords,C,3rd fret,"['F', 'Dm', 'C', 'G']","{'F': 15, 'Dm': 15, 'C': 28, 'G': 1}",78 bpm
+353,Talking To The Moon Chords,C,4th fret,"['C', 'E7', 'Am', 'G', 'F', 'Dm', 'G/B', 'D']","{'C': 12, 'E7': 5, 'Am': 15, 'G': 27, 'F': 16, 'Dm': 8, 'G/B': 3, 'D': 2}",73 bpm
+203,Let It Be Chords,C,no capo,"['C', 'G', 'Am', 'Fmaj7', 'F6', 'F', 'C/E', 'Dm7', 'Am/G', 'A#', 'F/A']","{'C': 49, 'G': 32, 'Am': 15, 'Fmaj7': 7, 'F6': 7, 'F': 27, 'C/E': 16, 'Dm7': 16, 'Am/G': 6, 'A#': 2, 'F/A': 2}",76 bpm
+199,Talking To The Moon Chords,C,4th fret,"['C', 'E7', 'Am', 'G', 'F', 'Dm', 'G/B', 'D']","{'C': 12, 'E7': 5, 'Am': 15, 'G': 27, 'F': 16, 'Dm': 8, 'G/B': 3, 'D': 2}",73 bpm
+357,Let It Be Chords,C,no capo,"['C', 'G', 'Am', 'Fmaj7', 'F6', 'F', 'C/E', 'Dm7', 'Am/G', 'A#', 'F/A']","{'C': 49, 'G': 32, 'Am': 15, 'Fmaj7': 7, 'F6': 7, 'F': 27, 'C/E': 16, 'Dm7': 16, 'Am/G': 6, 'A#': 2, 'F/A': 2}",76 bpm
+194,Love Story Chords,C,2nd fret,"['C', 'G', 'Am', 'F', 'D', 'A', 'Bm']","{'C': 14, 'G': 23, 'Am': 15, 'F': 18, 'D': 3, 'A': 3, 'Bm': 2}",119 bpm
+364,All Too Well Chords,C,no capo,"['C', 'G', 'Am', 'F']","{'C': 29, 'G': 34, 'Am': 31, 'F': 31}",93 bpm
+365,Something Chords,C,no capo,"['F', 'D#', 'G/D', 'C', 'A', 'Cmaj7', 'C7', 'F/E', 'D7', 'G', 'G/A', 'G7/B', 'Am', 'Ammaj7', 'Am7', 'D9', 'C#m/G#', 'F#m7', 'A/E', 'D']","{'F': 16, 'D#': 8, 'G/D': 8, 'C': 8, 'A': 7, 'Cmaj7': 4, 'C7': 4, 'F/E': 4, 'D7': 4, 'G': 6, 'G/A': 4, 'G7/B': 4, 'Am': 4, 'Ammaj7': 4, 'Am7': 4, 'D9': 4, 'C#m/G#': 2, 'F#m7': 2, 'A/E': 2, 'D': 2}",66 bpm
+382,We Wish You A Merry Christmas Chords,C,no capo,"['C', 'F', 'D', 'G', 'E7', 'Am', 'Em']","{'C': 14, 'F': 10, 'D': 4, 'G': 14, 'E7': 4, 'Am': 6, 'Em': 2}",150 bpm
+176,Save Your Tears Chords,C,no capo,"['C', 'Am', 'Em', 'G', 'Dm', 'F', 'F/G']","{'C': 23, 'Am': 25, 'Em': 22, 'G': 23, 'Dm': 3, 'F': 3, 'F/G': 2}",118 bpm
+392,Nothing Compares 2 U Chords,C,no capo,"['C', 'G/B', 'Am', 'G', 'Am7', 'E', 'A#', 'F', 'Fsus4', 'Em']","{'C': 21, 'G/B': 13, 'Am': 11, 'G': 18, 'Am7': 9, 'E': 4, 'A#': 8, 'F': 9, 'Fsus4': 1, 'Em': 3}",NF
+394,Somewhere Only We Know Chords,C,no capo,"['C', 'Em', 'Dm', 'G', 'F', 'Am']","{'C': 15, 'Em': 17, 'Dm': 21, 'G': 20, 'F': 16, 'Am': 6}",86 bpm
+396,When I Was Your Man Chords,C,no capo,"['D7', 'Dm7', 'C', 'G/B', 'Am', 'Dm', 'G', 'G7', 'Em/B', 'Em', 'A#', 'C/G', 'F', 'Fm', 'Em/G']","{'D7': 7, 'Dm7': 3, 'C': 22, 'G/B': 2, 'Am': 10, 'Dm': 4, 'G': 17, 'G7': 2, 'Em/B': 5, 'Em': 2, 'A#': 2, 'C/G': 2, 'F': 15, 'Fm': 4, 'Em/G': 1}",73 bpm
+398,All I Ask Chords,C,4th fret,"['C', 'Em', 'F', 'G', 'E', 'E/G#', 'Am', 'C/G', 'Dm', 'Dm7/G', 'A7', 'A7/C#', 'F/G', 'G7', 'G/B', 'C/E', 'Dm7', 'C/A#', 'G/F', 'E/B', 'G#7sus4', 'C#', 'A#7', 'A#/D', 'D#m', 'F#/G#', 'G#7', 'G#7/C', 'G#/C', 'A#m7', 'C#/F']","{'C': 13, 'Em': 6, 'F': 7, 'G': 6, 'E': 3, 'E/G#': 3, 'Am': 5, 'C/G': 2, 'Dm': 7, 'Dm7/G': 2, 'A7': 4, 'A7/C#': 4, 'F/G': 8, 'G7': 5, 'G/B': 6, 'C/E': 2, 'Dm7': 3, 'C/A#': 1, 'G/F': 1, 'E/B': 1, 'G#7sus4': 2, 'C#': 4, 'A#7': 2, 'A#/D': 2, 'D#m': 3, 'F#/G#': 3, 'G#7': 2, 'G#7/C': 2, 'G#/C': 1, 'A#m7': 1, 'C#/F': 1}",NF
+210,Something Chords,C,no capo,"['F', 'D#', 'G/D', 'C', 'A', 'Cmaj7', 'C7', 'F/E', 'D7', 'G', 'G/A', 'G7/B', 'Am', 'Ammaj7', 'Am7', 'D9', 'C#m/G#', 'F#m7', 'A/E', 'D']","{'F': 16, 'D#': 8, 'G/D': 8, 'C': 8, 'A': 7, 'Cmaj7': 4, 'C7': 4, 'F/E': 4, 'D7': 4, 'G': 6, 'G/A': 4, 'G7/B': 4, 'Am': 4, 'Ammaj7': 4, 'Am7': 4, 'D9': 4, 'C#m/G#': 2, 'F#m7': 2, 'A/E': 2, 'D': 2}",66 bpm
+53,Comethru Chords,C,no capo,"['Cmaj7', 'Am7', 'F', 'G', 'Am7/G', 'Fmaj7', 'G/B']","{'Cmaj7': 16, 'Am7': 18, 'F': 14, 'G': 16, 'Am7/G': 5, 'Fmaj7': 4, 'G/B': 1}",94 bpm
+0,That Way Chords,C,no capo,"['Am', 'F', 'Em']","{'Am': 17, 'F': 34, 'Em': 17}",NF
+97,Gul Chords,C,6th fret,"['Am', 'Em', 'F', 'G', 'C']","{'Am': 26, 'Em': 25, 'F': 30, 'G': 29, 'C': 5}",87 bpm
+93,Watermelon Sugar Chords,C,no capo,"['Dm7', 'Am7', 'C', 'G']","{'Dm7': 17, 'Am7': 17, 'C': 16, 'G': 14}",95 bpm
+91,Payphone Chords,C,no capo,"['F', 'C', 'Am', 'G']","{'F': 18, 'C': 18, 'Am': 18, 'G': 18}",NF
+308,Half The World Away Chords,C,no capo,"['C', 'Fmaj7', 'C/B', 'Am', 'D7', 'E7', 'G', 'G7', 'Fm']","{'C': 27, 'Fmaj7': 31, 'C/B': 6, 'Am': 14, 'D7': 8, 'E7': 4, 'G': 2, 'G7': 2, 'Fm': 2}",115 bpm
+102,Tere Hi Hum Chords,C,no capo,"['C', 'Fsus2', 'Am7', 'G', 'C7', 'F']","{'C': 35, 'Fsus2': 2, 'Am7': 33, 'G': 22, 'C7': 1, 'F': 34}",116 bpm
+302,Half The World Away Chords,C,no capo,"['C', 'Fmaj7', 'C/B', 'Am', 'D7', 'E7', 'G', 'G7', 'Fm']","{'C': 27, 'Fmaj7': 31, 'C/B': 6, 'Am': 14, 'D7': 8, 'E7': 4, 'G': 2, 'G7': 2, 'Fm': 2}",115 bpm
+272,Betty Chords,C,no capo,"['C', 'C/B', 'Am', 'Gsus4', 'F', 'G', 'Fm', 'Em', 'D', 'D/C#', 'Bm', 'A', 'D/F#']","{'C': 21, 'C/B': 18, 'Am': 31, 'Gsus4': 31, 'F': 30, 'G': 28, 'Fm': 1, 'Em': 4, 'D': 6, 'D/C#': 2, 'Bm': 2, 'A': 7, 'D/F#': 3}",96 bpm
+269,Dont Look Back In Anger Chords,C,no capo,"['C', 'F', 'G', 'Am', 'E7', 'Fm', 'E7/G#']","{'C': 35, 'F': 27, 'G': 47, 'Am': 28, 'E7': 13, 'Fm': 9, 'E7/G#': 3}",82 bpm
+264,Creep Chords,C,no capo,"['C', 'E', 'F', 'Fm']","{'C': 12, 'E': 11, 'F': 11, 'Fm': 11}",92 bpm
+313,Sweater Weather Acoustic Chords,C,3rd fret,"['C', 'Am', 'Em', 'G', 'D']","{'C': 25, 'Am': 30, 'Em': 24, 'G': 30, 'D': 7}",118 bpm
+318,La Vie En Rose Chords,C,no capo,"['C', 'Cmaj7', 'C6', 'Dm7', 'G7', 'Dm', 'F', 'Fm', 'C/E', 'D#dim']","{'C': 4, 'Cmaj7': 3, 'C6': 2, 'Dm7': 4, 'G7': 4, 'Dm': 2, 'F': 1, 'Fm': 1, 'C/E': 1, 'D#dim': 1}",NF
+108,Make You Mine Chords,C,no capo,"['C', 'Em', 'Am', 'F', 'Dm']","{'C': 17, 'Em': 17, 'Am': 16, 'F': 17, 'Dm': 3}",103 bpm
+295,Bejeweled Chords,C,no capo,"['C', 'Dm7', 'Am', 'Gsus4', 'Fsus2']","{'C': 30, 'Dm7': 29, 'Am': 29, 'Gsus4': 31, 'Fsus2': 2}",NF
+273,Simple Man Chords,C,no capo,"['C', 'G', 'Am']","{'C': 28, 'G': 28, 'Am': 28}",60 bpm
+297,I Still Havent Found What Im Looking For Chords,C#,1st fret,"['C', 'Fsus2', 'G', 'Csus4', 'F']","{'C': 31, 'Fsus2': 15, 'G': 8, 'Csus4': 6, 'F': 2}",101 bpm
+255,Cant Take My Eyes Off You Chords,C#,1st fret,"['C', 'Cmaj7', 'C7', 'F', 'Fm7', 'Dm7', 'G7', 'G', 'Em7', 'Am7', 'A#7', 'A7', 'D', 'Dmaj7', 'D7sus4', 'Gm7', 'F#m7', 'Bm7', 'Em', 'B7']","{'C': 8, 'Cmaj7': 2, 'C7': 3, 'F': 2, 'Fm7': 2, 'Dm7': 6, 'G7': 2, 'G': 4, 'Em7': 6, 'Am7': 2, 'A#7': 1, 'A7': 5, 'D': 5, 'Dmaj7': 1, 'D7sus4': 1, 'Gm7': 1, 'F#m7': 2, 'Bm7': 2, 'Em': 1, 'B7': 1}",88 bpm
+72,Kho Gaye Hum Kaha Chords,C#,1st fret,"['C', 'F', 'G', 'E7']","{'C': 26, 'F': 26, 'G': 20, 'E7': 4}",100 bpm
+326,This Is The Life Chords,C#m,4th fret,"['Am', 'F', 'C', 'Em']","{'Am': 21, 'F': 17, 'C': 17, 'Em': 17}",190 bpm
+12,Sucker Chords,C#m,no capo,"['C#m', 'E', 'B', 'G#', 'F#m', 'A']","{'C#m': 38, 'E': 37, 'B': 43, 'G#': 19, 'F#m': 12, 'A': 12}",138 bpm
+32,Shape Of You Chords,C#m,2nd fret,"['Bm', 'Em', 'G', 'A']","{'Bm': 44, 'Em': 42, 'G': 42, 'A': 40}",96 bpm
+312,Jolene Chords,C#m,4th fret,"['Am', 'C', 'G', 'Em']","{'Am': 37, 'C': 12, 'G': 24, 'Em': 9}",110 bpm
+271,Slow Dancing In A Burning Room Chords,C#m,no capo,"['E', 'A', 'D', 'G', 'B', 'C#m7', 'Aadd9', 'Badd11', 'F#m11']","{'E': 27, 'A': 1, 'D': 1, 'G': 1, 'B': 1, 'C#m7': 31, 'Aadd9': 29, 'Badd11': 5, 'F#m11': 3}",67 bpm
+41,Shape Of You Chords,C#m,no capo,"['C#m', 'F#m', 'A', 'B']","{'C#m': 43, 'F#m': 44, 'A': 43, 'B': 41}",91 bpm
+46,Sucker Chords,C#m,no capo,"['C#m', 'E', 'B', 'G#', 'F#m', 'A']","{'C#m': 38, 'E': 37, 'B': 43, 'G#': 19, 'F#m': 12, 'A': 12}",138 bpm
+127,Dynamite Chords,C#m,2nd fret,"['Bm', 'Em', 'A', 'D', 'C#m', 'F#m', 'B', 'E']","{'Bm': 30, 'Em': 30, 'A': 30, 'D': 30, 'C#m': 8, 'F#m': 8, 'B': 8, 'E': 8}",NF
+263,Skyfall Chords,Cm,3rd fret,"['Am', 'Am/G', 'F', 'F/E', 'E', 'Esus', 'D', 'D/C', 'Dm', 'Dm7/A', 'Asus2/C', 'Bm7b5', 'Esus/B', 'E/C', 'Asus2']","{'Am': 23, 'Am/G': 9, 'F': 22, 'F/E': 10, 'E': 13, 'Esus': 8, 'D': 23, 'D/C': 8, 'Dm': 13, 'Dm7/A': 2, 'Asus2/C': 6, 'Bm7b5': 9, 'Esus/B': 2, 'E/C': 1, 'Asus2': 1}",75 bpm
+66,Adore You Chords,Cm,3rd fret,"['Am7', 'C', 'Fmaj7', 'G']","{'Am7': 22, 'C': 22, 'Fmaj7': 22, 'G': 20}",99 bpm
+268,Crazy Chords,Cm,3rd fret,"['Am', 'Cmaj7', 'F', 'Esus4', 'E', 'C', 'A']","{'Am': 8, 'Cmaj7': 7, 'F': 10, 'Esus4': 10, 'E': 10, 'C': 3, 'A': 3}",112 bpm
+142,Not Afraid Chords,Cm,3rd fret,"['Am', 'F/A', 'C', 'G', 'F']","{'Am': 21, 'F/A': 20, 'C': 22, 'G': 22, 'F': 2}",NF
+168,Beautiful People Chords,Cm,3rd fret,"['C', 'Am', 'F']","{'C': 22, 'Am': 17, 'F': 29}",90 bpm
+378,I Wanna Be Yours Chords,Cm,no capo,"['Cm', 'Fm', 'Gm', 'A#', 'G#']","{'Cm': 21, 'Fm': 16, 'Gm': 16, 'A#': 10, 'G#': 10}",68 bpm
+294,Jingle Bell Rock Chords,D,no capo,"['D', 'Dmaj7', 'D6', 'Em', 'A7', 'A', 'G', 'Gm', 'D7', 'E', 'E7', 'B7']","{'D': 17, 'Dmaj7': 5, 'D6': 5, 'Em': 16, 'A7': 15, 'A': 11, 'G': 4, 'Gm': 6, 'D7': 2, 'E': 2, 'E7': 4, 'B7': 2}",NF
+164,If I Cant Have You Chords,D,2nd fret,"['C', 'F', 'Am', 'G']","{'C': 33, 'F': 34, 'Am': 26, 'G': 27}",NF
+291,G#out You Chords,D,no capo,"['D', 'A', 'Bm', 'G']","{'D': 16, 'A': 26, 'Bm': 15, 'G': 13}",NF
+258,Summer Of 69 Chords,D,no capo,"['D', 'A', 'D', 'A', 'Bm', 'G', 'F', 'A#', 'C', 'A#/D']","{'D': 31, 'A': 30, 'Bm': 9, 'G': 6, 'F': 2, 'A#': 2, 'C': 2, 'A#/D': 1}",138 bpm
+281,Proud Mary Chords,D,no capo,"['C', 'A', 'G', 'F', 'F6', 'D', 'Bm']","{'C': 9, 'A': 14, 'G': 3, 'F': 9, 'F6': 3, 'D': 28, 'Bm': 5}",120 bpm
+183,Cant Help Falling In Love Chords,D,2nd fret,"['C', 'G', 'Am', 'F', 'Em', 'B7', 'A7', 'Dm', 'D', 'F#m', 'Bm', 'A', 'C#7']","{'C': 23, 'G': 20, 'Am': 11, 'F': 16, 'Em': 14, 'B7': 8, 'A7': 3, 'Dm': 3, 'D': 1, 'F#m': 1, 'Bm': 1, 'A': 1, 'C#7': 1}",67 bpm
+219,The Loneliest Chords,D,2nd fret,"['C', 'Em', 'Am', 'G', 'Dm', 'E', 'F', 'Em/B', 'Cadd9']","{'C': 16, 'Em': 8, 'Am': 14, 'G': 12, 'Dm': 2, 'E': 6, 'F': 4, 'Em/B': 2, 'Cadd9': 1}",65 bpm
+375,The Loneliest Chords,D,2nd fret,"['C', 'Em', 'Am', 'G', 'Dm', 'E', 'F', 'Em/B', 'Cadd9']","{'C': 16, 'Em': 8, 'Am': 14, 'G': 12, 'Dm': 2, 'E': 6, 'F': 4, 'Em/B': 2, 'Cadd9': 1}",65 bpm
+347,Last Christmas Chords,D,no capo,"['D', 'Bm', 'Em', 'A']","{'D': 16, 'Bm': 15, 'Em': 17, 'A': 15}",107 bpm
+190,Last Christmas Chords,D,no capo,"['D', 'Bm', 'Em', 'A']","{'D': 16, 'Bm': 15, 'Em': 17, 'A': 15}",107 bpm
+309,Friday Im In Love Chords,D,no capo,"['D', 'G', 'A', 'Bm', 'C']","{'D': 30, 'G': 20, 'A': 24, 'Bm': 14, 'C': 4}",136 bpm
+356,Best Part Chords,D,no capo,"['Dmaj7', 'Am7', 'Gmaj7', 'A#maj7']","{'Dmaj7': 16, 'Am7': 16, 'Gmaj7': 16, 'A#maj7': 16}",75 bpm
+311,Thinking Out Loud Chords,D,2nd fret,"['C', 'C/E', 'F', 'G', 'Dm', 'Am']","{'C': 39, 'C/E': 37, 'F': 37, 'G': 50, 'Dm': 13, 'Am': 7}",75 bpm
+276,My Way Chords,D,no capo,"['D', 'Dmaj7', 'D7', 'B7', 'Em7', 'Em7/D', 'Em7/C#', 'A7', 'G', 'Gm', 'A', 'Asus4', 'Gsus4', 'Em', 'F#m', 'Bm7']","{'D': 21, 'Dmaj7': 5, 'D7': 8, 'B7': 3, 'Em7': 5, 'Em7/D': 3, 'Em7/C#': 3, 'A7': 5, 'G': 11, 'Gm': 3, 'A': 5, 'Asus4': 5, 'Gsus4': 1, 'Em': 2, 'F#m': 2, 'Bm7': 2}",75 bpm
+253,I Dont Want To Miss A Thing Chords,D,no capo,"['D', 'A', 'Bm', 'G', 'Em', 'F#m', 'C', 'A#', 'F', 'Dm']","{'D': 22, 'A': 26, 'Bm': 4, 'G': 16, 'Em': 13, 'F#m': 1, 'C': 2, 'A#': 1, 'F': 1, 'Dm': 1}",60 bpm
+280,Summer Of 69 Chords,D,no capo,"['D', 'A', 'D', 'A', 'Bm', 'G', 'F', 'A#', 'C', 'A#/D']","{'D': 31, 'A': 30, 'Bm': 9, 'G': 6, 'F': 2, 'A#': 2, 'C': 2, 'A#/D': 1}",138 bpm
+330,Youre On Your Own Kid Chords,D,2nd fret,"['C', 'Em', 'F', 'Am', 'G/B', 'Fsus2', 'G', 'Am7', 'Am7/E']","{'C': 20, 'Em': 6, 'F': 7, 'Am': 3, 'G/B': 3, 'Fsus2': 17, 'G': 18, 'Am7': 7, 'Am7/E': 5}",120 bpm
+202,Best Part Chords,D,no capo,"['Dmaj7', 'Am7', 'Gmaj7', 'A#maj7']","{'Dmaj7': 16, 'Am7': 16, 'Gmaj7': 16, 'A#maj7': 16}",75 bpm
+113,One Thing Chords,D,2nd fret,"['C', 'G', 'Am', 'F']","{'C': 58, 'G': 45, 'Am': 31, 'F': 6}",127 bpm
+110,Live While Were Young Chords,D,no capo,"['G', 'D', 'A', 'Bm']","{'G': 31, 'D': 54, 'A': 25, 'Bm': 8}",126 bpm
+88,Thinking Out Loud Chords,D,2nd fret,"['C', 'C/E', 'F', 'G', 'Dm', 'Am']","{'C': 39, 'C/E': 37, 'F': 37, 'G': 50, 'Dm': 13, 'Am': 7}",75 bpm
+82,Theres Nothing Holdin Me Back Chords,D,no capo,"['G', 'D', 'A', 'Bm']","{'G': 25, 'D': 90, 'A': 50, 'Bm': 26}",123 bpm
+80,Demons Chords,D,1st fret,"['D', 'A', 'Bm', 'G']","{'D': 20, 'A': 16, 'Bm': 16, 'G': 15}",90 bpm
+149,Dusk Till Dawn Chords,D,2nd fret,"['Am7', 'F', 'C', 'G/B', 'Am', 'Em', 'G', 'Bm7', 'G6', 'D', 'GM', 'A/C#', 'Bm', 'F#m', 'A']","{'Am7': 13, 'F': 21, 'C': 22, 'G/B': 12, 'Am': 11, 'Em': 9, 'G': 5, 'Bm7': 13, 'G6': 2, 'D': 22, 'F#m11/C#': 2, 'GM': 20, 'A/C#': 11, 'Bm': 11, 'F#m': 9, 'A': 5}",90 bpm
+38,Castle On The Hill Chords,D,no capo,"['D', 'G', 'Bm', 'D/F#', 'A', 'A7sus4', 'Bm7#5']","{'D': 42, 'G': 45, 'Bm': 34, 'D/F#': 28, 'A': 17, 'A7sus4': 24, 'Bm7#5': 1}",145 bpm
+64,The Water Fountain Chords,C#,1st fret,"['C', 'Am', 'G', 'D', 'Em']","{'C': 14, 'Am': 14, 'G': 12, 'D': 14, 'Em': 2}",67 bpm
+57,One Call Away Chords,C#,1st fret,"['C', 'G', 'Am7', 'F', 'F/G', 'Am', 'E7']","{'C': 28, 'G': 28, 'Am7': 10, 'F': 25, 'F/G': 6, 'Am': 11, 'E7': 1}",91 bpm
+116,Chaand Baaliyan Chords,C#,1st fret,"['C', 'Am7', 'G', 'F']","{'C': 18, 'Am7': 4, 'G': 10, 'F': 6}",97 bpm
+184,Hallelujah Chords,C#,1st fret,"['C', 'Am', 'F', 'G', 'E7']","{'C': 41, 'Am': 38, 'F': 30, 'G': 28, 'E7': 5}",69 bpm
+366,Let It Snow Chords,C#,no capo,"['C', 'G7', 'D#dim', 'G', 'Dm', 'A7', 'Am', 'D7', 'D', 'Fdim', 'A', 'Em', 'B7', 'Bm', 'E7', 'E', 'Gdim', 'B', 'F#m', 'C#7', 'C#m', 'F#7', 'F', 'C7', 'G#dim', 'Gm', 'A#dim', 'Cdim']","{'C': 27, 'G7': 10, 'D#dim': 4, 'G': 27, 'Dm': 9, 'A7': 15, 'Am': 9, 'D7': 15, 'D': 27, 'Fdim': 4, 'A': 27, 'Em': 9, 'B7': 15, 'Bm': 9, 'E7': 15, 'E': 27, 'Gdim': 4, 'B': 11, 'F#m': 9, 'C#7': 5, 'C#m': 1, 'F#7': 7, 'F': 16, 'C7': 8, 'G#dim': 4, 'Gm': 8, 'A#dim': 4, 'Cdim': 4}",NF
+298,21 Guns Chords,Dm,no capo,"['A', 'A#', 'C', 'Dm', 'F', 'A#5', 'C5', 'C/E', 'D5', 'F5', 'A5']","{'A': 1, 'A#': 25, 'C': 22, 'Dm': 20, 'F': 20, 'A#5': 19, 'C5': 28, 'C/E': 11, 'D5': 14, 'F5': 29, 'A5': 3}",80 bpm
+256,Complicated Chords,Dm,no capo,"['Dm', 'A#', 'F', 'C', 'Gm']","{'Dm': 25, 'A#': 32, 'F': 23, 'C': 25, 'Gm': 4}",78 bpm
+106,The Scientist Chords,Dm,5th fret,"['Am7', 'F', 'C', 'C/B', 'D', 'A', 'C6', 'G']","{'Am7': 16, 'F': 22, 'C': 35, 'C/B': 14, 'D': 1, 'A': 1, 'C6': 2, 'G': 2}",73 bpm
+317,Come Together Chords,Dm,no capo,"['Dm', 'A7', 'G7', 'Bm', 'A', 'G']","{'Dm': 8, 'A7': 4, 'G7': 4, 'Bm': 3, 'A': 6, 'G': 3}",82 bpm
+87,South Of The Border Chords,Dm,no capo,"['Dm', 'F', 'A#', 'Am7', 'C']","{'Dm': 36, 'F': 36, 'A#': 36, 'Am7': 32, 'C': 4}",NF
+381,The Scientist Chords,Dm,3rd fret,"['Bm7', 'G', 'D', 'Dsus2', 'A/D', 'D6/9', 'A/E', 'Asus4', 'A', 'Dmaj7', 'Dsus2/C#']","{'Bm7': 13, 'G': 19, 'D': 24, 'Dsus2': 12, 'A/D': 3, 'D6/9': 3, 'A/E': 3, 'Asus4': 3, 'A': 3, 'Dmaj7': 2, 'Dsus2/C#': 2}",73 bpm
+227,The Scientist Chords,Dm,3rd fret,"['Bm7', 'G', 'D', 'Dsus2', 'A/D', 'D6/9', 'A/E', 'Asus4', 'A', 'Dmaj7', 'Dsus2/C#']","{'Bm7': 13, 'G': 19, 'D': 24, 'Dsus2': 12, 'A/D': 3, 'D6/9': 3, 'A/E': 3, 'Asus4': 3, 'A': 3, 'Dmaj7': 2, 'Dsus2/C#': 2}",73 bpm
+18,Just My Type Chords,Dm,no capo,"['Dm', 'A', 'A#', 'Gm', 'F', 'C']","{'Dm': 26, 'A': 23, 'A#': 25, 'Gm': 11, 'F': 16, 'C': 1}",NF
+400,Where Is My Mind Chords,E,no capo,"['E', 'C#m', 'G#', 'A', 'Am', 'B']","{'E': 25, 'C#m': 25, 'G#': 25, 'A': 25, 'Am': 3, 'B': 3}",81 bpm
+403,Anti-Hero Chords,E,no capo,"['A', 'E', 'B', 'C#m']","{'A': 39, 'E': 39, 'B': 39, 'C#m': 39}",97 bpm
+200,Its Beginning To Look A Lot Like Christmas Chords,E,2nd fret,"['Em/B', 'D', 'G', 'F#', 'Em', 'A7', 'Bm', 'A', 'E', 'B7', 'E7', 'B']","{'Em/B': 4, 'D': 23, 'G': 10, 'F#': 8, 'Em': 6, 'A7': 8, 'Bm': 4, 'A': 8, 'E': 3, 'B7': 3, 'E7': 1, 'B': 1}",94 bpm
+103,Choo Lo Chords,E,no capo,"['E', 'B', 'A', 'C#m']","{'E': 12, 'B': 53, 'A': 27, 'C#m': 14}",NF
+95,2002 Chords,E,2nd fret,"['D', 'A', 'Bm', 'F#m', 'G']","{'D': 27, 'A': 30, 'Bm': 24, 'F#m': 3, 'G': 28}",NF
+2,Marvin Gaye Chords,E,no capo,"['E', 'C#m', 'A', 'B', 'G#', 'F#', 'F#m']","{'E': 19, 'C#m': 10, 'A': 8, 'B': 13, 'G#': 4, 'F#': 2, 'F#m': 2}",NF
+86,Photograph Chords,E,2nd fret,"['D', 'Bm', 'A', 'G']","{'D': 17, 'Bm': 16, 'A': 16, 'G': 17}",108 bpm
+245,Where Is My Mind Chords,E,no capo,"['E', 'C#m', 'G#', 'A', 'Am', 'B']","{'E': 25, 'C#m': 25, 'G#': 25, 'A': 25, 'Am': 3, 'B': 3}",81 bpm
+36,Two Ghosts Chords,E,no capo,"['E', 'F#m11', 'G#m6', 'A', 'C#m', 'B', 'Bm']","{'E': 23, 'F#m11': 25, 'G#m6': 16, 'A': 19, 'C#m': 9, 'B': 9, 'Bm': 3}",80 bpm
+68,Falling Chords,E,no capo,"['E', 'C#m', 'B', 'A', 'G#m']","{'E': 13, 'C#m': 13, 'B': 12, 'A': 13, 'G#m': 11}",110 bpm
+123,Hey Soul Sister Chords,E,4th fret,"['C', 'G', 'Am', 'F']","{'C': 26, 'G': 45, 'Am': 14, 'F': 28}",97 bpm
+122,Need You Now Chords,E,4th fret,"['F', 'Am', 'C', 'Em', 'G/B', 'Gsus', 'G']","{'F': 20, 'Am': 10, 'C': 12, 'Em': 10, 'G/B': 1, 'Gsus': 1, 'G': 1}",108 bpm
+204,Here With Me Chords,E,no capo,"['E', 'G#7', 'C#m', 'Bm7', 'Amaj7', 'F#m7', 'B7', 'A', 'G#m', 'B']","{'E': 19, 'G#7': 23, 'C#m': 13, 'Bm7': 11, 'Amaj7': 11, 'F#m7': 11, 'B7': 17, 'A': 8, 'G#m': 2, 'B': 4}",65 bpm
+54,What Makes You Beautiful Chords,E,no capo,"['E', 'A', 'B']","{'E': 47, 'A': 47, 'B': 47}",NF
+248,Anti-Hero Chords,E,no capo,"['A', 'E', 'B', 'C#m']","{'A': 39, 'E': 39, 'B': 39, 'C#m': 39}",97 bpm
+359,Here With Me Chords,E,no capo,"['E', 'G#7', 'C#m', 'Bm7', 'Amaj7', 'F#m7', 'B7', 'A', 'G#m', 'B']","{'E': 19, 'G#7': 23, 'C#m': 13, 'Bm7': 11, 'Amaj7': 11, 'F#m7': 11, 'B7': 17, 'A': 8, 'G#m': 2, 'B': 4}",65 bpm
+339,Smells Like Teen Spirit Chords,E,1st fret,"['E', 'A', 'G', 'C']","{'E': 51, 'A': 50, 'G': 50, 'C': 50}",116 bpm
+341,Love Yourself Chords,E,4th fret,"['C', 'G/B', 'Am', 'Dm', 'F', 'G']","{'C': 56, 'G/B': 20, 'Am': 28, 'Dm': 10, 'F': 18, 'G': 24}",100 bpm
+354,Its Beginning To Look A Lot Like Christmas Chords,E,2nd fret,"['Em/B', 'D', 'G', 'F#', 'Em', 'A7', 'Bm', 'A', 'E', 'B7', 'E7', 'B']","{'Em/B': 4, 'D': 23, 'G': 10, 'F#': 8, 'Em': 6, 'A7': 8, 'Bm': 4, 'A': 8, 'E': 3, 'B7': 3, 'E7': 1, 'B': 1}",94 bpm
+175,On My Way Chords,E,no capo,"['E', 'B', 'C#m', 'A', 'G#m', 'F#m', 'G#']","{'E': 21, 'B': 14, 'C#m': 43, 'A': 25, 'G#m': 11, 'F#m': 11, 'G#': 11}",85 bpm
+249,Peaceful Easy Feeling Chords,E,2nd fret,"['D', 'Dsus4', 'G', 'A7', 'Em']","{'D': 47, 'Dsus4': 8, 'G': 41, 'A7': 24, 'Em': 13}",143 bpm
+404,Peaceful Easy Feeling Chords,E,2nd fret,"['D', 'Dsus4', 'G', 'A7', 'Em']","{'D': 47, 'Dsus4': 8, 'G': 41, 'A7': 24, 'Em': 13}",143 bpm
+114,Story Of My Life Chords,D#,3rd fret,"['Am', 'C', 'F', 'G']","{'Am': 24, 'C': 23, 'F': 25, 'G': 10}",121 bpm
+74,Traitor Chords,D#,3rd fret,"['C', 'G', 'Am', 'Fmaj7', 'Fm', 'Bdim', 'Em']","{'C': 24, 'G': 2, 'Am': 24, 'Fmaj7': 21, 'Fm': 2, 'Bdim': 1, 'Em': 21}",80 bpm
+78,Bad Liar Chords,D#,1st fret,"['D', 'Bm', 'G', 'A', 'A/C#', 'F#m', 'Dsus2']","{'D': 28, 'Bm': 21, 'G': 18, 'A': 7, 'A/C#': 7, 'F#m': 1, 'Dsus2': 1}",89 bpm
+336,Your Song Chords,D#,1st fret,"['D', 'G', 'A', 'F#m', 'Bm', 'Em7', 'Bm/A', 'Bm/G#', 'A/C#', 'Gmaj7', 'F#', 'Em', 'G6', 'D/F#', 'G/D', 'A/D']","{'D': 20, 'G': 16, 'A': 11, 'F#m': 5, 'Bm': 16, 'Em7': 7, 'Bm/A': 8, 'Bm/G#': 8, 'A/C#': 9, 'Gmaj7': 8, 'F#': 4, 'Em': 5, 'G6': 3, 'D/F#': 2, 'G/D': 2, 'A/D': 1}",64 bpm
+338,Your Song Chords,D#,1st fret,"['D', 'G', 'A', 'F#m', 'Bm', 'Em7', 'Bm/A', 'Bm/G#', 'A/C#', 'Gmaj7', 'F#', 'Em', 'G6', 'D/F#', 'G/D', 'A/D']","{'D': 20, 'G': 16, 'A': 11, 'F#m': 5, 'Bm': 16, 'Em7': 7, 'Bm/A': 8, 'Bm/G#': 8, 'A/C#': 9, 'Gmaj7': 8, 'F#': 4, 'Em': 5, 'G6': 3, 'D/F#': 2, 'G/D': 2, 'A/D': 1}",64 bpm
+346,Landslide Chords,D#,3rd fret,"['G', 'C', 'G/B', 'Am7', 'Am', 'D7/F#', 'D/F#', 'Em']","{'G': 5, 'C': 29, 'G/B': 52, 'Am7': 27, 'Am': 3, 'D7/F#': 8, 'D/F#': 3, 'Em': 4}",80 bpm
+371,How Deep Is Your Love Chords,D#,1st fret,"['D', 'Dmaj7', 'Gmaj7', 'G/A', 'F#m7', 'Em7', 'B7', 'F#7', 'Bm7', 'C9', 'Gm6', 'Am/C']","{'D': 23, 'Dmaj7': 7, 'Gmaj7': 10, 'G/A': 13, 'F#m7': 13, 'Em7': 17, 'B7': 8, 'F#7': 3, 'Bm7': 3, 'C9': 3, 'Gm6': 10, 'Am/C': 5}",105 bpm
+374,Bad HG#it Chords,D#,no capo,"['A#m9', 'D#6', 'C#maj7', 'D#9', 'Amaj7', 'Gm7b5', 'Fm9']","{'A#m9': 22, 'D#6': 38, 'C#maj7': 35, 'D#9': 6, 'Amaj7': 21, 'Gm7b5': 14, 'Fm9': 7}",84 bpm
+282,Bridge Over Troubled Water Chords,D#,3rd fret,"['C', 'F', 'A#', 'G', 'Am', 'G7', 'C7', 'D', 'F#dim', 'A7sus', 'A7', 'E7', 'G9', 'D7', 'Fm', 'Fmaj7', 'D9', 'E']","{'C': 33, 'F': 38, 'A#': 3, 'G': 9, 'Am': 13, 'G7': 2, 'C7': 9, 'D': 3, 'F#dim': 4, 'A7sus': 3, 'A7': 3, 'E7': 5, 'G9': 1, 'D7': 1, 'Fm': 2, 'Fmaj7': 2, 'D9': 3, 'E': 2}",NF
+218,Bad HG#it Chords,D#,no capo,"['A#m9', 'D#6', 'C#maj7', 'D#9', 'Amaj7', 'Gm7b5', 'Fm9']","{'A#m9': 22, 'D#6': 38, 'C#maj7': 35, 'D#9': 6, 'Amaj7': 21, 'Gm7b5': 14, 'Fm9': 7}",84 bpm
+283,Bridge Over Troubled Water Chords,D#,3rd fret,"['C', 'F', 'A#', 'G', 'Am', 'G7', 'C7', 'D', 'F#dim', 'A7sus', 'A7', 'E7', 'G9', 'D7', 'Fm', 'Fmaj7', 'D9', 'E']","{'C': 33, 'F': 38, 'A#': 3, 'G': 9, 'Am': 13, 'G7': 2, 'C7': 9, 'D': 3, 'F#dim': 4, 'A7sus': 3, 'A7': 3, 'E7': 5, 'G9': 1, 'D7': 1, 'Fm': 2, 'Fmaj7': 2, 'D9': 3, 'E': 2}",NF
+151,Bad Liar Chords,D#,1st fret,"['D', 'Bm', 'G', 'A', 'A/C#', 'F#m', 'Dsus2']","{'D': 28, 'Bm': 21, 'G': 18, 'A': 7, 'A/C#': 7, 'F#m': 1, 'Dsus2': 1}",89 bpm
+157,Before You Go Chords,D#,1st fret,"['D', 'Bm', 'G', 'Asus4', 'A']","{'D': 14, 'Bm': 13, 'G': 12, 'Asus4': 4, 'A': 19}",112 bpm
+195,Die For You Chords,D#,3rd fret,"['C', 'Dm', 'F', 'Fm', 'Am']","{'C': 13, 'Dm': 13, 'F': 13, 'Fm': 4, 'Am': 2}",NF
+189,Landslide Chords,D#,3rd fret,"['G', 'C', 'G/B', 'Am7', 'Am', 'D7/F#', 'D/F#', 'Em']","{'G': 5, 'C': 29, 'G/B': 52, 'Am7': 27, 'Am': 3, 'D7/F#': 8, 'D/F#': 3, 'Em': 4}",80 bpm
+212,Cardigan Chords,D#,1st fret,"['Em', 'A', 'G', 'D', 'Bm']","{'Em': 7, 'A': 32, 'G': 26, 'D': 12, 'Bm': 7}",65 bpm
+156,Without Me Chords,D#m,6th fret,"['Am', 'C', 'G', 'F']","{'Am': 27, 'C': 27, 'G': 27, 'F': 27}",69 bpm
+154,Back To You Chords,D#m,2nd fret,"['C#m', 'A', 'E']","{'C#m': 41, 'A': 41, 'E': 41}",102 bpm
+35,Lights Up Chords,D#m,6th fret,"['Em', 'D', 'Dsus4', 'C/E', 'Am7', 'E', 'C']","{'Em': 12, 'D': 27, 'Dsus4': 12, 'C/E': 3, 'Am7': 10, 'E': 15, 'C': 9}",102 bpm
+198,505 Chords,Em,no capo,"['Dm', 'Em']","{'Dm': 34, 'Em': 34}",140 bpm
+267,Wish You Were Here Chords,Em,no capo,"['Em7', 'G', 'A7sus4', 'C', 'D/F#', 'Am/E', 'Am']","{'Em7': 10, 'G': 14, 'A7sus4': 5, 'C': 6, 'D/F#': 6, 'Am/E': 3, 'Am': 3}",60 bpm
+270,Zombie Chords,Em,no capo,"['Em', 'C', 'G', 'D/F#']","{'Em': 22, 'C': 21, 'G': 16, 'D/F#': 16}",82 bpm
+119,Cheap Thrills Chords,Em,2nd fret,"['Em', 'C', 'G', 'D']","{'Em': 37, 'C': 37, 'G': 37, 'D': 36}",90 bpm
+144,Breakeven Chords,Em,3rd fret,"['C', 'G', 'D', 'Em', 'Am7']","{'C': 22, 'G': 43, 'D': 43, 'Em': 43, 'Am7': 21}",94 bpm
+289,All Of Me Chords,Em,1st fret,"['Em', 'C', 'G', 'D', 'Cmaj7', 'Cadd9', 'Amadd9', 'Am', 'Emadd9', 'Am/C', 'C/D', 'Dadd9']","{'Em': 17, 'C': 14, 'G': 29, 'D': 23, 'Cmaj7': 2, 'Cadd9': 1, 'Amadd9': 4, 'Am': 6, 'Emadd9': 6, 'Am/C': 6, 'C/D': 6, 'Dadd9': 6}",126 bpm
+235,A Horse With No Name Chords,Em,no capo,"['Em', 'D6/9', 'Em9', 'Dmaj9']","{'Em': 24, 'D6/9': 24, 'Em9': 24, 'Dmaj9': 24}",123 bpm
+310,Island In The Sun Chords,Em,no capo,"['Em', 'Am', 'D', 'G', 'C']","{'Em': 40, 'Am': 42, 'D': 46, 'G': 44, 'C': 2}",115 bpm
+205,Nothing Else Matters Chords,Em,no capo,"['Em', 'D', 'C', 'G', 'B7', 'A']","{'Em': 32, 'D': 32, 'C': 32, 'G': 7, 'B7': 7, 'A': 11}",142 bpm
+214,Heart Of Gold Chords,Em,no capo,"['Em7', 'D', 'Em', 'C', 'G']","{'Em7': 6, 'D': 21, 'Em': 26, 'C': 20, 'G': 25}",85 bpm
+174,Darkside Chords,Em,no capo,"['Em', 'D', 'C', 'G', 'D/F#']","{'Em': 35, 'D': 37, 'C': 35, 'G': 29, 'D/F#': 4}",85 bpm
+352,505 Chords,Em,no capo,"['Dm', 'Em']","{'Dm': 34, 'Em': 34}",140 bpm
+360,Nothing Else Matters Chords,Em,no capo,"['Em', 'D', 'C', 'G', 'B7', 'A']","{'Em': 32, 'D': 32, 'C': 32, 'G': 7, 'B7': 7, 'A': 11}",142 bpm
+225,Killing Me Softly Chords,Em,no capo,"['Em', 'Am', 'D7', 'G', 'D', 'C', 'Fmaj7#11', 'E', 'Am7', 'B7']","{'Em': 12, 'Am': 10, 'D7': 7, 'G': 14, 'D': 9, 'C': 12, 'Fmaj7#11': 5, 'E': 5, 'Am7': 6, 'B7': 2}",93 bpm
+165,Another Love Chords,Em,no capo,"['C', 'Em', 'Am', 'Bm', 'G']","{'C': 28, 'Em': 44, 'Am': 16, 'Bm': 28, 'G': 12}",120 bpm
+397,God Rest Ye Merry Gentlemen Chords,Em,no capo,"['Em', 'C', 'B7', 'Am', 'G', 'D']","{'Em': 25, 'C': 10, 'B7': 20, 'Am': 5, 'G': 15, 'D': 10}",NF
+387,A Horse With No Name Chords,Em,no capo,"['Em', 'D6/9', 'Em9', 'Dmaj9']","{'Em': 24, 'D6/9': 24, 'Em9': 24, 'Dmaj9': 24}",123 bpm
+257,Torn Chords,F,no capo,"['F', 'Fsus4', 'Fsus2', 'Am', 'A#', 'Dm', 'C']","{'F': 28, 'Fsus4': 1, 'Fsus2': 1, 'Am': 8, 'A#': 18, 'Dm': 18, 'C': 24}",96 bpm
+279,Dreams Chords,F,no capo,"['Fmaj7', 'F', 'G', 'G6', 'Am']","{'Fmaj7': 30, 'F': 33, 'G': 49, 'G6': 13, 'Am': 1}",120 bpm
+112,Luka Chuppi - Duniyaa Chords,F,3rd fret,"['C', 'D', 'Em', 'Bm', 'Am']","{'C': 27, 'D': 42, 'Em': 32, 'Bm': 12, 'Am': 10}",77 bpm
+324,I Walk The Line Chords,F,1st fret,"['B7', 'E', 'A', 'E7', 'D', 'A7', 'G']","{'B7': 6, 'E': 8, 'A': 10, 'E7': 6, 'D': 6, 'A7': 3, 'G': 1}",212 bpm
+288,Yesterday Chords,F,no capo,"['F', 'Em7', 'A7', 'Dm', 'Dm/C', 'A#', 'C7', 'F/E', 'G7', 'Gm', 'C']","{'F': 22, 'Em7': 8, 'A7': 8, 'Dm': 13, 'Dm/C': 8, 'A#': 13, 'C7': 4, 'F/E': 4, 'G7': 5, 'Gm': 4, 'C': 4}",97 bpm
+306,Apocalypse Chords,F,no capo,"['F', 'Dm', 'Am', 'C', 'A#', 'Gm7', 'Fmaj7', 'Gm']","{'F': 22, 'Dm': 15, 'Am': 11, 'C': 19, 'A#': 13, 'Gm7': 3, 'Fmaj7': 2, 'Gm': 1}",94 bpm
+307,August Chords,F,3rd fret,"['D', 'G', 'Em', 'A']","{'D': 22, 'G': 20, 'Em': 20, 'A': 20}",90 bpm
+167,GooC#yes Chords,F,no capo,"['F', 'A', 'Dm', 'A#', 'Gm', 'C', 'Am', 'A#m']","{'F': 15, 'A': 11, 'Dm': 13, 'A#': 14, 'Gm': 3, 'C': 3, 'Am': 3, 'A#m': 3}",NF
+372,What A Wonderful World Chords,F,5th fret,"['C', 'Em', 'F', 'Dm', 'E7', 'Am', 'G#', 'Dm7', 'G', 'A#7', 'A7', 'Fmaj7']","{'C': 13, 'Em': 9, 'F': 4, 'Dm': 4, 'E7': 3, 'Am': 5, 'G#': 3, 'Dm7': 4, 'G': 8, 'A#7': 1, 'A7': 1, 'Fmaj7': 1}",72 bpm
+216,What A Wonderful World Chords,F,5th fret,"['C', 'Em', 'F', 'Dm', 'E7', 'Am', 'G#', 'Dm7', 'G', 'A#7', 'A7', 'Fmaj7']","{'C': 13, 'Em': 9, 'F': 4, 'Dm': 4, 'E7': 3, 'Am': 5, 'G#': 3, 'Dm7': 4, 'G': 8, 'A#7': 1, 'A7': 1, 'Fmaj7': 1}",72 bpm
+207,Easy On Me Chords,F,5th fret,"['C', 'Am7', 'Em', 'Fmaj7', 'G', 'F', 'Dm7', 'Dm']","{'C': 20, 'Am7': 14, 'Em': 14, 'Fmaj7': 17, 'G': 13, 'F': 1, 'Dm7': 2, 'Dm': 4}",80 bpm
+136,Just The Way You Are Chords,F,3rd fret,"['D', 'Bm7', 'G']","{'D': 24, 'Bm7': 12, 'G': 12}",109 bpm
+96,Tum JG# Paas Chords,F#,2nd fret,"['E', 'A', 'B']","{'E': 45, 'A': 33, 'B': 36}",82 bpm
+220,The Winner Takes It All Chords,F#,no capo,"['G', 'B7', 'Em', 'E7/G#', 'Am', 'D', 'D/F#', 'Am/E', 'E/G#']","{'G': 22, 'B7': 11, 'Em': 17, 'E7/G#': 9, 'Am': 11, 'D': 19, 'D/F#': 8, 'Am/E': 8, 'E/G#': 3}",125 bpm
+215,You Belong With Me Chords,F#,4th fret,"['D', 'A', 'Em', 'G']","{'D': 21, 'A': 17, 'Em': 17, 'G': 17}",130 bpm
+370,You Belong With Me Chords,F#,4th fret,"['D', 'A', 'Em', 'G']","{'D': 21, 'A': 17, 'Em': 17, 'G': 17}",130 bpm
+107,Heres Your Perfect Chords,F#,no capo,"['F#', 'C#', 'D#m', 'B', 'A#m', 'Dm']","{'F#': 10, 'C#': 16, 'D#m': 9, 'B': 9, 'A#m': 2, 'Dm': 5}",NF
+76,Happier Chords,F#,6th fret,"['C', 'Am', 'Dm', 'G7']","{'C': 9, 'Am': 9, 'Dm': 17, 'G7': 12}",57 bpm
+376,More Than Words Chords,F#,no capo,"['G', 'Cadd9', 'Am7', 'C', 'D', 'Em', 'D/F#', 'D7', 'G7', 'Cm', 'Em7', 'Bm', 'G/B']","{'G': 25, 'Cadd9': 7, 'Am7': 17, 'C': 18, 'D': 9, 'Em': 6, 'D/F#': 6, 'D7': 8, 'G7': 3, 'Cm': 2, 'Em7': 4, 'Bm': 4, 'G/B': 4}",85 bpm
+221,More Than Words Chords,F#,no capo,"['G', 'Cadd9', 'Am7', 'C', 'D', 'Em', 'D/F#', 'D7', 'G7', 'Cm', 'Em7', 'Bm', 'G/B']","{'G': 25, 'Cadd9': 7, 'Am7': 17, 'C': 18, 'D': 9, 'Em': 6, 'D/F#': 6, 'D7': 8, 'G7': 3, 'Cm': 2, 'Em7': 4, 'Bm': 4, 'G/B': 4}",85 bpm
+348,Wonderwall Chords,F#m,2nd fret,"['Em', 'G', 'D', 'A7sus4', 'C']","{'Em': 53, 'G': 33, 'D': 26, 'A7sus4': 19, 'C': 23}",87 bpm
+379,I Want It That Way Chords,F#m,2nd fret,"['Em', 'C', 'G', 'D', 'Bm', 'G/D', 'Am', 'E', 'F#m', 'A']","{'Em': 25, 'C': 22, 'G': 20, 'D': 25, 'Bm': 1, 'G/D': 2, 'Am': 1, 'E': 13, 'F#m': 10, 'A': 7}",99 bpm
+368,The Night We Met Chords,F#m,2nd fret,"['Em', 'D', 'G', 'C']","{'Em': 25, 'D': 8, 'G': 25, 'C': 17}",58 bpm
+192,Wonderwall Chords,F#m,2nd fret,"['Em', 'G', 'D', 'A7sus4', 'C']","{'Em': 53, 'G': 33, 'D': 26, 'A7sus4': 19, 'C': 23}",87 bpm
+75,Good 4 U Chords,F#m,no capo,"['F#m', 'E', 'D', 'C#7', 'A', 'B']","{'F#m': 42, 'E': 56, 'D': 18, 'C#7': 4, 'A': 14, 'B': 15}",83 bpm
+67,Galway Girl Chords,F#m,2nd fret,"['Em', 'G', 'D', 'Cadd9', 'C', 'Am7']","{'Em': 26, 'G': 36, 'D': 34, 'Cadd9': 16, 'C': 14, 'Am7': 2}",100 bpm
+322,Snuff Chords,F#m,no capo,"['Am', 'Em', 'F', 'C', 'G', 'A5', 'B5', 'C5', 'E5', 'F5']","{'Am': 30, 'Em': 18, 'F': 21, 'C': 15, 'G': 12, 'A5': 1, 'B5': 1, 'C5': 1, 'E5': 1, 'F5': 1}",62 bpm
+224,I Want It That Way Chords,F#m,2nd fret,"['Em', 'C', 'G', 'D', 'Bm', 'G/D', 'Am', 'E', 'F#m', 'A']","{'Em': 25, 'C': 22, 'G': 20, 'D': 25, 'Bm': 1, 'G/D': 2, 'Am': 1, 'E': 13, 'F#m': 10, 'A': 7}",99 bpm
+287,Glimpse Of Us Chords,Fm,1st fret,"['Am', 'D7', 'G', 'Em', 'D/F#', 'Em7', 'E7']","{'Am': 24, 'D7': 24, 'G': 19, 'Em': 16, 'D/F#': 11, 'Em7': 1, 'E7': 1}",57 bpm
+304,Life On Mars Chords,Fm,no capo,"['F', 'Am', 'Cm/D#', 'D7', 'Gm', 'A#', 'C7', 'G#', 'Eaug', 'Fm', 'G#7', 'C#', 'Aaug', 'A#m', 'C#7', 'D#', 'Gm7', 'F#aug', 'Cm7', 'D#m7', 'A#/F', 'C/E', 'F#dim', 'Ddim']","{'F': 12, 'Am': 6, 'Cm/D#': 5, 'D7': 5, 'Gm': 8, 'A#': 10, 'C7': 5, 'G#': 3, 'Eaug': 3, 'Fm': 7, 'G#7': 3, 'C#': 3, 'Aaug': 3, 'A#m': 4, 'C#7': 3, 'D#': 5, 'Gm7': 5, 'F#aug': 7, 'Cm7': 5, 'D#m7': 5, 'A#/F': 2, 'C/E': 2, 'F#dim': 1, 'Ddim': 1}",NF
+230,Something In The Way Chords,Fm,1st fret,"['Em', 'C/G']","{'Em': 45, 'C/G': 45}",102 bpm
+315,Boulevard Of Broken Dreams Chords,Fm,1st fret,"['Em', 'G', 'D', 'A', 'C', 'B7', 'B', 'A/C#', 'D#5']","{'Em': 44, 'G': 42, 'D': 38, 'A': 22, 'C': 20, 'B7': 4, 'B': 1, 'A/C#': 4, 'D#5': 4}",83 bpm
+197,Over The Rainbow Chords,G,5th fret,"['G/D', 'D', 'Em', 'C/E', 'C', 'G', 'Bm', 'B7']","{'G/D': 2, 'D': 6, 'Em': 12, 'C/E': 3, 'C': 23, 'G': 20, 'Bm': 10, 'B7': 2}",170 bpm
+260,Moon River Chords,G,no capo,"['G', 'Em', 'C', 'Am', 'B7', 'G7', 'Cm', 'Em7', 'A7', 'D7']","{'G': 19, 'Em': 9, 'C': 12, 'Am': 7, 'B7': 3, 'G7': 2, 'Cm': 5, 'Em7': 4, 'A7': 2, 'D7': 4}",80 bpm
+389,Something In The Orange Chords,G,no capo,"['Em', 'G', 'D/F#', 'Cadd9', 'D']","{'Em': 29, 'G': 28, 'D/F#': 12, 'Cadd9': 14, 'D': 15}",166 bpm
+237,Something In The Orange Chords,G,no capo,"['Em', 'G', 'D/F#', 'Cadd9', 'D']","{'Em': 29, 'G': 28, 'D/F#': 12, 'Cadd9': 14, 'D': 15}",166 bpm
+45,Little Things Chords,G,no capo,"['G', 'C', 'Em', 'D', 'Am']","{'G': 18, 'C': 30, 'Em': 15, 'D': 22, 'Am': 12}",110 bpm
+48,Cherry Chords,G,7th fret,"['C', 'Cadd9', 'C/B', 'Am7', 'A7sus4', 'Fadd9', 'Fmaj7', 'G', 'F', 'Em', 'Dm', 'A', 'Am']","{'C': 14, 'Cadd9': 2, 'C/B': 9, 'Am7': 10, 'A7sus4': 1, 'Fadd9': 1, 'Fmaj7': 9, 'G': 6, 'F': 1, 'Em': 1, 'Dm': 1, 'A': 5, 'Am': 3}",96 bpm
+301,Merry Christmas Everyone Chords,G,2nd fret,"['G', 'B7/F#', 'Em', 'C', 'D', 'A', 'C#7/G#', 'F#m', 'E']","{'G': 44, 'B7/F#': 12, 'Em': 16, 'C': 23, 'D': 28, 'A': 25, 'C#7/G#': 7, 'F#m': 7, 'E': 9}",102 bpm
+332,Make You Feel My Love Chords,G,3rd fret,"['G', 'D', 'F', 'C', 'Cm', 'A7', 'D7', 'B7']","{'G': 25, 'D': 6, 'F': 6, 'C': 12, 'Cm': 6, 'A7': 9, 'D7': 9, 'B7': 2}",70 bpm
+247,Banana Pancakes Chords,G,no capo,"['G7', 'D7', 'Am7', 'C7', 'D', 'Bm', 'Em', 'G', 'D9', 'Em/D#', 'C']","{'G7': 10, 'D7': 2, 'Am7': 27, 'C7': 16, 'D': 3, 'Bm': 2, 'Em': 2, 'G': 17, 'D9': 12, 'Em/D#': 1, 'C': 1}",114 bpm
+393,The 30Th Chords,G,no capo,"['G', 'D', 'Em', 'Am', 'C', 'Cm', 'B7']","{'G': 24, 'D': 17, 'Em': 23, 'Am': 8, 'C': 12, 'Cm': 3, 'B7': 7}",72 bpm
+329,Have Yourself A Merry Little Christmas Chords,G,no capo,"['G', 'Em7', 'Am7', 'D7', 'B7', 'E7', 'A7', 'D', 'Em', 'G7', 'Cmaj7', 'Cm6', 'Bm', 'A#dim', 'Am', 'Gmaj7', 'F#7']","{'G': 15, 'Em7': 11, 'Am7': 13, 'D7': 14, 'B7': 3, 'E7': 2, 'A7': 2, 'D': 1, 'Em': 3, 'G7': 2, 'Cmaj7': 2, 'Cm6': 1, 'Bm': 2, 'A#dim': 1, 'Am': 1, 'Gmaj7': 1, 'F#7': 1}",65 bpm
+231,Jersey Giant Acoustic Chords,G,no capo,"['G', 'D', 'Am', 'C']","{'G': 19, 'D': 20, 'Am': 23, 'C': 22}",190 bpm
+56,Cherry Chords,G,7th fret,"['C', 'Cadd9', 'C/B', 'Am7', 'A7sus4', 'Fadd9', 'Fmaj7', 'G', 'F', 'Em', 'Dm', 'A', 'Am']","{'C': 14, 'Cadd9': 2, 'C/B': 9, 'Am7': 10, 'A7sus4': 1, 'Fadd9': 1, 'Fmaj7': 9, 'G': 6, 'F': 1, 'Em': 1, 'Dm': 1, 'A': 5, 'Am': 3}",96 bpm
+186,Creep Chords,G,no capo,"['G', 'B', 'C', 'Cm']","{'G': 12, 'B': 11, 'C': 11, 'Cm': 13}",92 bpm
+395,Santa Tell Me Chords,G,no capo,"['G', 'C', 'Em', 'D', 'Bm', 'D#', 'F#m']","{'G': 26, 'C': 25, 'Em': 14, 'D': 16, 'Bm': 2, 'D#': 1, 'F#m': 1}",NF
+402,Banana Pancakes Chords,G,no capo,"['G7', 'D7', 'Am7', 'C7', 'D', 'Bm', 'Em', 'G', 'D9', 'Em/D#', 'C']","{'G7': 10, 'D7': 2, 'Am7': 27, 'C7': 16, 'D': 3, 'Bm': 2, 'Em': 2, 'G': 17, 'D9': 12, 'Em/D#': 1, 'C': 1}",114 bpm
+319,Free Bird Chords,G,no capo,"['G', 'D', 'Em', 'F', 'C', 'A#']","{'G': 14, 'D': 27, 'Em': 10, 'F': 17, 'C': 20, 'A#': 3}",NF
+232,Joy To The World Chords,G,no capo,"['G', 'D', 'C']","{'G': 28, 'D': 16, 'C': 8}",100 bpm
+77,Enough For You Chords,G,no capo,"['G', 'Em', 'C']","{'G': 48, 'Em': 34, 'C': 34}",88 bpm
+222,Maroon Chords,G,no capo,"['C', 'G', 'Em', 'Dsus4', 'D']","{'C': 24, 'G': 24, 'Em': 22, 'Dsus4': 1, 'D': 24}",NF
+340,Silent Night Chords,G,no capo,"['G', 'D', 'D7', 'C', 'Em']","{'G': 27, 'D': 12, 'D7': 7, 'C': 7, 'Em': 4}",84 bpm
+292,Just The Two Of Us Chords,G,1st fret,"['Cmaj7', 'B7', 'Em7', 'D#m7', 'G7', 'Dm7', 'A#maj7', 'A7', 'G#maj7', 'F13']","{'Cmaj7': 33, 'B7': 31, 'Em7': 29, 'D#m7': 7, 'G7': 17, 'Dm7': 14, 'A#maj7': 2, 'A7': 2, 'G#maj7': 2, 'F13': 2}",NF
+155,Fight Song Chords,G,no capo,"['G', 'Em', 'Cadd9', 'G/B', 'D', 'Em7']","{'G': 17, 'Em': 5, 'Cadd9': 17, 'G/B': 4, 'D': 14, 'Em7': 11}",88 bpm
+16,To Be So Lonely Chords,G,no capo,"['C', 'Am', 'G', 'Em', 'Fmaj7', 'D5']","{'C': 10, 'Am': 19, 'G': 10, 'Em': 10, 'Fmaj7': 11, 'D5': 1}",105 bpm
+369,Frozen - Let It Go Chords,G,1st fret,"['Em', 'C', 'D', 'Asus4', 'Am', 'A', 'Cadd9', 'G', 'D/F#', 'Em7', 'Bm7', 'A#', 'Cm']","{'Em': 7, 'C': 13, 'D': 12, 'Asus4': 4, 'Am': 4, 'A': 3, 'Cadd9': 12, 'G': 10, 'D/F#': 10, 'Em7': 9, 'Bm7': 3, 'A#': 3, 'Cm': 1}",68 bpm
+361,Father And Son Chords,G,no capo,"['G', 'D/F#', 'C', 'Am7', 'Em', 'Am', 'D', 'C/G', 'Bm', 'G/D']","{'G': 31, 'D/F#': 2, 'C': 15, 'Am7': 19, 'Em': 12, 'Am': 10, 'D': 21, 'C/G': 2, 'Bm': 4, 'G/D': 1}",67 bpm
+172,Something Just Like This Chords,G,no capo,"['G', 'A', 'Bm', 'D/F#', 'Bsus4', 'D', 'Dmaj7']","{'G': 56, 'A': 95, 'Bm': 54, 'D/F#': 7, 'Bsus4': 2, 'D': 3, 'Dmaj7': 8}",103 bpm
+241,Santa Tell Me Chords,G,no capo,"['G', 'C', 'Em', 'D', 'Bm', 'D#', 'F#m']","{'G': 26, 'C': 25, 'Em': 14, 'D': 16, 'Bm': 2, 'D#': 1, 'F#m': 1}",NF
+34,Something Just Like This Chords,G,no capo,"['G', 'A', 'Bm', 'D/F#', 'Bsus4', 'D', 'Dmaj7']","{'G': 56, 'A': 95, 'Bm': 54, 'D/F#': 7, 'Bsus4': 2, 'D': 3, 'Dmaj7': 8}",103 bpm
+191,All I Want For Christmas Is You Chords,G,no capo,"['G', 'Em', 'C', 'D', 'G/B', 'Cm/D#', 'B7', 'G/D', 'E7', 'Am7', 'Cm6/D', 'D#6', 'Cm6/D#', 'Am7/D']","{'G': 19, 'Em': 16, 'C': 8, 'D': 11, 'G/B': 2, 'Cm/D#': 2, 'B7': 6, 'G/D': 5, 'E7': 5, 'Am7': 13, 'Cm6/D': 2, 'D#6': 9, 'Cm6/D#': 2, 'Am7/D': 1}",150 bpm
+145,I Gotta Feeling Chords,G,no capo,"['G', 'C', 'Em', 'Gsus4', 'Csus2', 'Em7', 'G6/B', 'C/B']","{'G': 25, 'C': 42, 'Em': 21, 'Gsus4': 3, 'Csus2': 3, 'Em7': 3, 'G6/B': 1, 'C/B': 1}",128 bpm
+284,A Day In The Life Chords,G,no capo,"['G', 'Bm', 'Em', 'Em7', 'C', 'C/B', 'Asus2', 'F', 'Em/F#', 'Em/G', 'Em/A', 'Em/B', 'Em/C#', 'Em/D', 'E', 'Dsus2', 'B7sus4', 'D', 'A', 'Em/C']","{'G': 11, 'Bm': 9, 'Em': 16, 'Em7': 13, 'C': 18, 'C/B': 4, 'Asus2': 4, 'F': 5, 'Em/F#': 2, 'Em/G': 2, 'Em/A': 2, 'Em/B': 2, 'Em/C#': 1, 'Em/D': 2, 'E': 9, 'Dsus2': 2, 'B7sus4': 4, 'D': 4, 'A': 2, 'Em/C': 1}",78 bpm
+384,Joy To The World Chords,G,no capo,"['G', 'D', 'C']","{'G': 28, 'D': 16, 'C': 8}",100 bpm
+39,How Would You Feel Paean Chords,G,2nd fret,"['G', 'Bm7', 'C', 'Bm', 'Em', 'A7', 'D', 'Am']","{'G': 32, 'Bm7': 32, 'C': 32, 'Bm': 4, 'Em': 4, 'A7': 4, 'D': 7, 'Am': 4}",70 bpm
+11,Little Things Chords,G,no capo,"['G', 'C', 'Em', 'D', 'Am']","{'G': 18, 'C': 30, 'Em': 15, 'D': 22, 'Am': 12}",110 bpm
+239,The 30Th Chords,G,no capo,"['G', 'D', 'Em', 'Am', 'C', 'Cm', 'B7']","{'G': 24, 'D': 17, 'Em': 23, 'Am': 8, 'C': 12, 'Cm': 3, 'B7': 7}",72 bpm
+343,Creep Chords,G,no capo,"['G', 'B', 'C', 'Cm']","{'G': 12, 'B': 11, 'C': 11, 'Cm': 13}",92 bpm
+261,If I Aint Got You Chords,G,no capo,"['Cmaj7', 'Bm7', 'Am7', 'Gmaj7', 'A#m7', 'G#maj7', 'Em7', 'D9', 'G#dim7', 'Cmaj9', 'C#maj7', 'D']","{'Cmaj7': 7, 'Bm7': 24, 'Am7': 34, 'Gmaj7': 28, 'A#m7': 5, 'G#maj7': 4, 'Em7': 2, 'D9': 4, 'G#dim7': 2, 'Cmaj9': 5, 'C#maj7': 2, 'D': 1}",118 bpm
+314,Jingle Bells Chords,G,no capo,"['G', 'C', 'Am', 'D7', 'D', 'A7']","{'G': 43, 'C': 24, 'Am': 8, 'D7': 20, 'D': 4, 'A7': 4}",104 bpm
+206,Father And Son Chords,G,no capo,"['G', 'D/F#', 'C', 'Am7', 'Em', 'Am', 'D', 'C/G', 'Bm', 'G/D']","{'G': 31, 'D/F#': 2, 'C': 15, 'Am7': 19, 'Em': 12, 'Am': 10, 'D': 21, 'C/G': 2, 'Bm': 4, 'G/D': 1}",67 bpm
+305,Thank You Chords,G#m,4th fret,"['D/F#', 'G/B', 'Em', 'C', 'D', 'G', 'Em/B', 'Bm', 'Am']","{'D/F#': 7, 'G/B': 13, 'Em': 10, 'C': 27, 'D': 6, 'G': 21, 'Em/B': 2, 'Bm': 5, 'Am': 5}",80 bpm
+43,Tenerife Sea Chords,F#,4th fret,"['E', 'F#m', 'A', 'B', 'C#m']","{'E': 38, 'F#m': 28, 'A': 43, 'B': 16, 'C#m': 7}",120 bpm
+166,7 Years Chords,Gm,3rd fret,"['Em', 'G', 'C', 'D', 'G/B', 'Bsus4', 'B']","{'Em': 29, 'G': 25, 'C': 29, 'D': 39, 'G/B': 3, 'Bsus4': 1, 'B': 1}",NF
+160,YounF#lood Chords,Gm,3rd fret,"['Em', 'D', 'G', 'C']","{'Em': 26, 'D': 42, 'G': 22, 'C': 25}",120 bpm
+65,Havana Chords,Gm,3rd fret,"['Em', 'C', 'B7']","{'Em': 48, 'C': 44, 'B7': 46}",105 bpm

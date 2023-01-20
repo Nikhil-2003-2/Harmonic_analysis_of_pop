@@ -1,0 +1,31 @@
+['A', 'A#', 'A#/D', 'A#/F', 'A#5', 'A#7', 'A#dim', 'A#m', 'A#m/C#', 'A#m7', 
+'A#m9', 'A#maj7', 'A/C#', 'A/D', 'A/E', 'A5', 'A7', 'A7/C#', 'A7/E', 'A7sus', 
+'A7sus4', 'Aadd9', 'Aaug', 'Adim', 'Am', 'Am6', 'Am7',
+ 'Am7/D', 'Am7b5', 'Amadd9', 'Amaj7', 'Ammaj7', 'Asus2', 'Asus2/C', 
+ 'Asus4', 'B', 'B5', 'B7', 'B7+', 'B7/F#', 'B7sus4', 'Badd11', 'Bdim', 'Bdim7', 'Bm',
+  'Bm/A', 'Bm/E', 'Bm/F#', 'Bm/G#', 'Bm7', 'Bm7#5', 'Bm7/E', 'Bm7b5', 'Bmaj7', 'Bsus2', 
+  'Bsus4', 'C', 'C#', 'C#/A#', 'C#/B', 'C#/C', 'C#/F', 'C#/G#', 'C#7', 'C#7/G#', 'C#dim7',
+   'C#m', 'C#m/G#', 'C#m7', 'C#maj7', 'C/A#', 'C/B', 'C/D', 'C/E', 'C/G', 'C5', 'C6', 'C7',
+    'C7-9', 'C9', 'Cadd9', 'Cdim', 'Cm', 'Cm/D#', 'Cm6', 'Cm6/D', 'Cm6/D#', 'Cm7', 'Cmaj7', 
+    'Cmaj9', 'Csus2', 'Csus4', 'D', 'D#', 'D#/A#', 'D#/B', 'D#/G', 'D#5', 'D#6', 'D#7', 'D#9',
+     'D#dim', 'D#dim7', 'D#m', 'D#m7', 'D/C', 'D/C#', 'D/F#', 'D5', 'D6', 'D6/9', 'D7', 'D7/F#',
+      'D7sus4', 'D9', 'D9sus', 'Dadd9', 'Ddim', 'Dm', 'Dm/A', 'Dm/C', 'Dm7', 'Dm7/A', 'Dm7/G', 
+      'Dm7b5', 'Dmaj7', 'Dmaj9', 'Dsus2', 'Dsus2/C#', 'Dsus4', 'E', 'E+', 'E/B', 'E/C', 'E/G#',
+       'E5', 'E7', 'E7/G#', 'E7sus', 'E7sus4', 'Eaug', 'Em', 'Em/A', 'Em/B', 'Em/C', 'Em/C#', 
+       'Em/D', 'Em/D#', 'Em/F#', 'Em/G', 'Em7', 'Em7/C#', 'Em7/D', 'Em9', 'Emadd9', 'Emmaj7', 
+       'Esus', 'Esus/B', 'Esus4', 'F', 'F#', 'F#/G#', 'F#7', 'F#aug', 'F#dim', 'F#dim7', 'F#m',
+        'F#m11', 'F#m11/C#', 'F#m7', 'F#m7b5', 'F/A', 'F/C', 'F/E', 'F/G', 'F13', 'F5', 'F6', 'F7',
+         'F7/C', 'Fadd9', 'Fadd9/A', 'Fdim', 'Fm', 'Fm7', 'Fm9', 'Fmaj7', 'Fmaj7#11', 'Fmaj7/A', 
+         'Fsus2', 'Fsus4', 'G', 'G#', 'G#/A#', 'G#/C', 'G#/D#', 'G#7', 'G#7/C', 'G#7sus4', 'G#dim', 
+         'G#dim7', 'G#m', 'G#m6', 'G#m7', 'G#maj7', 'G/A', 'G/B', 'G/D', 'G/F', 'G6', 'G6/B', 'G6sus2', 
+         'G7', 'G7/B', 'G9', 'GM', 'Gdim', 'Gm', 'Gm6', 'Gm7', 'Gm7b5', 'Gmaj7', 'Gsus', 'Gsus4']
+
+
+         Am7/E - Am7
+         Am7/G - Am7
+         Am/C - Am
+         Am/E - Am
+         Am/G - Am7
+
+
+

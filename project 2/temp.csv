@@ -1,0 +1,88 @@
+,Song_Name,Key,Capo,Chord,Frequency_map_of_each_chord,BPM
+61,Co2 Chords,Key Not Find,1st fret,"['Am', 'F', 'C', 'Dm', 'Em', 'G']","{'Am': 4, 'F': 34, 'C': 37, 'Dm': 11, 'Em': 2, 'G': 9}",81 bpm
+137,Cooler Than Me Chords,Key Not Find,3rd fret,"['Em', 'C', 'D', 'Am']","{'Em': 41, 'C': 44, 'D': 40, 'Am': 4}",NF
+101,Aaftaab Chords,Key Not Find,no capo,"['F#', 'C#', 'D#m', 'B', 'G#m']","{'F#': 26, 'C#': 53, 'D#m': 21, 'B': 19, 'G#m': 6}",NF
+17,Cheap Wine Chords,Key Not Find,no capo,"['F', 'G', 'Am', 'Dm', 'A']","{'F': 18, 'G': 13, 'Am': 24, 'Dm': 27, 'A': 1}",NF
+99,Baarishein Chords,Key Not Find,no capo,"['D', 'Bm', 'G', 'A']","{'D': 30, 'Bm': 15, 'G': 15, 'A': 16}",72 bpm
+117,Baby Chords,Key Not Find,3rd fret,"['G', 'Em', 'C', 'D']","{'G': 14, 'Em': 13, 'C': 13, 'D': 12}",NF
+19,Personal Acoustic Chords,Key Not Find,5th fret,"['G', 'F', 'Am', 'Em', 'C', 'Dm']","{'G': 21, 'F': 17, 'Am': 18, 'Em': 4, 'C': 15, 'Dm': 2}",NF
+131,Bedrock Chords,Key Not Find,no capo,"['G', 'A', 'D', 'Bm', 'Em']","{'G': 21, 'A': 19, 'D': 9, 'Bm': 9, 'Em': 1}",NF
+20,Trampoline Chords,Key Not Find,3rd fret,"['Em', 'G', 'D', 'Am', 'C', 'B']","{'Em': 16, 'G': 16, 'D': 16, 'Am': 16, 'C': 12, 'B': 5}",63 bpm
+98,Ciao Adios Chords,Key Not Find,no capo,"['Em', 'G', 'D', 'C']","{'Em': 43, 'G': 43, 'D': 43, 'C': 43}",106 bpm
+274,Time Chords,Key Not Find,no capo,"['F#m', 'Dmaj7', 'Amaj7', 'C#m7', 'Bm7', 'F/B', 'A', 'E', 'Bm', 'Emadd9', 'Em7', 'Cmaj7', 'Fmaj7', 'G', 'D7#9', 'D7b9']","{'F#m': 11, 'Dmaj7': 10, 'Amaj7': 7, 'C#m7': 4, 'Bm7': 5, 'F/B': 2, 'A': 11, 'E': 7, 'Bm': 2, 'Emadd9': 2, 'Em7': 4, 'Cmaj7': 1, 'Fmaj7': 1, 'G': 1, 'D7#9': 1, 'D7b9': 1}",NF
+275,And I Love Her Chords,Key Not Find,no capo,"['F#m', 'E', 'C#m', 'A', 'B', 'G#m', 'B7', 'Gm', 'Dm', 'Bb', 'C7', 'F', 'Dm/F', 'D']","{'F#m': 10, 'E': 4, 'C#m': 12, 'A': 3, 'B': 5, 'G#m': 2, 'B7': 1, 'Gm': 8, 'Dm': 6, 'Bb': 2, 'C7': 2, 'F': 3, 'Dm/F': 1, 'D': 1}",115 bpm
+94,Tune Kaha Chords,Key Not Find,1st fret,"['Bm', 'G', 'A', 'D', 'F#', 'F#7']","{'Bm': 19, 'G': 26, 'A': 32, 'D': 37, 'F#': 4, 'F#7': 1}",NF
+89,Come Over Chords,Key Not Find,no capo,"['Ab', 'Cm', 'Eb', 'C', 'Fm', 'Bb']","{'Ab': 22, 'Cm': 23, 'Eb': 21, 'C': 3, 'Fm': 5, 'Bb': 1}",NF
+21,Cold Water Chords,Key Not Find,2nd fret,"['Em', 'G', 'Bm', 'C', 'D']","{'Em': 34, 'G': 34, 'Bm': 32, 'C': 34, 'D': 4}",93 bpm
+170,Never Forget You Chords,Key Not Find,no capo,"['Bm', 'A', 'G', 'D', 'Em']","{'Bm': 35, 'A': 51, 'G': 29, 'D': 6, 'Em': 5}",NF
+22,I See Fire Chords,Key Not Find,1st fret,"['Am', 'F', 'G', 'C', 'Dm', 'Em']","{'Am': 50, 'F': 29, 'G': 38, 'C': 13, 'Dm': 17, 'Em': 5}",80 bpm
+23,Baby One More Time Acoustic Chords,Key Not Find,no capo,"['Am7', 'Em', 'C', 'Dm7', 'Em7', 'F', 'G', 'A6', 'E5', 'C5', 'D5', 'E11', 'D']","{'Am7': 23, 'Em': 17, 'C': 14, 'Dm7': 13, 'Em7': 14, 'F': 5, 'G': 5, 'A6': 3, 'E5': 3, 'C5': 2, 'D5': 2, 'E11': 2, 'D': 2}",NF
+24,Barcelona Chords,Key Not Find,1st fret,"['C', 'Am', 'G', 'F']","{'C': 34, 'Am': 34, 'G': 37, 'F': 37}",NF
+265,Karma Chords,Key Not Find,1st fret,"['D', 'Am7', 'C', 'G', 'Bm', 'F#m', 'A']","{'D': 17, 'Am7': 16, 'C': 17, 'G': 17, 'Bm': 1, 'F#m': 1, 'A': 1}",NF
+15,All Night Chords,Key Not Find,1st fret,"['G', 'Bm', 'D']","{'G': 70, 'Bm': 43, 'D': 28}",NF
+14,Middle Of The Night Chords,Key Not Find,no capo,"['G', 'Bm', 'A']","{'G': 23, 'Bm': 23, 'A': 31}",NF
+104,Zakir Chords,Key Not Find,no capo,"['G', 'D', 'C']","{'G': 26, 'D': 16, 'C': 9}",NF
+252,Angels Chords,Key Not Find,no capo,"['E', 'A', 'C#m', 'B', 'F#m', 'C#m7', 'D', 'A/C#', 'E/G#', 'Bm']","{'E': 16, 'A': 13, 'C#m': 10, 'B': 10, 'F#m': 4, 'C#m7': 1, 'D': 7, 'A/C#': 7, 'E/G#': 3, 'Bm': 1}",76 bpm
+1,Attention Chords,Key Not Find,no capo,"['Am', 'G', 'Em', 'F']","{'Am': 21, 'G': 21, 'Em': 21, 'F': 21}",NF
+133,Rude Boy Chords,Key Not Find,6th fret,"['Am', 'Em', 'F', 'Dm', 'C', 'G']","{'Am': 3, 'Em': 3, 'F': 4, 'Dm': 7, 'C': 3, 'G': 4}",NF
+132,In My Head Chords,Key Not Find,no capo,"['G#', 'G', 'F#', 'E', 'C', 'C#m', 'A', 'E5', 'G5', 'D5', 'D#5', 'Cmaj7', 'C#m7', 'A6', 'G6', 'B', 'Esus2', 'G5/D', 'D', 'D#', 'Gmaj7']","{'G#': 1, 'G': 12, 'F#': 1, 'E': 13, 'C': 4, 'C#m': 4, 'A': 8, 'E5': 4, 'G5': 5, 'D5': 4, 'D#5': 4, 'Cmaj7': 6, 'C#m7': 6, 'A6': 12, 'G6': 16, 'B': 4, 'Esus2': 6, 'G5/D': 6, 'D': 5, 'D#': 5, 'Gmaj7': 2}",134 bpm
+3,We Dont Talk Any More Ukulele,Key Not Find,4th fret,"['F', 'G', 'Am', 'Em']","{'F': 23, 'G': 22, 'Am': 22, 'Em': 18}",NF
+138,Imma Be Chords,Key Not Find,no capo,"['G5', 'Bb', 'Dm', 'Cm', 'Ab', 'F', 'G']","{'G5': 48, 'Bb': 26, 'Dm': 3, 'Cm': 3, 'Ab': 3, 'F': 3, 'G': 1}",NF
+4,Then Theres You Chords,Key Not Find,no capo,"['G', 'D', 'Em', 'Am', 'Cadd9']","{'G': 16, 'D': 27, 'Em': 23, 'Am': 8, 'Cadd9': 10}",98 bpm
+139,Empire State Of Mind Part Ii Broken Down Chords,Key Not Find,2nd fret,"['E', 'Amaj7', 'G#', 'B', 'A', 'C#m']","{'E': 16, 'Amaj7': 17, 'G#': 3, 'B': 7, 'A': 2, 'C#m': 1}",NF
+25,Celestial Chords,Key Not Find,no capo,"['G', 'Bm', 'D', 'A']","{'G': 26, 'Bm': 26, 'D': 26, 'A': 26}",NF
+5,As You Are Chords,Key Not Find,2nd fret,"['C', 'G/B', 'Am', 'G', 'F']","{'C': 11, 'G/B': 11, 'Am': 17, 'G': 20, 'F': 16}",114 bpm
+6,For You Chords,Key Not Find,1st fret,"['G', 'C', 'Em', 'D']","{'G': 48, 'C': 35, 'Em': 16, 'D': 8}",NF
+7,Eastside Chords,Key Not Find,no capo,"['F#m', 'E', 'A', 'D']","{'F#m': 32, 'E': 59, 'A': 32, 'D': 36}",90 bpm
+8,I Dont Wanna Live Forever Chords,Key Not Find,3rd fret,"['C', 'G', 'D', 'Em7']","{'C': 32, 'G': 27, 'D': 28, 'Em7': 28}",NF
+109,Hamari Adhuri Kahani Title Track Chords,Key Not Find,no capo,"['C', 'Am', 'G', 'F', 'Em', 'Dm']","{'C': 22, 'Am': 16, 'G': 28, 'F': 24, 'Em': 4, 'Dm': 2}",NF
+10,Worse Chords,Key Not Find,2nd fret,"['Am', 'G', 'F', 'Dm', 'Em']","{'Am': 29, 'G': 30, 'F': 30, 'Dm': 22, 'Em': 22}",NF
+141,Billionaire Chords,Key Not Find,9th fret,"['C', 'Em', 'Am', 'G', 'F', 'E']","{'C': 13, 'Em': 10, 'Am': 24, 'G': 25, 'F': 18, 'E': 1}",NF
+105,Steal My Girl Chords,Key Not Find,3rd fret,"['G', 'Am', 'C', 'D']","{'G': 19, 'Am': 11, 'C': 20, 'D': 10}",NF
+13,Middle Of The Night Chords,Key Not Find,no capo,"['C', 'Am', 'Em', 'D', 'B']","{'C': 19, 'Am': 19, 'Em': 24, 'D': 19, 'B': 2}",NF
+140,Dj Got Us Fallin In Love Chords,Key Not Find,3rd fret,"['Em', 'D', 'C', 'G']","{'Em': 38, 'D': 34, 'C': 34, 'G': 19}",NF
+143,Replay Chords,Key Not Find,2nd fret,"['Em', 'C', 'G', 'D']","{'Em': 34, 'C': 34, 'G': 33, 'D': 33}",91 bpm
+130,I Like It Chords,Key Not Find,no capo,"['G', 'Em', 'C', 'D', 'Am', 'Bm']","{'G': 26, 'Em': 9, 'C': 23, 'D': 18, 'Am': 6, 'Bm': 2}",NF
+134,Rude Boy Chords,Key Not Find,6th fret,"['Am', 'Em', 'F', 'Dm', 'C', 'G']","{'Am': 3, 'Em': 3, 'F': 4, 'Dm': 7, 'C': 3, 'G': 4}",NF
+180,Down Acoustic Chords,Key Not Find,4th fret,"['G', 'Em', 'D/F#', 'Cadd9', 'D']","{'G': 22, 'Em': 17, 'D/F#': 13, 'Cadd9': 10, 'D': 2}",NF
+147,Ridin Solo Chords,Key Not Find,no capo,"['E', 'Bm', 'D', 'A']","{'E': 39, 'Bm': 37, 'D': 37, 'A': 36}",90 bpm
+47,Alarm Chords,Key Not Find,no capo,"['Am', 'C', 'G', 'F', 'Em']","{'Am': 25, 'C': 23, 'G': 25, 'F': 22, 'Em': 2}",NF
+300,Dark Red Chords,Key Not Find,no capo,"['Bb', 'Abm', 'Gb', 'B7', 'Bmaj7', 'Bbm7', 'Am7', 'Abm7', 'Ebm', 'Db', 'B', 'Bbm']","{'Bb': 21, 'Abm': 21, 'Gb': 21, 'B7': 21, 'Bmaj7': 21, 'Bbm7': 1, 'Am7': 5, 'Abm7': 5, 'Ebm': 5, 'Db': 5, 'B': 5, 'Bbm': 9}",86 bpm
+148,Just A Dream Chords,Key Not Find,4th fret,"['Em', 'C', 'G', 'D', 'Am']","{'Em': 21, 'C': 19, 'G': 20, 'D': 20, 'Am': 1}",NF
+49,Personal Acoustic Chords,Key Not Find,5th fret,"['G', 'F', 'Am', 'Em', 'C', 'Dm']","{'G': 21, 'F': 17, 'Am': 18, 'Em': 4, 'C': 15, 'Dm': 2}",NF
+50,Barcelona Chords,Key Not Find,1st fret,"['C', 'Am', 'G', 'F']","{'C': 34, 'Am': 34, 'G': 37, 'F': 37}",NF
+124,Omg Chords,Key Not Find,no capo,"['Em', 'D', 'Bm7', 'C']","{'Em': 34, 'D': 34, 'Bm7': 32, 'C': 32}",130 bpm
+44,I Dont Wanna Live Forever Chords,Key Not Find,3rd fret,"['C', 'G', 'D', 'Em7']","{'C': 32, 'G': 27, 'D': 28, 'Em7': 28}",NF
+51,Chhichhore - Khairiyat Chords,Key Not Find,3rd fret,"['Am', 'F', 'D', 'G', 'E', 'Dm', 'E7', 'Em', 'C']","{'Am': 22, 'F': 27, 'D': 3, 'G': 19, 'E': 8, 'Dm': 13, 'E7': 7, 'Em': 15, 'C': 7}",NF
+181,Bulletproof Chords,Key Not Find,1st fret,"['Bm', 'E', 'G', 'D', 'Em', 'A', 'Dm', 'Bb', 'F', 'Gm', 'C']","{'Bm': 20, 'E': 13, 'G': 32, 'D': 14, 'Em': 6, 'A': 2, 'Dm': 20, 'Bb': 19, 'F': 14, 'Gm': 6, 'C': 2}",123 bpm
+55,Alarm Chords,Key Not Find,no capo,"['Am', 'C', 'G', 'F', 'Em']","{'Am': 25, 'C': 23, 'G': 25, 'F': 22, 'Em': 2}",NF
+125,Airplanes Chords,Key Not Find,2nd fret,"['Em', 'C', 'G']","{'Em': 34, 'C': 34, 'G': 32}",NF
+63,Chhichhore - Khairiyat Chords,Key Not Find,3rd fret,"['Am', 'F', 'D', 'G', 'E', 'Dm', 'E7', 'Em', 'C']","{'Am': 22, 'F': 27, 'D': 3, 'G': 19, 'E': 8, 'Dm': 13, 'E7': 7, 'Em': 15, 'C': 7}",NF
+182,Whatcha Say Chords,Key Not Find,4th fret,"['C', 'G', 'Em', 'D']","{'C': 29, 'G': 29, 'Em': 26, 'D': 24}",NF
+58,Can We Dance Chords,Key Not Find,4th fret,"['F', 'G', 'Em', 'Am', 'C']","{'F': 30, 'G': 30, 'Em': 25, 'Am': 25, 'C': 5}",NF
+62,Ae Dil Hai Mushkil - Channa Mereya Chords,Key Not Find,no capo,"['Am', 'Fmaj7', 'Dm7', 'C', 'G']","{'Am': 19, 'Fmaj7': 16, 'Dm7': 16, 'C': 16, 'G': 16}",90 bpm
+59,Firefly Chords,Key Not Find,no capo,"['E', 'A', 'C#m', 'B']","{'E': 30, 'A': 27, 'C#m': 27, 'B': 31}",NF
+250,No Se Va Chords,Key Not Find,no capo,"['F', 'Am', 'C', 'G']","{'F': 16, 'Am': 19, 'C': 16, 'G': 16}",NF
+60,Save Myself Chords,Key Not Find,3rd fret,"['G', 'D', 'Em', 'C', 'B7', 'Am/E', 'G/B', 'D/F#']","{'G': 29, 'D': 31, 'Em': 18, 'C': 34, 'B7': 3, 'Am/E': 16, 'G/B': 6, 'D/F#': 6}",NF
+179,Havent Met You Yet Chords,Key Not Find,1st fret,"['C', 'F', 'Dm7', 'Am', 'G', 'Em', 'D', 'A', 'Bm', 'F#m']","{'C': 8, 'F': 12, 'Dm7': 18, 'Am': 11, 'G': 36, 'Em': 16, 'D': 15, 'A': 20, 'Bm': 11, 'F#m': 2}",123 bpm
+146,Find Your Love Chords,Key Not Find,2nd fret,"['Cmaj7', 'G/B', 'Em', 'D', 'G', 'Am7', 'Em7', 'Am']","{'Cmaj7': 5, 'G/B': 4, 'Em': 24, 'D': 37, 'G': 5, 'Am7': 12, 'Em7': 4, 'Am': 3}",NF
+26,Runaway Chords,Key Not Find,4th fret,"['Em', 'C', 'G', 'Am', 'D', 'B7']","{'Em': 43, 'C': 28, 'G': 34, 'Am': 12, 'D': 9, 'B7': 3}",NF
+27,Nothing Like Us Chords,Key Not Find,no capo,"['Am', 'G', 'F', 'C']","{'Am': 16, 'G': 25, 'F': 16, 'C': 7}",NF
+28,Common Denominator Chords,Key Not Find,no capo,"['Em', 'Am', 'G', 'D']","{'Em': 5, 'Am': 5, 'G': 5, 'D': 5}",NF
+29,Happier Than Ever Album Chords,Key Not Find,no capo,"['B', 'E', 'G', 'D', 'Em', 'C', 'Am', 'Dm', 'Cmaj7', 'C7', 'Fmaj7', 'Dm7b5', 'Fm', 'E7', 'Am/G', 'Bm', 'B7', 'A', 'Cm', 'Gm', 'F', 'F#m', 'A6', 'C#7', 'A7', 'G7']","{'B': 1, 'E': 1, 'G': 233, 'D': 96, 'Em': 402, 'C': 83, 'Am': 159, 'Dm': 43, 'Cmaj7': 10, 'C7': 8, 'Fmaj7': 58, 'Dm7b5': 6, 'Fm': 6, 'E7': 37, 'Am/G': 2, 'Bm': 49, 'B7': 14, 'A': 62, 'Cm': 6, 'Gm': 6, 'F': 22, 'F#m': 24, 'A6': 6, 'C#7': 3, 'A7': 10, 'G7': 1}",NF
+118,Love Me Like You Do Chords,Key Not Find,no capo,"['C', 'G', 'Am', 'F']","{'C': 18, 'G': 23, 'Am': 23, 'F': 18}",95 bpm
+30,2 States - Mast Magan Chords,Key Not Find,no capo,"['C', 'G', 'Em', 'D', 'Dm', 'Am', 'G/D']","{'C': 12, 'G': 28, 'Em': 8, 'D': 14, 'Dm': 4, 'Am': 10, 'G/D': 1}",83 bpm
+129,Nothin On You Acoustic Chords,Key Not Find,no capo,"['Ebmaj7', 'Cm7', 'Dbm7', 'Dm7', 'F', 'Dm']","{'Ebmaj7': 5, 'Cm7': 5, 'Dbm7': 5, 'Dm7': 3, 'F': 5, 'Dm': 2}",NF
+31,Aashiqui 2 - Aasan Nahin Yahan Chords,Key Not Find,no capo,"['A#m', 'G#', 'F#']","{'A#m': 10, 'G#': 11, 'F#': 7}",NF
+178,Carry Out Chords,Key Not Find,1st fret,"['Dm', 'Bb', 'C']","{'Dm': 25, 'Bb': 12, 'C': 12}",NF
+121,Pillowtalk Chords,Key Not Find,4th fret,"['C', 'D', 'Em', 'G']","{'C': 26, 'D': 29, 'Em': 9, 'G': 11}",NF
+161,Broken Angel Chords,Key Not Find,6th fret,"['Am', 'F', 'G', 'Em']","{'Am': 20, 'F': 18, 'G': 18, 'Em': 18}",NF
+173,Alone Chords,Key Not Find,3rd fret,"['Em', 'C', 'G', 'D']","{'Em': 14, 'C': 14, 'G': 14, 'D': 14}",97 bpm
+285,Wheres My Love Chords,Key Not Find,3rd fret,"['Am', 'C', 'F', 'Dm', 'G', 'Em']","{'Am': 22, 'C': 21, 'F': 26, 'Dm': 18, 'G': 5, 'Em': 5}",105 bpm
+152,Love Me Like You Do Chords,Key Not Find,no capo,"['C', 'G', 'Am', 'F']","{'C': 18, 'G': 23, 'Am': 23, 'F': 18}",95 bpm
+85,Summer Of Love Chords,Key Not Find,4th fret,"['G', 'Em', 'Bm', 'D']","{'G': 23, 'Em': 23, 'Bm': 23, 'D': 21}",NF
+135,Teenage Dream Chords,Key Not Find,3rd fret,"['Cmaj7', 'Em', 'G', 'D']","{'Cmaj7': 11, 'Em': 11, 'G': 11, 'D': 11}",112 bpm
+290,The Perfect Pair Chords,Key Not Find,no capo,"['G#m', 'G#mmaj7', 'G#m7', 'Emaj7/F', 'Emaj7', 'Emaj7/B', 'Emaj7/Ab']","{'G#m': 12, 'G#mmaj7': 12, 'G#m7': 11, 'Emaj7/F': 11, 'Emaj7': 10, 'Emaj7/B': 10, 'Emaj7/Ab': 9}",NF
+177,How Low Chords,Key Not Find,no capo,"['Am', 'E', 'F', 'C', 'G']","{'Am': 26, 'E': 10, 'F': 5, 'C': 3, 'G': 3}",NF
+128,Break Your Heart Chords,Key Not Find,3rd fret,"['Am', 'F', 'C', 'Em', 'G']","{'Am': 40, 'F': 40, 'C': 39, 'Em': 39, 'G': 4}",NF
+52,Give Me Time Chords,Key Not Find,no capo,"['Em', 'A', 'D', 'G6', 'G', 'Bm']","{'Em': 16, 'A': 18, 'D': 10, 'G6': 7, 'G': 2, 'Bm': 4}",79 bpm

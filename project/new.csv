@@ -1,0 +1,32 @@
+Song_Name,Tuning,Key,Capo,Chord,Frequency_map_of_each_chord,BPM,LG#el
+The Water Fountain Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C#,1st fret,"['C', 'Am', 'G', 'D', 'Em']","{'C': 14, 'Am': 14, 'G': 12, 'D': 14, 'Em': 2}",67 bpm,negative
+Havana Chords,"['E', 'A', 'D', 'G', 'B', 'E']",Gm,3rd fret,"['Em', 'C', 'B7']","{'Em': 48, 'C': 44, 'B7': 46}",105 F#pm,negative
+Shape Of You Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C#m,2nd fret,"['Bm', 'Em', 'G', 'A']","{'Bm': 44, 'Em': 42, 'G': 42, 'A': 40}",96 bpm,positive
+Adore You Chords,"['E', 'A', 'D', 'G', 'B', 'E']",Cm,3rd fret,"['Am7', 'C', 'Fmaj7', 'G']","{'Am7': 22, 'C': 22, 'Fmaj7': 22, 'G': 20}",99 bpm,positive
+Galway Girl Chords,"['E', 'A', 'D', 'G', 'B', 'E']",F#m,2nd fret,"['Em', 'G', 'D', 'Cadd9', 'C', 'Am7']","{'Em': 26, 'G': 36, 'D': 34, 'Cadd9': 16, 'C': 14, 'Am7': 2}",100 bpm,positive
+Oh My God Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C,3rd fret,"['F', 'Dm', 'C', 'G']","{'F': 15, 'Dm': 15, 'C': 28, 'G': 1}",78 bpm,negative
+Comethru Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C,no capo,"['Cmaj7', 'Am7', 'F', 'G', 'Am7/G', 'Fmaj7', 'G/B']","{'Cmaj7': 16, 'Am7': 18, 'F': 14, 'G': 16, 'Am7/G': 5, 'Fmaj7': 4, 'G/B': 1}",94 bpm,positive
+Little Things Chords,"['E', 'A', 'D', 'G', 'B', 'E']",G,no capo,"['G', 'C', 'Em', 'D', 'Am']","{'G': 18, 'C': 30, 'Em': 15, 'D': 22, 'Am': 12}",110 bpm,positive
+Sucker Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C#m,no capo,"['C#m', 'E', 'B', 'G#', 'F#m', 'A']","{'C#m': 38, 'E': 37, 'B': 43, 'G#': 19, 'F#m': 12, 'A': 12}",138 bpm,positive
+Wake Me Up Chords,"['E', 'A', 'D', 'G', 'B', 'E']",Bm,no capo,"['Bm', 'G', 'D', 'A', 'F#']","{'Bm': 38, 'G': 38, 'D': 38, 'A': 38, 'F#': 1}",124 bpm,positive
+Falling Chords,"['E', 'A', 'D', 'G', 'B', 'E']",E,no capo,"['E', 'C#m', 'B', 'A', 'G#m']","{'E': 13, 'C#m': 13, 'B': 12, 'A': 13, 'G#m': 11}",110 bpm,negative
+10000 Hours Chords,"['E', 'A', 'D', 'G', 'B', 'E']",A#,3rd fret,"['G', 'Bm', 'G/B', 'Em', 'C']","{'G': 59, 'Bm': 3, 'G/B': 6, 'Em': 24, 'C': 34}",90 bpm,positive
+Perfect Chords,"['E', 'A', 'D', 'G', 'B', 'E']",G#,1st fret,"['G', 'Em', 'C', 'D', 'D/F#', 'G/B', 'Dsus4']","{'G': 30, 'Em': 23, 'C': 24, 'D': 26, 'D/F#': 2, 'G/B': 1, 'Dsus4': 1}",64 bpm,positive
+Something Just Like This Chords,"['E', 'A', 'D', 'G', 'B', 'E']",G,no capo,"['G', 'A', 'Bm', 'D/F#', 'Bsus4', 'D', 'Dmaj7']","{'G': 56, 'A': 95, 'Bm': 54, 'D/F#': 7, 'Bsus4': 2, 'D': 3, 'Dmaj7': 8}",103 bpm,positive
+Lights Up Chords,"['E', 'A', 'D', 'G', 'B', 'E']",D#m,6th fret,"['Em', 'D', 'Dsus4', 'C/E', 'Am7', 'E', 'C']","{'Em': 12, 'D': 27, 'Dsus4': 12, 'C/E': 3, 'Am7': 10, 'E': 15, 'C': 9}",102 bpm,positive
+Two Ghosts Chords,"['E', 'A', 'D', 'G', 'B', 'E']",E,no capo,"['E', 'F#m11', 'G#m6', 'A', 'C#m', 'B', 'Bm']","{'E': 23, 'F#m11': 25, 'G#m6': 16, 'A': 19, 'C#m': 9, 'B': 9, 'Bm': 3}",80 bpm,negative
+Little Things Chords,"['E', 'A', 'D', 'G', 'B', 'E']",G,no capo,"['G', 'C', 'Em', 'D', 'Am']","{'G': 18, 'C': 30, 'Em': 15, 'D': 22, 'Am': 12}",110 bpm,positive
+Love Story Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C,2nd fret,"['C', 'G', 'Am', 'F', 'D', 'A', 'Bm']","{'C': 14, 'G': 23, 'Am': 15, 'F': 18, 'D': 3, 'A': 3, 'Bm': 2}",119 bpm,positive
+I Dont Care Chords,"['E', 'A', 'D', 'G', 'B', 'E']",F#,2nd fret,"['E', 'C#m', 'A', 'B']","{'E': 23, 'C#m': 11, 'A': 11, 'B': 11}",102 bpm,positive
+Beautiful People Chords,"['E', 'A', 'D', 'G', 'B', 'E']",Cm,3rd fret,"['C', 'Am', 'F']","{'C': 22, 'Am': 17, 'F': 29}",90 bpm,positive
+Castle On The Hill Chords,"['E', 'A', 'D', 'G', 'B', 'E']",D,no capo,"['D', 'G', 'Bm', 'D/F#', 'A', 'A7sus4', 'Bm7#5']","{'D': 42, 'G': 45, 'Bm': 34, 'D/F#': 28, 'A': 17, 'A7sus4': 24, 'Bm7#5': 1}",145 bpm,positive
+Dive Chords,"['E', 'A', 'D', 'G', 'B', 'E']",E,no capo,"['E', 'C#m', 'A', 'B', 'G#m', 'B/D#']","{'E': 17, 'C#m': 23, 'A': 21, 'B': 20, 'G#m': 3, 'B/D#': 5}",135 bpm,negative
+Galway Girl Chords,"['E', 'A', 'D', 'G', 'B', 'E']",F#m,2nd fret,"['Em', 'G', 'D', 'Cadd9', 'C', 'Am7']","{'Em': 26, 'G': 36, 'D': 34, 'Cadd9': 16, 'C': 14, 'Am7': 2}",100 bpm,positive
+How Would You Feel Paean Chords,"['E', 'A', 'D', 'G', 'B', 'E']",G,2nd fret,"['G', 'Bm7', 'C', 'Bm', 'Em', 'A7', 'D', 'Am']","{'G': 32, 'Bm7': 32, 'C': 32, 'Bm': 4, 'Em': 4, 'A7': 4, 'D': 7, 'Am': 4}",70 bpm,positive
+Give Me Love Chords,"['E', 'A', 'D', 'G', 'B', 'E']",Am,2nd fret,"['G#m7', 'E', 'B5', 'Bmaj7', 'B7+', 'C#m', 'B', 'F#', 'G#m']","{'G#m7': 11, 'E': 32, 'B5': 11, 'Bmaj7': 9, 'B7+': 2, 'C#m': 13, 'B': 15, 'F#': 24, 'G#m': 22}",117 bpm,negative
+Shivers Chords,['https://www.youtube.com/watch?v=Il0S8BoucSA'],Bm,2nd fret,"['F', 'Am', 'C', 'G']","{'F': 16, 'Am': 15, 'C': 15, 'G': 16}",141 bpm,positive
+Supermarket Flowers Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C,6th fret,"['C', 'Dm', 'Em', 'F', 'Am', 'G', 'Dm7', 'Fadd9']","{'C': 38, 'Dm': 5, 'Em': 20, 'F': 36, 'Am': 11, 'G': 25, 'Dm7': 3, 'Fadd9': 2}",90 bpm,positive
+Tenerife Sea Chords,"['E', 'A', 'D', 'G', 'B', 'E']",F#,4th fret,"['E', 'F#m', 'A', 'B', 'C#m']","{'E': 38, 'F#m': 28, 'A': 43, 'B': 16, 'C#m': 7}",120 bpm,positve
+Kho Gaye Hum Kaha Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C#,1st fret,"['C', 'F', 'G', 'E7']","{'C': 26, 'F': 26, 'G': 20, 'E7': 4}",100 bpm,positive
+Kasoor Chords,['https://www.youtube.com/watch?v=RE7pj3n-6vw'],F#,6th fret,"['C', 'G/B', 'F', 'G', 'Dm7', 'Am7']","{'C': 30, 'G/B': 11, 'F': 17, 'G': 15, 'Dm7': 2, 'Am7': 10}",106 bpm,positive
+IdontwannG#eyouanymore Chords,"['E', 'A', 'D', 'G', 'B', 'E']",C,no capo,"['Cmaj7', 'Gmaj7', 'Am', 'Dsus2', 'D', 'B7', 'Em', 'Emadd9']","{'Cmaj7': 13, 'Gmaj7': 12, 'Am': 9, 'Dsus2': 4, 'D': 7, 'B7': 6, 'Em': 1, 'Emadd9': 1}",57 bpm,negative
